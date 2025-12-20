@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Explosion de nomenclature</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+select, button {
+    width: 300px;
+    margin-top: 10px;
+}
+table {
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+th, td {
+    border: 1px solid #aaa;
+    padding: 6px 12px;
+}
+th {
+    background: #eee;
+}
+</style>
+</head>
+
+<body>
+
+<h2>Explosion de nomenclature (BOM)</h2>
+
+<p>Sélectionne un ou plusieurs items :</p>
+
+<select id="itemSelect" multiple size="8"></select><br>
+
+<button onclick="explodeBOM()">Calculer BOM</button>
+
+<h3>Résultat</h3>
+
+<table>
+<thead>
+<tr>
+    <th>Composant</th>
+    <th>Quantité totale</th>
+</tr>
+</thead>
+<tbody id="resultBody"></tbody>
+</table>
+
+<script>
+let items = [];
+
+// Chargement du JSON
+fetch("items.json")
+    .then(response => response.json())
+    .then(data => {
+        items = data;
+        remplirListe();
+    })
+    .catch(err => alert("Erreur de chargement du fichier JSON"));
+
+// Remplit la liste déroulante
+function remplirListe() {
+    const select = document.getElementById("itemSelect");
+    items.forEach(it => {
+        const option = document.createElement("option");
+        option.value = it.item;
+        option.textContent = it.item;
+        select.appendChild(option);
+    });
+}
+
+// Fonction récursive BOM
+function trouverComposants(itemName, resultats, quantite = 1) {
+    const item = items.find(i => i.item === itemName);
+
+    if (!item) {
+        resultats[itemName] = (resultats[itemName] || 0) + quantite;
+        return;
+    }
+
+    item.components.forEach(c => {
+        trouverComposants(c.name, resultats, quantite * c.qty);
+    });
+}
+
+// Lance l'explosion
+function explodeBOM() {
+    const select = document.getElementById("itemSelect");
+    const selection = Array.from(select.selectedOptions).map(o => o.value);
+
+    if (selection.length === 0) {
+        alert("Sélectionne au moins un item.");
+        return;
+    }
+
+    const resultats = {};
+
+    selection.forEach(item => {
+        trouverComposants(item, resultats, 1);
+    });
+
+    afficherResultats(resultats);
+}
+
+// Affiche le tableau
+function afficherResultats(data) {
+    const body = document.getElementById("resultBody");
+    body.innerHTML = "";
+
+    for (const comp in data) {
+        const tr = document.createElement("tr");
+        tr.innerHTML = `<td>${comp}</td><td>${data[comp]}</td>`;
+        body.appendChild(tr);
+    }
+}
+</script>
+
+</body>
+</html>
