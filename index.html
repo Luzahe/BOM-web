@@ -2,121 +2,165 @@
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
-<title>Explosion de nomenclature</title>
-
+<title>BOM Calculator</title>
 <style>
-body {
-    font-family: Arial, sans-serif;
-    margin: 20px;
-}
-select, button {
-    width: 300px;
-    margin-top: 10px;
-}
-table {
-    border-collapse: collapse;
-    margin-top: 20px;
-}
-th, td {
-    border: 1px solid #aaa;
-    padding: 6px 12px;
-}
-th {
-    background: #eee;
-}
+  body { font-family: Arial, sans-serif; padding: 20px; }
+  h1 { text-align: center; }
+  input[type="text"] { width: 300px; padding: 5px; margin-bottom: 10px; }
+  button { padding: 5px 10px; margin-left: 10px; }
+  ul { list-style: none; padding: 0; max-height: 300px; overflow-y: auto; border: 1px solid #ccc; }
+  li { padding: 5px; cursor: pointer; }
+  li.selected { background-color: #add8e6; }
+  table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+  th, td { border: 1px solid #ccc; padding: 5px; text-align: left; }
+  th { background-color: #f0f0f0; }
 </style>
 </head>
-
 <body>
 
-<h2>Explosion de nomenclature (BOM)</h2>
+<h1>BOM Calculator</h1>
 
-<p>Sélectionne un ou plusieurs items :</p>
+<label>Rechercher un item : </label>
+<input type="text" id="search" placeholder="Tapez un mot-clé...">
 
-<select id="itemSelect" multiple size="8"></select><br>
+<ul id="itemList"></ul>
 
-<button onclick="explodeBOM()">Calculer BOM</button>
+<button id="calculate">Calculer BOM</button>
 
-<h3>Résultat</h3>
-
-<table>
-<thead>
-<tr>
-    <th>Composant</th>
-    <th>Quantité totale</th>
-</tr>
-</thead>
-<tbody id="resultBody"></tbody>
+<h2>Résultat Agrégé</h2>
+<table id="resultTable">
+  <thead>
+    <tr><th>Composant</th><th>Quantité totale</th></tr>
+  </thead>
+  <tbody></tbody>
 </table>
 
+<h2>Détails par Item</h2>
+<div id="details"></div>
+
 <script>
+// Variables globales
 let items = [];
+let filteredItems = [];
+let selectedItems = [];
 
-// Chargement du JSON
+// Charger le JSON
 fetch("items.json")
-    .then(response => response.json())
-    .then(data => {
-        items = data;
-        remplirListe();
-    })
-    .catch(err => alert("Erreur de chargement du fichier JSON"));
+  .then(response => response.text())
+  .then(text => {
+      if (text.charCodeAt(0) === 0xFEFF) text = text.slice(1); // Supprimer BOM si présent
+      return JSON.parse(text);
+  })
+  .then(data => {
+      items = data;
+      filteredItems = items;
+      renderList();
+  })
+  .catch(err => console.error("Erreur JSON :", err));
 
-// Remplit la liste déroulante
-function remplirListe() {
-    const select = document.getElementById("itemSelect");
-    items.forEach(it => {
-        const option = document.createElement("option");
-        option.value = it.item;
-        option.textContent = it.item;
-        select.appendChild(option);
+// Affichage de la liste filtrée
+function renderList() {
+    const ul = document.getElementById("itemList");
+    ul.innerHTML = "";
+    filteredItems.forEach(it => {
+        const li = document.createElement("li");
+        li.textContent = it.item;
+        if (selectedItems.includes(it.item)) li.classList.add("selected");
+        li.addEventListener("click", () => toggleSelect(it.item));
+        ul.appendChild(li);
     });
 }
 
-// Fonction récursive BOM
-function trouverComposants(itemName, resultats, quantite = 1) {
-    const item = items.find(i => i.item === itemName);
+// Sélection / désélection
+function toggleSelect(itemName) {
+    if (selectedItems.includes(itemName)) {
+        selectedItems = selectedItems.filter(i => i !== itemName);
+    } else {
+        selectedItems.push(itemName);
+    }
+    renderList();
+}
 
-    if (!item) {
-        resultats[itemName] = (resultats[itemName] || 0) + quantite;
+// Recherche par mot-clé
+document.getElementById("search").addEventListener("input", function() {
+    const keyword = this.value.toLowerCase();
+    filteredItems = items.filter(it => it.item.toLowerCase().includes(keyword));
+    renderList();
+});
+
+// Calcul de la BOM
+document.getElementById("calculate").addEventListener("click", function() {
+    if (selectedItems.length === 0) {
+        alert("Sélectionnez au moins un item !");
         return;
     }
+    
+    const allComponents = {};
 
-    item.components.forEach(c => {
-        trouverComposants(c.name, resultats, quantite * c.qty);
-    });
-}
-
-// Lance l'explosion
-function explodeBOM() {
-    const select = document.getElementById("itemSelect");
-    const selection = Array.from(select.selectedOptions).map(o => o.value);
-
-    if (selection.length === 0) {
-        alert("Sélectionne au moins un item.");
-        return;
+    // Fonction récursive pour trouver composants
+    function findComponents(itemName, qty = 1) {
+        const it = items.find(i => i.item === itemName);
+        if (!it) { // composant final
+            if (allComponents[itemName]) allComponents[itemName] += qty;
+            else allComponents[itemName] = qty;
+            return;
+        }
+        for (let c = 1; c <= 3; c++) {
+            const comp = it["compo" + c];
+            const q = Number(it["qte" + c]);
+            if (comp && comp.toUpperCase() !== "NULL") findComponents(comp, qty * (q || 1));
+        }
     }
 
-    const resultats = {};
+    // Calcul pour tous les items sélectionnés
+    selectedItems.forEach(it => findComponents(it));
 
-    selection.forEach(item => {
-        trouverComposants(item, resultats, 1);
-    });
-
-    afficherResultats(resultats);
-}
-
-// Affiche le tableau
-function afficherResultats(data) {
-    const body = document.getElementById("resultBody");
-    body.innerHTML = "";
-
-    for (const comp in data) {
+    // Affichage du tableau agrégé
+    const tbody = document.querySelector("#resultTable tbody");
+    tbody.innerHTML = "";
+    for (const [comp, qty] of Object.entries(allComponents)) {
         const tr = document.createElement("tr");
-        tr.innerHTML = `<td>${comp}</td><td>${data[comp]}</td>`;
-        body.appendChild(tr);
+        tr.innerHTML = `<td>${comp}</td><td>${qty}</td>`;
+        tbody.appendChild(tr);
     }
-}
-</script>
 
+    // Détails par item
+    const detailsDiv = document.getElementById("details");
+    detailsDiv.innerHTML = "";
+    selectedItems.forEach(itemName => {
+        const singleComponents = {};
+        findComponents(itemName, 1, singleComponents);
+        const itDiv = document.createElement("div");
+        itDiv.innerHTML = `<h3>Composants pour ${itemName}</h3>`;
+        const table = document.createElement("table");
+        table.innerHTML = "<tr><th>Composant</th><th>Quantité</th></tr>";
+        for (const [comp, qty] of Object.entries(singleComponents)) {
+            const tr = document.createElement("tr");
+            tr.innerHTML = `<td>${comp}</td><td>${qty}</td>`;
+            table.appendChild(tr);
+        }
+        itDiv.appendChild(table);
+        detailsDiv.appendChild(itDiv);
+    });
+
+    // Version récursive modifiée pour détail par item
+    function findComponents(itemName, qty = 1, compDict = null) {
+        const dict = compDict || allComponents;
+        const it = items.find(i => i.item === itemName);
+        if (!it) {
+            if (dict[itemName]) dict[itemName] += qty;
+            else dict[itemName] = qty;
+            return;
+        }
+        for (let c = 1; c <= 3; c++) {
+            const comp = it["compo" + c];
+            const q = Number(it["qte" + c]);
+            if (comp && comp.toUpperCase() !== "NULL") findComponents(comp, qty * (q || 1), dict);
+        }
+    }
+
+});
+</script>
 </body>
 </html>
+
