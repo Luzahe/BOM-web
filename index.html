@@ -4,18 +4,73 @@
 <meta charset="UTF-8">
 <title>BOM Calculator</title>
 <style>
-  body { font-family: Arial, sans-serif; padding: 20px; }
+  body { 
+    font-family: Arial, sans-serif; 
+    padding: 20px; 
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; /* centre tout horizontalement */
+  }
+
   h1 { text-align: center; }
-  select, input[type="text"] { padding: 5px; margin: 5px 10px 5px 0; }
-  button { padding: 5px 10px; margin-left: 10px; }
-  ul { list-style: none; padding: 0; max-height: 300px; overflow-y: auto; border: 1px solid #ccc; }
-  li { padding: 5px; cursor: pointer; }
-  li.selected { background-color: #add8e6; }
-  table { border-collapse: collapse; width: 100%; margin-top: 20px; }
-  th, td { border: 1px solid #ccc; padding: 5px; text-align: left; }
-  th { background-color: #f0f0f0; }
+
+  select, input[type="text"], button { 
+    padding: 5px; 
+    margin: 5px 10px 5px 0; 
+  }
+
+  ul { 
+    list-style: none; 
+    padding: 0; 
+    max-height: 300px; 
+    overflow-y: auto; 
+    border: 1px solid #ccc; 
+    width: 400px; /* fixe la largeur */
+  }
+
+  li { 
+    padding: 5px; 
+    cursor: pointer; 
+  }
+
+  li.selected { 
+    background-color: #add8e6; 
+  }
+
+  table { 
+    border-collapse: collapse; 
+    width: 80%;        /* réduit la largeur du tableau */
+    max-width: 600px;  /* largeur max */
+    margin-top: 20px; 
+    text-align: center; 
+  }
+
+  th, td { 
+    border: 1px solid #ccc; 
+    padding: 5px; 
+    text-align: center; 
+  }
+
+  th { 
+    background-color: #f0f0f0; 
+  }
+
+  /* Centre les sections filtres, recherche et boutons */
+  .filters, .search-section, #itemList, #buttons-section, #resultTable, #details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 600px; /* limite la largeur centrale */
+  }
+
+  /* Espacement vertical */
+  .filters > label, .search-section {
+    margin-bottom: 10px;
+  }
 </style>
 </head>
+
 <body>
 
 <h1>BOM Calculator</h1>
@@ -224,6 +279,7 @@ document.getElementById("calculate").addEventListener("click", function(){
 </script>
 </body>
 </html>
+
 
 
 
