@@ -103,7 +103,7 @@ function applyFilters() {
         const matchKeyword = it.item.toLowerCase().includes(keyword);
         const matchQualite = !qualite || it.qualite === qualite;
         const matchType = !type || it.type === type;
-        const matchNiveau = !niveau || it.niveau === niveau;
+        const matchNiveau = !niveau || Number(it.niveau) === Number(niveau);
         return matchKeyword && matchQualite && matchType && matchNiveau;
     });
 }
@@ -196,3 +196,4 @@ document.getElementById("calculate").addEventListener("click", function(){
 </script>
 </body>
 </html>
+
