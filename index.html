@@ -24,9 +24,9 @@
 <label>Qualité:
 <select id="filterQualite">
   <option value="">-- Tous --</option>
-  <option value="gold">Gold</option>
-  <option value="vio">Vio</option>
-  <option value="rouge">Rouge</option>
+  <option value="GOLD">Gold</option>
+  <option value="VIO">Violet</option>
+  <option value="ROUGE">Rouge</option>
 </select>
 </label>
 
@@ -101,9 +101,9 @@ function applyFilters() {
 
     filteredItems = items.filter(it => {
         const matchKeyword = it.item.toLowerCase().includes(keyword);
-        const matchQualite = !qualite || it.qualite.toLowerCase() === qualite.toLowerCase();
-        const matchType = !type || it.type.toLowerCase() === type.toLowerCase();
-        const matchNiveau = !niveau || it.niveau.toString() === niveau;
+        const matchQualite = !qualite || it.qualite === qualite;
+        const matchType = !type || it.type === type;
+        const matchNiveau = !niveau || it.niveau === niveau;
         return matchKeyword && matchQualite && matchType && matchNiveau;
     });
 }
@@ -196,5 +196,6 @@ document.getElementById("calculate").addEventListener("click", function(){
 </script>
 </body>
 </html>
+
 
 
