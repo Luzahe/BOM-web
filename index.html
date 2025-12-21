@@ -1,156 +1,130 @@
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
-<title>BOM Calculator</title>
+<title>BOM Web Multi-Filtres</title>
 <style>
   body { font-family: Arial, sans-serif; padding: 20px; }
-  h1 { text-align: center; }
-  input[type="text"] { width: 300px; padding: 5px; margin-bottom: 10px; }
-  button { padding: 5px 10px; margin-left: 10px; }
-  ul { list-style: none; padding: 0; max-height: 300px; overflow-y: auto; border: 1px solid #ccc; }
-  li { padding: 5px; cursor: pointer; }
-  li.selected { background-color: #add8e6; }
-  table { border-collapse: collapse; width: 100%; margin-top: 20px; }
-  th, td { border: 1px solid #ccc; padding: 5px; text-align: left; }
+  select { margin-right: 10px; min-width: 120px; }
+  table { border-collapse: collapse; margin-top: 20px; width: 60%; }
+  th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
   th { background-color: #f0f0f0; }
 </style>
 </head>
 <body>
 
-<h1>BOM Calculator</h1>
+<h2>Calculateur de BOM</h2>
 
-<label>Rechercher un item : </label>
-<input type="text" id="search" placeholder="Tapez un mot-clé...">
+<label>Qualité:
+<select id="filterQualite" multiple size="3">
+  <option value="gold">Gold</option>
+  <option value="vio">Vio</option>
+  <option value="rouge">Rouge</option>
+</select>
+</label>
 
-<ul id="itemList"></ul>
+<label>Type:
+<select id="filterType" multiple size="4">
+  <option value="Armes">Armes</option>
+  <option value="Armures">Armures</option>
+  <option value="Capes">Capes</option>
+  <option value="Accessoires">Accessoires</option>
+</select>
+</label>
 
-<button id="calculate">Calculer BOM</button>
-<button id="clearSelection">Tout désélectionner</button>
+<label>Niveau:
+<select id="filterNiveau" multiple size="10">
+  <option value="50">50</option>
+  <option value="60">60</option>
+  <option value="65">65</option>
+  <option value="70">70</option>
+  <option value="75">75</option>
+  <option value="80">80</option>
+  <option value="85">85</option>
+  <option value="90">90</option>
+  <option value="95">95</option>
+  <option value="100">100</option>
+</select>
+</label>
 
-<h2>Résultat Agrégé</h2>
+<button onclick="calculerBOM()">Calculer BOM</button>
+<button onclick="deselectionner()">Tout désélectionner</button>
+
 <table id="resultTable">
   <thead>
-    <tr><th>Composant</th><th>Quantité totale</th></tr>
+    <tr>
+      <th>Composant</th>
+      <th>Quantité totale</th>
+    </tr>
   </thead>
   <tbody></tbody>
 </table>
 
-<h2>Détails par Item</h2>
-<div id="details"></div>
-
 <script>
-// Variables globales
 let items = [];
-let filteredItems = [];
-let selectedItems = [];
 
-// Charger le JSON
-fetch("items.json")
-  .then(response => response.text())
-  .then(text => {
-      if (text.charCodeAt(0) === 0xFEFF) text = text.slice(1); // Supprimer BOM si présent
-      return JSON.parse(text);
-  })
-  .then(data => {
-      items = data;
-      filteredItems = items;
-      renderList();
-  })
-  .catch(err => console.error("Erreur JSON :", err));
+fetch('items.json')
+  .then(response => response.json())
+  .then(data => { items = data; })
+  .catch(err => alert('Erreur de chargement du JSON : ' + err));
 
-// Affichage de la liste filtrée
-function renderList() {
-    const ul = document.getElementById("itemList");
-    ul.innerHTML = "";
-    filteredItems.forEach(it => {
-        const li = document.createElement("li");
-        li.textContent = it.item;
-        if (selectedItems.includes(it.item)) li.classList.add("selected");
-        li.addEventListener("click", () => toggleSelect(it.item));
-        ul.appendChild(li);
-    });
+// Fonction pour récupérer toutes les valeurs sélectionnées d'un <select multiple>
+function getSelectedOptions(selectId) {
+  const select = document.getElementById(selectId);
+  const values = [];
+  for (const option of select.options) {
+    if (option.selected) values.push(option.value);
+  }
+  return values;
 }
 
-// Sélection / désélection
-function toggleSelect(itemName) {
-    if (selectedItems.includes(itemName)) {
-        selectedItems = selectedItems.filter(i => i !== itemName);
-    } else {
-        selectedItems.push(itemName);
+function calculerBOM() {
+  const qualites = getSelectedOptions('filterQualite');
+  const types = getSelectedOptions('filterType');
+  const niveaux = getSelectedOptions('filterNiveau');
+
+  const resultats = {};
+
+  items.forEach(item => {
+    if ((qualites.length === 0 || qualites.includes(item.qualite)) &&
+        (types.length === 0 || types.includes(item.type)) &&
+        (niveaux.length === 0 || niveaux.includes(item.niveau))) {
+
+      for (let i=1; i<=3; i++) {
+        const compo = item['compo'+i];
+        const qte = item['qte'+i];
+        if (compo && compo.toUpperCase() !== "NULL") {
+          if (resultats[compo]) resultats[compo] += Number(qte);
+          else resultats[compo] = Number(qte);
+        }
+      }
     }
-    renderList();
+  });
+
+  const tbody = document.querySelector('#resultTable tbody');
+  tbody.innerHTML = '';
+
+  for (const compo in resultats) {
+    const tr = document.createElement('tr');
+    const tdName = document.createElement('td');
+    tdName.textContent = compo;
+    const tdQte = document.createElement('td');
+    tdQte.textContent = resultats[compo];
+    tr.appendChild(tdName);
+    tr.appendChild(tdQte);
+    tbody.appendChild(tr);
+  }
 }
 
-// Recherche par mot-clé
-document.getElementById("search").addEventListener("input", function() {
-    const keyword = this.value.toLowerCase();
-    filteredItems = items.filter(it => it.item.toLowerCase().includes(keyword));
-    renderList();
-});
-
-// Calcul de la BOM
-document.getElementById("calculate").addEventListener("click", function() {
-    if (selectedItems.length === 0) {
-        alert("Sélectionnez au moins un item !");
-        return;
-    }
-    
-    const allComponents = {};
-
-    // Fonction récursive pour trouver composants
-    function findComponents(itemName, qty = 1, compDict = null) {
-        const dict = compDict || allComponents;
-        const it = items.find(i => i.item === itemName);
-        if (!it) {
-            if (dict[itemName]) dict[itemName] += qty;
-            else dict[itemName] = qty;
-            return;
-        }
-        for (let c = 1; c <= 3; c++) {
-            const comp = it["compo" + c];
-            const q = Number(it["qte" + c]);
-            if (comp && comp.toUpperCase() !== "NULL") findComponents(comp, qty * (q || 1), dict);
-        }
-    }
-
-    // Calcul pour tous les items sélectionnés
-    selectedItems.forEach(it => findComponents(it));
-
-    // Affichage du tableau agrégé
-    const tbody = document.querySelector("#resultTable tbody");
-    tbody.innerHTML = "";
-    for (const [comp, qty] of Object.entries(allComponents)) {
-        const tr = document.createElement("tr");
-        tr.innerHTML = `<td>${comp}</td><td>${qty}</td>`;
-        tbody.appendChild(tr);
-    }
-
-    // Détails par item
-    const detailsDiv = document.getElementById("details");
-    detailsDiv.innerHTML = "";
-    selectedItems.forEach(itemName => {
-        const singleComponents = {};
-        findComponents(itemName, 1, singleComponents);
-        const itDiv = document.createElement("div");
-        itDiv.innerHTML = `<h3>Composants pour ${itemName}</h3>`;
-        const table = document.createElement("table");
-        table.innerHTML = "<tr><th>Composant</th><th>Quantité</th></tr>";
-        for (const [comp, qty] of Object.entries(singleComponents)) {
-            const tr = document.createElement("tr");
-            tr.innerHTML = `<td>${comp}</td><td>${qty}</td>`;
-            table.appendChild(tr);
-        }
-        itDiv.appendChild(table);
-        detailsDiv.appendChild(itDiv);
-    });
-});
-
-// Tout désélectionner
-document.getElementById("clearSelection").addEventListener("click", function() {
-    selectedItems = [];
-    renderList();
-});
+function deselectionner() {
+  ['filterQualite', 'filterType', 'filterNiveau'].forEach(id => {
+    const select = document.getElementById(id);
+    for (const option of select.options) option.selected = false;
+  });
+  document.querySelector('#resultTable tbody').innerHTML = '';
+}
 </script>
+
 </body>
 </html>
