@@ -14,29 +14,29 @@
 
   h1 { text-align: center; }
 
-  /* Filtres sur une seule ligne */
+  /* Filtres sur une seule ligne et centrés */
   .filters {
     display: flex; 
     flex-wrap: wrap; 
-    gap: 10px;
-    margin-bottom: 10px;
+    gap: 15px;
     justify-content: center;
+    margin-bottom: 10px;
   }
 
   select, input[type="text"], button { 
     padding: 5px; 
-    margin: 0; 
     font-size: 14px;
   }
 
   #search {
-    width: 400px; /* plus large */
+    width: 500px; /* plus large */
     margin-bottom: 10px;
+    text-align: center;
   }
 
   .buttons-line {
     display: flex;
-    gap: 10px;
+    gap: 15px;
     margin-bottom: 10px;
     justify-content: center;
   }
@@ -46,14 +46,17 @@
     font-size: 16px;
   }
 
+  /* Liste des items */
   ul { 
     list-style: none; 
     padding: 0; 
     max-height: 300px; 
     overflow-y: auto; 
     border: 1px solid #ccc; 
-    width: 400px; 
+    width: 75%; 
+    max-width: 900px;
     margin-bottom: 10px;
+    text-align: center;
   }
 
   li { 
@@ -65,9 +68,10 @@
     background-color: #add8e6; 
   }
 
+  /* Tableaux */
   table { 
     border-collapse: collapse; 
-    width: 75%;        /* environ 3/4 de la largeur de l'écran */
+    width: 75%; 
     max-width: 900px;
     margin-top: 20px; 
     text-align: center; 
@@ -294,6 +298,7 @@ document.getElementById("calculate").addEventListener("click", function(){
 </script>
 </body>
 </html>
+
 
 
 
