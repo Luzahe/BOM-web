@@ -165,20 +165,41 @@ document.getElementById("calculate").addEventListener("click", function(){
     }
     selectedItems.forEach(it=>findComponents(it));
 
-    // Affichage agrégé
+    // Affichage agrégé avec case à cocher
     const tbody = document.querySelector("#resultTable tbody");
     tbody.innerHTML = "";
-    
+
+    // Ajouter l’en-tête pour la case à cocher
+    const thead = document.querySelector("#resultTable thead tr");
+    if(!thead.querySelector(".checkAll")) {
+        const thCheck = document.createElement("th");
+        thCheck.textContent = "Possédé";
+        thCheck.classList.add("checkAll");
+        thead.appendChild(thCheck);
+    }
+
     // Trier les composants par quantité décroissante
     const sortedComponents = Object.entries(allComponents)
         .sort((a, b) => b[1] - a[1]); // tri décroissant
 
-    // Affichage
+    // Affichage avec case
     sortedComponents.forEach(([comp, qty]) => {
         const tr = document.createElement("tr");
-        tr.innerHTML = `<td>${comp}</td><td>${qty}</td>`;
+        const tdComp = document.createElement("td");
+        tdComp.textContent = comp;
+        const tdQty = document.createElement("td");
+        tdQty.textContent = qty;
+        const tdCheck = document.createElement("td");
+        const checkbox = document.createElement("input");
+        checkbox.type = "checkbox";
+        tdCheck.appendChild(checkbox);
+
+        tr.appendChild(tdComp);
+        tr.appendChild(tdQty);
+        tr.appendChild(tdCheck);
         tbody.appendChild(tr);
     });
+
 
 
     // Détails par item
@@ -203,5 +224,6 @@ document.getElementById("calculate").addEventListener("click", function(){
 </script>
 </body>
 </html>
+
 
 
