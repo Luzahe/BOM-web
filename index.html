@@ -6,7 +6,7 @@
 <style>
   body { font-family: Arial, sans-serif; padding: 20px; }
   h1 { text-align: center; }
-  input[type="text"], select { width: 200px; padding: 5px; margin-bottom: 10px; margin-right: 10px; }
+  select, input[type="text"] { padding: 5px; margin: 5px 10px 5px 0; }
   button { padding: 5px 10px; margin-left: 10px; }
   ul { list-style: none; padding: 0; max-height: 300px; overflow-y: auto; border: 1px solid #ccc; }
   li { padding: 5px; cursor: pointer; }
@@ -14,16 +14,16 @@
   table { border-collapse: collapse; width: 100%; margin-top: 20px; }
   th, td { border: 1px solid #ccc; padding: 5px; text-align: left; }
   th { background-color: #f0f0f0; }
-  label { display: inline-block; margin-bottom: 5px; }
 </style>
 </head>
 <body>
 
 <h1>BOM Calculator</h1>
 
-<!-- Filtres présélection -->
+<!-- Filtres déroulants -->
 <label>Qualité:
-<select id="filterQualite" multiple size="3">
+<select id="filterQualite">
+  <option value="">-- Tous --</option>
   <option value="gold">Gold</option>
   <option value="vio">Vio</option>
   <option value="rouge">Rouge</option>
@@ -31,7 +31,8 @@
 </label>
 
 <label>Type:
-<select id="filterType" multiple size="4">
+<select id="filterType">
+  <option value="">-- Tous --</option>
   <option value="Armes">Armes</option>
   <option value="Armures">Armures</option>
   <option value="Capes">Capes</option>
@@ -40,7 +41,8 @@
 </label>
 
 <label>Niveau:
-<select id="filterNiveau" multiple size="10">
+<select id="filterNiveau">
+  <option value="">-- Tous --</option>
   <option value="50">50</option>
   <option value="60">60</option>
   <option value="65">65</option>
@@ -55,15 +57,14 @@
 </label>
 
 <br>
-
-<!-- Recherche texte -->
 <label>Rechercher un item : </label>
 <input type="text" id="search" placeholder="Tapez un mot-clé...">
 
 <ul id="itemList"></ul>
 
-<button id="calculate">Calculer BOM</button>
+<button id="selectAll">Tout sélectionner</button>
 <button id="clearSelection">Tout désélectionner</button>
+<button id="calculate">Calculer BOM</button>
 
 <h2>Résultat Agrégé</h2>
 <table id="resultTable">
@@ -81,45 +82,33 @@ let items = [];
 let filteredItems = [];
 let selectedItems = [];
 
-// Charger le JSON
+// Charger JSON
 fetch("items.json")
-  .then(response => response.text())
+  .then(res => res.text())
   .then(text => {
-      if (text.charCodeAt(0) === 0xFEFF) text = text.slice(1); // Supprimer BOM si présent
+      if(text.charCodeAt(0) === 0xFEFF) text = text.slice(1);
       return JSON.parse(text);
   })
-  .then(data => {
-      items = data;
-      filteredItems = items;
-      renderList();
-  })
+  .then(data => { items = data; renderList(); })
   .catch(err => console.error("Erreur JSON :", err));
 
-// Fonctions utilitaires
-function getSelectedOptions(id) {
-  const select = document.getElementById(id);
-  const values = [];
-  for (const option of select.options) if (option.selected) values.push(option.value);
-  return values;
-}
-
-// Filtrer les items selon la recherche ET les filtres
+// Filtrage
 function applyFilters() {
-  const keyword = document.getElementById("search").value.toLowerCase();
-  const qualites = getSelectedOptions("filterQualite");
-  const types = getSelectedOptions("filterType");
-  const niveaux = getSelectedOptions("filterNiveau");
+    const keyword = document.getElementById("search").value.toLowerCase();
+    const qualite = document.getElementById("filterQualite").value;
+    const type = document.getElementById("filterType").value;
+    const niveau = document.getElementById("filterNiveau").value;
 
-  filteredItems = items.filter(it => {
-    const matchesSearch = it.item.toLowerCase().includes(keyword);
-    const matchesQualite = qualites.length === 0 || qualites.includes(it.qualite);
-    const matchesType = types.length === 0 || types.includes(it.type);
-    const matchesNiveau = niveaux.length === 0 || niveaux.includes(it.niveau);
-    return matchesSearch && matchesQualite && matchesType && matchesNiveau;
-  });
+    filteredItems = items.filter(it => {
+        const matchKeyword = it.item.toLowerCase().includes(keyword);
+        const matchQualite = !qualite || it.qualite === qualite;
+        const matchType = !type || it.type === type;
+        const matchNiveau = !niveau || it.niveau === niveau;
+        return matchKeyword && matchQualite && matchType && matchNiveau;
+    });
 }
 
-// Affichage de la liste filtrée
+// Affichage de la liste
 function renderList() {
     applyFilters();
     const ul = document.getElementById("itemList");
@@ -127,87 +116,82 @@ function renderList() {
     filteredItems.forEach(it => {
         const li = document.createElement("li");
         li.textContent = it.item;
-        if (selectedItems.includes(it.item)) li.classList.add("selected");
+        if(selectedItems.includes(it.item)) li.classList.add("selected");
         li.addEventListener("click", () => toggleSelect(it.item));
         ul.appendChild(li);
     });
 }
 
-// Sélection / désélection
-function toggleSelect(itemName) {
-    if (selectedItems.includes(itemName)) {
-        selectedItems = selectedItems.filter(i => i !== itemName);
-    } else {
-        selectedItems.push(itemName);
-    }
+// Sélection/désélection manuelle
+function toggleSelect(itemName){
+    if(selectedItems.includes(itemName)) selectedItems = selectedItems.filter(i=>i!==itemName);
+    else selectedItems.push(itemName);
     renderList();
 }
 
-// Recherche texte
+// Événements filtres et recherche
 document.getElementById("search").addEventListener("input", renderList);
 document.getElementById("filterQualite").addEventListener("change", renderList);
 document.getElementById("filterType").addEventListener("change", renderList);
 document.getElementById("filterNiveau").addEventListener("change", renderList);
 
+// Bouton tout sélectionner
+document.getElementById("selectAll").addEventListener("click", () => {
+    filteredItems.forEach(it => {
+        if(!selectedItems.includes(it.item)) selectedItems.push(it.item);
+    });
+    renderList();
+});
+
+// Bouton tout désélectionner
+document.getElementById("clearSelection").addEventListener("click", () => {
+    selectedItems=[];
+    renderList();
+});
+
 // Calcul BOM
-document.getElementById("calculate").addEventListener("click", function() {
-    if (selectedItems.length === 0) {
-        alert("Sélectionnez au moins un item !");
-        return;
-    }
-
+document.getElementById("calculate").addEventListener("click", function(){
+    if(selectedItems.length === 0){ alert("Sélectionnez au moins un item !"); return; }
     const allComponents = {};
-
-    function findComponents(itemName, qty = 1, compDict = null) {
-        const dict = compDict || allComponents;
-        const it = items.find(i => i.item === itemName);
-        if (!it) {
-            if (dict[itemName]) dict[itemName] += qty;
-            else dict[itemName] = qty;
-            return;
-        }
-        for (let c = 1; c <= 3; c++) {
-            const comp = it["compo" + c];
-            const q = Number(it["qte" + c]);
-            if (comp && comp.toUpperCase() !== "NULL") findComponents(comp, qty * (q || 1), dict);
+    function findComponents(itemName, qty=1, dict=null){
+        const d = dict||allComponents;
+        const it = items.find(i=>i.item===itemName);
+        if(!it){ d[itemName] = (d[itemName]||0)+qty; return; }
+        for(let c=1;c<=3;c++){
+            const comp = it["compo"+c];
+            const q = Number(it["qte"+c]);
+            if(comp && comp.toUpperCase()!=="NULL") findComponents(comp, qty*(q||1), d);
         }
     }
+    selectedItems.forEach(it=>findComponents(it));
 
-    selectedItems.forEach(it => findComponents(it));
-
-    // Affichage du tableau agrégé
+    // Affichage agrégé
     const tbody = document.querySelector("#resultTable tbody");
     tbody.innerHTML = "";
-    for (const [comp, qty] of Object.entries(allComponents)) {
+    Object.entries(allComponents).forEach(([comp, qty])=>{
         const tr = document.createElement("tr");
-        tr.innerHTML = `<td>${comp}</td><td>${qty}</td>`;
+        tr.innerHTML=`<td>${comp}</td><td>${qty}</td>`;
         tbody.appendChild(tr);
-    }
+    });
 
     // Détails par item
     const detailsDiv = document.getElementById("details");
-    detailsDiv.innerHTML = "";
-    selectedItems.forEach(itemName => {
-        const singleComponents = {};
-        findComponents(itemName, 1, singleComponents);
+    detailsDiv.innerHTML="";
+    selectedItems.forEach(itemName=>{
+        const singleComponents={};
+        findComponents(itemName,1,singleComponents);
         const itDiv = document.createElement("div");
-        itDiv.innerHTML = `<h3>Composants pour ${itemName}</h3>`;
-        const table = document.createElement("table");
-        table.innerHTML = "<tr><th>Composant</th><th>Quantité</th></tr>";
-        for (const [comp, qty] of Object.entries(singleComponents)) {
-            const tr = document.createElement("tr");
-            tr.innerHTML = `<td>${comp}</td><td>${qty}</td>`;
+        itDiv.innerHTML=`<h3>Composants pour ${itemName}</h3>`;
+        const table=document.createElement("table");
+        table.innerHTML="<tr><th>Composant</th><th>Quantité</th></tr>";
+        Object.entries(singleComponents).forEach(([comp, qty])=>{
+            const tr=document.createElement("tr");
+            tr.innerHTML=`<td>${comp}</td><td>${qty}</td>`;
             table.appendChild(tr);
-        }
+        });
         itDiv.appendChild(table);
         detailsDiv.appendChild(itDiv);
     });
-});
-
-// Tout désélectionner
-document.getElementById("clearSelection").addEventListener("click", function() {
-    selectedItems = [];
-    renderList();
 });
 </script>
 </body>
