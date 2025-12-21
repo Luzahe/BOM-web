@@ -9,14 +9,41 @@
     padding: 20px; 
     display: flex; 
     flex-direction: column; 
-    align-items: center; /* centre tout horizontalement */
+    align-items: center;
   }
 
   h1 { text-align: center; }
 
+  /* Filtres sur une seule ligne */
+  .filters {
+    display: flex; 
+    flex-wrap: wrap; 
+    gap: 10px;
+    margin-bottom: 10px;
+    justify-content: center;
+  }
+
   select, input[type="text"], button { 
     padding: 5px; 
-    margin: 5px 10px 5px 0; 
+    margin: 0; 
+    font-size: 14px;
+  }
+
+  #search {
+    width: 400px; /* plus large */
+    margin-bottom: 10px;
+  }
+
+  .buttons-line {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+    justify-content: center;
+  }
+
+  #calculate {
+    padding: 10px 20px;
+    font-size: 16px;
   }
 
   ul { 
@@ -25,7 +52,8 @@
     max-height: 300px; 
     overflow-y: auto; 
     border: 1px solid #ccc; 
-    width: 400px; /* fixe la largeur */
+    width: 400px; 
+    margin-bottom: 10px;
   }
 
   li { 
@@ -39,8 +67,8 @@
 
   table { 
     border-collapse: collapse; 
-    width: 80%;        /* réduit la largeur du tableau */
-    max-width: 600px;  /* largeur max */
+    width: 75%;        /* environ 3/4 de la largeur de l'écran */
+    max-width: 900px;
     margin-top: 20px; 
     text-align: center; 
   }
@@ -55,19 +83,6 @@
     background-color: #f0f0f0; 
   }
 
-  /* Centre les sections filtres, recherche et boutons */
-  .filters, .search-section, #itemList, #buttons-section, #resultTable, #details {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 100%;
-    max-width: 600px; /* limite la largeur centrale */
-  }
-
-  /* Espacement vertical */
-  .filters > label, .search-section {
-    margin-bottom: 10px;
-  }
 </style>
 </head>
 
@@ -279,6 +294,7 @@ document.getElementById("calculate").addEventListener("click", function(){
 </script>
 </body>
 </html>
+
 
 
 
