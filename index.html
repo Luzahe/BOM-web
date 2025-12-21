@@ -168,11 +168,18 @@ document.getElementById("calculate").addEventListener("click", function(){
     // Affichage agrégé
     const tbody = document.querySelector("#resultTable tbody");
     tbody.innerHTML = "";
-    Object.entries(allComponents).forEach(([comp, qty])=>{
+    
+    // Trier les composants par quantité décroissante
+    const sortedComponents = Object.entries(allComponents)
+        .sort((a, b) => b[1] - a[1]); // tri décroissant
+
+    // Affichage
+    sortedComponents.forEach(([comp, qty]) => {
         const tr = document.createElement("tr");
-        tr.innerHTML=`<td>${comp}</td><td>${qty}</td>`;
+        tr.innerHTML = `<td>${comp}</td><td>${qty}</td>`;
         tbody.appendChild(tr);
     });
+
 
     // Détails par item
     const detailsDiv = document.getElementById("details");
@@ -196,4 +203,5 @@ document.getElementById("calculate").addEventListener("click", function(){
 </script>
 </body>
 </html>
+
 
