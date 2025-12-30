@@ -1,0 +1,6662 @@
+{
+    "2370": {
+        "item_icon_path": "/handled_icons/I0265334.png"
+    },
+    "2371": {
+        "item_icon_path": "/handled_icons/I0265333.png"
+    },
+    "2372": {
+        "item_icon_path": "/handled_icons/I0265332.png"
+    },
+    "2373": {
+        "item_icon_path": "/handled_icons/I0265331.png"
+    },
+    "2378": {
+        "item_icon_path": "/handled_icons/I0265386.png"
+    },
+    "2379": {
+        "item_icon_path": "/handled_icons/I0265387.png"
+    },
+    "2380": {
+        "item_icon_path": "/handled_icons/I0265388.png"
+    },
+    "2381": {
+        "item_icon_path": "/handled_icons/I0265389.png"
+    },
+    "2382": {
+        "item_icon_path": "/handled_icons/I0265390.png"
+    },
+    "2383": {
+        "item_icon_path": "/handled_icons/I0265391.png"
+    },
+    "2384": {
+        "item_icon_path": "/handled_icons/I0265392.png"
+    },
+    "2385": {
+        "item_icon_path": "/handled_icons/I0265393.png"
+    },
+    "2386": {
+        "item_icon_path": "/handled_icons/I0265385.png"
+    },
+    "2387": {
+        "item_icon_path": "/handled_icons/I0265384.png"
+    },
+    "2388": {
+        "item_icon_path": "/handled_icons/I0265378.png"
+    },
+    "2389": {
+        "item_icon_path": "/handled_icons/I0265383.png"
+    },
+    "2390": {
+        "item_icon_path": "/handled_icons/I0265382.png"
+    },
+    "2391": {
+        "item_icon_path": "/handled_icons/I0265381.png"
+    },
+    "2392": {
+        "item_icon_path": "/handled_icons/I0265380.png"
+    },
+    "2393": {
+        "item_icon_path": "/handled_icons/I0265379.png"
+    },
+    "2458": {
+        "item_icon_path": "/handled_icons/A00106.png"
+    },
+    "2459": {
+        "item_icon_path": "/handled_icons/A00105.png"
+    },
+    "2460": {
+        "item_icon_path": "/handled_icons/A00104.png"
+    },
+    "2461": {
+        "item_icon_path": "/handled_icons/A00103.png"
+    },
+    "2462": {
+        "item_icon_path": "/handled_icons/A00102.png"
+    },
+    "2463": {
+        "item_icon_path": "/handled_icons/A00102.png"
+    },
+    "2464": {
+        "item_icon_path": "/handled_icons/A00102.png"
+    },
+    "2465": {
+        "item_icon_path": "/handled_icons/A00102.png"
+    },
+    "2466": {
+        "item_icon_path": "/handled_icons/A00101.png"
+    },
+    "2471": {
+        "item_icon_path": "/handled_icons/A00116.png"
+    },
+    "2472": {
+        "item_icon_path": "/handled_icons/A00115.png"
+    },
+    "2473": {
+        "item_icon_path": "/handled_icons/A00114.png"
+    },
+    "2474": {
+        "item_icon_path": "/handled_icons/A00113.png"
+    },
+    "2475": {
+        "item_icon_path": "/handled_icons/A00112.png"
+    },
+    "2476": {
+        "item_icon_path": "/handled_icons/A00112.png"
+    },
+    "2477": {
+        "item_icon_path": "/handled_icons/A00112.png"
+    },
+    "2478": {
+        "item_icon_path": "/handled_icons/A00112.png"
+    },
+    "2479": {
+        "item_icon_path": "/handled_icons/A00111.png"
+    },
+    "2484": {
+        "item_icon_path": "/handled_icons/A00126.png"
+    },
+    "2485": {
+        "item_icon_path": "/handled_icons/A00125.png"
+    },
+    "2486": {
+        "item_icon_path": "/handled_icons/A00124.png"
+    },
+    "2487": {
+        "item_icon_path": "/handled_icons/A00123.png"
+    },
+    "2488": {
+        "item_icon_path": "/handled_icons/A00122.png"
+    },
+    "2489": {
+        "item_icon_path": "/handled_icons/A00122.png"
+    },
+    "2490": {
+        "item_icon_path": "/handled_icons/A00122.png"
+    },
+    "2491": {
+        "item_icon_path": "/handled_icons/A00122.png"
+    },
+    "2492": {
+        "item_icon_path": "/handled_icons/A00121.png"
+    },
+    "2497": {
+        "item_icon_path": "/handled_icons/A00136.png"
+    },
+    "2498": {
+        "item_icon_path": "/handled_icons/A00135.png"
+    },
+    "2499": {
+        "item_icon_path": "/handled_icons/A00134.png"
+    },
+    "2500": {
+        "item_icon_path": "/handled_icons/A00133.png"
+    },
+    "2501": {
+        "item_icon_path": "/handled_icons/A00132.png"
+    },
+    "2502": {
+        "item_icon_path": "/handled_icons/A00132.png"
+    },
+    "2503": {
+        "item_icon_path": "/handled_icons/A00132.png"
+    },
+    "2504": {
+        "item_icon_path": "/handled_icons/A00132.png"
+    },
+    "2505": {
+        "item_icon_path": "/handled_icons/A00131.png"
+    },
+    "2510": {
+        "item_icon_path": "/handled_icons/A00146.png"
+    },
+    "2511": {
+        "item_icon_path": "/handled_icons/A00145.png"
+    },
+    "2512": {
+        "item_icon_path": "/handled_icons/A00144.png"
+    },
+    "2513": {
+        "item_icon_path": "/handled_icons/A00143.png"
+    },
+    "2514": {
+        "item_icon_path": "/handled_icons/A00142.png"
+    },
+    "2515": {
+        "item_icon_path": "/handled_icons/A00142.png"
+    },
+    "2516": {
+        "item_icon_path": "/handled_icons/A00142.png"
+    },
+    "2517": {
+        "item_icon_path": "/handled_icons/A00142.png"
+    },
+    "2518": {
+        "item_icon_path": "/handled_icons/A00141.png"
+    },
+    "2523": {
+        "item_icon_path": "/handled_icons/A00156.png"
+    },
+    "2524": {
+        "item_icon_path": "/handled_icons/A00155.png"
+    },
+    "2525": {
+        "item_icon_path": "/handled_icons/A00154.png"
+    },
+    "2526": {
+        "item_icon_path": "/handled_icons/A00153.png"
+    },
+    "2527": {
+        "item_icon_path": "/handled_icons/A00152.png"
+    },
+    "2528": {
+        "item_icon_path": "/handled_icons/A00152.png"
+    },
+    "2529": {
+        "item_icon_path": "/handled_icons/A00152.png"
+    },
+    "2530": {
+        "item_icon_path": "/handled_icons/A00152.png"
+    },
+    "2531": {
+        "item_icon_path": "/handled_icons/A00151.png"
+    },
+    "2536": {
+        "item_icon_path": "/handled_icons/A00168.png"
+    },
+    "2537": {
+        "item_icon_path": "/handled_icons/A00168.png"
+    },
+    "2538": {
+        "item_icon_path": "/handled_icons/A00168.png"
+    },
+    "2539": {
+        "item_icon_path": "/handled_icons/A00168.png"
+    },
+    "2540": {
+        "item_icon_path": "/handled_icons/A00167.png"
+    },
+    "2546": {
+        "item_icon_path": "/handled_icons/A00162.png"
+    },
+    "2547": {
+        "item_icon_path": "/handled_icons/A00162.png"
+    },
+    "2548": {
+        "item_icon_path": "/handled_icons/A00162.png"
+    },
+    "2549": {
+        "item_icon_path": "/handled_icons/A00161.png"
+    },
+    "2552": {
+        "item_icon_path": "/handled_icons/A60002.png"
+    },
+    "2553": {
+        "item_icon_path": "/handled_icons/A60007.png"
+    },
+    "2554": {
+        "item_icon_path": "/handled_icons/A60001.png"
+    },
+    "2555": {
+        "item_icon_path": "/handled_icons/A60004.png"
+    },
+    "2556": {
+        "item_icon_path": "/handled_icons/A60006.png"
+    },
+    "2559": {
+        "item_icon_path": "/handled_icons/A60002.png"
+    },
+    "2560": {
+        "item_icon_path": "/handled_icons/A60007.png"
+    },
+    "2561": {
+        "item_icon_path": "/handled_icons/A60001.png"
+    },
+    "2562": {
+        "item_icon_path": "/handled_icons/A60004.png"
+    },
+    "2563": {
+        "item_icon_path": "/handled_icons/A60006.png"
+    },
+    "2566": {
+        "item_icon_path": "/handled_icons/A60002.png"
+    },
+    "2567": {
+        "item_icon_path": "/handled_icons/A60007.png"
+    },
+    "2568": {
+        "item_icon_path": "/handled_icons/A60001.png"
+    },
+    "2569": {
+        "item_icon_path": "/handled_icons/A60004.png"
+    },
+    "2570": {
+        "item_icon_path": "/handled_icons/A60006.png"
+    },
+    "2573": {
+        "item_icon_path": "/handled_icons/A60002.png"
+    },
+    "2574": {
+        "item_icon_path": "/handled_icons/A60007.png"
+    },
+    "2575": {
+        "item_icon_path": "/handled_icons/A60001.png"
+    },
+    "2576": {
+        "item_icon_path": "/handled_icons/A60004.png"
+    },
+    "2577": {
+        "item_icon_path": "/handled_icons/A60006.png"
+    },
+    "2580": {
+        "item_icon_path": "/handled_icons/A60002.png"
+    },
+    "2581": {
+        "item_icon_path": "/handled_icons/A60007.png"
+    },
+    "2582": {
+        "item_icon_path": "/handled_icons/A60001.png"
+    },
+    "2583": {
+        "item_icon_path": "/handled_icons/A60004.png"
+    },
+    "2584": {
+        "item_icon_path": "/handled_icons/A60006.png"
+    },
+    "2587": {
+        "item_icon_path": "/handled_icons/A60002.png"
+    },
+    "2588": {
+        "item_icon_path": "/handled_icons/A60007.png"
+    },
+    "2589": {
+        "item_icon_path": "/handled_icons/A60001.png"
+    },
+    "2590": {
+        "item_icon_path": "/handled_icons/A60004.png"
+    },
+    "2591": {
+        "item_icon_path": "/handled_icons/A60006.png"
+    },
+    "2594": {
+        "item_icon_path": "/handled_icons/A60001.png"
+    },
+    "2595": {
+        "item_icon_path": "/handled_icons/A60004.png"
+    },
+    "2596": {
+        "item_icon_path": "/handled_icons/A60006.png"
+    },
+    "2599": {
+        "item_icon_path": "/handled_icons/A60001.png"
+    },
+    "2600": {
+        "item_icon_path": "/handled_icons/A60004.png"
+    },
+    "2601": {
+        "item_icon_path": "/handled_icons/A60006.png"
+    },
+    "2663": {
+        "item_icon_path": "/handled_icons/I01902.png"
+    },
+    "2664": {
+        "item_icon_path": "/handled_icons/I01915.png"
+    },
+    "2665": {
+        "item_icon_path": "/handled_icons/I01918.png"
+    },
+    "": {
+        "item_icon_path": "/handled_icons/\n.png"
+    },
+    "9627": {
+        "item_icon_path": "/handled_icons/I01389.png"
+    },
+    "9713": {
+        "item_icon_path": "/handled_icons/I01093.png"
+    },
+    "9715": {
+        "item_icon_path": "/handled_icons/I00124.png"
+    },
+    "9716": {
+        "item_icon_path": "/handled_icons/I0265753.png"
+    },
+    "9717": {
+        "item_icon_path": "/handled_icons/I00264.png"
+    },
+    "9718": {
+        "item_icon_path": "/handled_icons/I01037.png"
+    },
+    "9719": {
+        "item_icon_path": "/handled_icons/I00269.png"
+    },
+    "9720": {
+        "item_icon_path": "/handled_icons/I00061.png"
+    },
+    "9721": {
+        "item_icon_path": "/handled_icons/I00060.png"
+    },
+    "10034": {
+        "item_icon_path": "/handled_icons/I02176.png"
+    },
+    "10035": {
+        "item_icon_path": "/handled_icons/I02175.png"
+    },
+    "10036": {
+        "item_icon_path": "/handled_icons/I02178.png"
+    },
+    "10037": {
+        "item_icon_path": "/handled_icons/I02181.png"
+    },
+    "10038": {
+        "item_icon_path": "/handled_icons/I02180.png"
+    },
+    "10039": {
+        "item_icon_path": "/handled_icons/I02183.png"
+    },
+    "10040": {
+        "item_icon_path": "/handled_icons/I02186.png"
+    },
+    "10041": {
+        "item_icon_path": "/handled_icons/I02185.png"
+    },
+    "10042": {
+        "item_icon_path": "/handled_icons/I02188.png"
+    },
+    "10046": {
+        "item_icon_path": "/handled_icons/I02206.png"
+    },
+    "10047": {
+        "item_icon_path": "/handled_icons/I02207.png"
+    },
+    "10048": {
+        "item_icon_path": "/handled_icons/I02208.png"
+    },
+    "10049": {
+        "item_icon_path": "/handled_icons/I02211.png"
+    },
+    "10050": {
+        "item_icon_path": "/handled_icons/I02212.png"
+    },
+    "10051": {
+        "item_icon_path": "/handled_icons/I02213.png"
+    },
+    "10052": {
+        "item_icon_path": "/handled_icons/I02216.png"
+    },
+    "10053": {
+        "item_icon_path": "/handled_icons/I02217.png"
+    },
+    "10054": {
+        "item_icon_path": "/handled_icons/I02218.png"
+    },
+    "10324": {
+        "item_icon_path": "/handled_icons/I02304.png"
+    },
+    "10325": {
+        "item_icon_path": "/handled_icons/I02305.png"
+    },
+    "10326": {
+        "item_icon_path": "/handled_icons/I02306.png"
+    },
+    "10327": {
+        "item_icon_path": "/handled_icons/I02307.png"
+    },
+    "10328": {
+        "item_icon_path": "/handled_icons/I02308.png"
+    },
+    "10329": {
+        "item_icon_path": "/handled_icons/I02309.png"
+    },
+    "10330": {
+        "item_icon_path": "/handled_icons/I02310.png"
+    },
+    "10331": {
+        "item_icon_path": "/handled_icons/I02311.png"
+    },
+    "10332": {
+        "item_icon_path": "/handled_icons/I02312.png"
+    },
+    "10333": {
+        "item_icon_path": "/handled_icons/I02313.png"
+    },
+    "10334": {
+        "item_icon_path": "/handled_icons/I02314.png"
+    },
+    "10335": {
+        "item_icon_path": "/handled_icons/I02315.png"
+    },
+    "10336": {
+        "item_icon_path": "/handled_icons/I02316.png"
+    },
+    "10965": {
+        "item_icon_path": "/handled_icons/I02176.png"
+    },
+    "10966": {
+        "item_icon_path": "/handled_icons/I02175.png"
+    },
+    "10967": {
+        "item_icon_path": "/handled_icons/I02178.png"
+    },
+    "10968": {
+        "item_icon_path": "/handled_icons/I02181.png"
+    },
+    "10969": {
+        "item_icon_path": "/handled_icons/I02180.png"
+    },
+    "10970": {
+        "item_icon_path": "/handled_icons/I02183.png"
+    },
+    "10971": {
+        "item_icon_path": "/handled_icons/I02186.png"
+    },
+    "10972": {
+        "item_icon_path": "/handled_icons/I02185.png"
+    },
+    "10973": {
+        "item_icon_path": "/handled_icons/I02188.png"
+    },
+    "10974": {
+        "item_icon_path": "/handled_icons/I02206.png"
+    },
+    "10975": {
+        "item_icon_path": "/handled_icons/I02207.png"
+    },
+    "10976": {
+        "item_icon_path": "/handled_icons/I02208.png"
+    },
+    "10977": {
+        "item_icon_path": "/handled_icons/I02211.png"
+    },
+    "10978": {
+        "item_icon_path": "/handled_icons/I02212.png"
+    },
+    "10979": {
+        "item_icon_path": "/handled_icons/I02213.png"
+    },
+    "10980": {
+        "item_icon_path": "/handled_icons/I02216.png"
+    },
+    "10981": {
+        "item_icon_path": "/handled_icons/I02217.png"
+    },
+    "10982": {
+        "item_icon_path": "/handled_icons/I02218.png"
+    },
+    "11860": {
+        "item_icon_path": "/handled_icons/I01946.png"
+    },
+    "11861": {
+        "item_icon_path": "/handled_icons/I01946.png"
+    },
+    "11862": {
+        "item_icon_path": "/handled_icons/I01946.png"
+    },
+    "11863": {
+        "item_icon_path": "/handled_icons/I01946.png"
+    },
+    "11864": {
+        "item_icon_path": "/handled_icons/I01390.png"
+    },
+    "11865": {
+        "item_icon_path": "/handled_icons/I01390.png"
+    },
+    "11866": {
+        "item_icon_path": "/handled_icons/I01390.png"
+    },
+    "11867": {
+        "item_icon_path": "/handled_icons/I01390.png"
+    },
+    "11868": {
+        "item_icon_path": "/handled_icons/I00016.png"
+    },
+    "11869": {
+        "item_icon_path": "/handled_icons/I00016.png"
+    },
+    "11870": {
+        "item_icon_path": "/handled_icons/I00016.png"
+    },
+    "11871": {
+        "item_icon_path": "/handled_icons/I00016.png"
+    },
+    "11872": {
+        "item_icon_path": "/handled_icons/I00017.png"
+    },
+    "11873": {
+        "item_icon_path": "/handled_icons/I00017.png"
+    },
+    "11874": {
+        "item_icon_path": "/handled_icons/I00017.png"
+    },
+    "11875": {
+        "item_icon_path": "/handled_icons/I00017.png"
+    },
+    "11876": {
+        "item_icon_path": "/handled_icons/I00019.png"
+    },
+    "11877": {
+        "item_icon_path": "/handled_icons/I00019.png"
+    },
+    "11878": {
+        "item_icon_path": "/handled_icons/I00019.png"
+    },
+    "11879": {
+        "item_icon_path": "/handled_icons/I00019.png"
+    },
+    "11880": {
+        "item_icon_path": "/handled_icons/I00020.png"
+    },
+    "11881": {
+        "item_icon_path": "/handled_icons/I00020.png"
+    },
+    "11882": {
+        "item_icon_path": "/handled_icons/I00020.png"
+    },
+    "11883": {
+        "item_icon_path": "/handled_icons/I00020.png"
+    },
+    "11884": {
+        "item_icon_path": "/handled_icons/I00042.png"
+    },
+    "11885": {
+        "item_icon_path": "/handled_icons/I00042.png"
+    },
+    "11886": {
+        "item_icon_path": "/handled_icons/I00042.png"
+    },
+    "11887": {
+        "item_icon_path": "/handled_icons/I00042.png"
+    },
+    "11888": {
+        "item_icon_path": "/handled_icons/I00041.png"
+    },
+    "11889": {
+        "item_icon_path": "/handled_icons/I00041.png"
+    },
+    "11890": {
+        "item_icon_path": "/handled_icons/I00041.png"
+    },
+    "11891": {
+        "item_icon_path": "/handled_icons/I00041.png"
+    },
+    "11892": {
+        "item_icon_path": "/handled_icons/I01948.png"
+    },
+    "11893": {
+        "item_icon_path": "/handled_icons/I01948.png"
+    },
+    "11894": {
+        "item_icon_path": "/handled_icons/I01948.png"
+    },
+    "11895": {
+        "item_icon_path": "/handled_icons/I01948.png"
+    },
+    "11896": {
+        "item_icon_path": "/handled_icons/I00451.png"
+    },
+    "11897": {
+        "item_icon_path": "/handled_icons/I00451.png"
+    },
+    "11898": {
+        "item_icon_path": "/handled_icons/I00451.png"
+    },
+    "11899": {
+        "item_icon_path": "/handled_icons/I00451.png"
+    },
+    "11900": {
+        "item_icon_path": "/handled_icons/I00167.png"
+    },
+    "11901": {
+        "item_icon_path": "/handled_icons/I00167.png"
+    },
+    "11902": {
+        "item_icon_path": "/handled_icons/I00168.png"
+    },
+    "11903": {
+        "item_icon_path": "/handled_icons/I00168.png"
+    },
+    "11904": {
+        "item_icon_path": "/handled_icons/I00978.png"
+    },
+    "11905": {
+        "item_icon_path": "/handled_icons/I01006.png"
+    },
+    "11906": {
+        "item_icon_path": "/handled_icons/I01024.png"
+    },
+    "11907": {
+        "item_icon_path": "/handled_icons/I01007.png"
+    },
+    "11908": {
+        "item_icon_path": "/handled_icons/I00299.png"
+    },
+    "11909": {
+        "item_icon_path": "/handled_icons/I00400.png"
+    },
+    "11910": {
+        "item_icon_path": "/handled_icons/I01346.png"
+    },
+    "11911": {
+        "item_icon_path": "/handled_icons/I00032.png"
+    },
+    "11912": {
+        "item_icon_path": "/handled_icons/I00421.png"
+    },
+    "11930": {
+        "item_icon_path": "/handled_icons/I01964.png"
+    },
+    "11931": {
+        "item_icon_path": "/handled_icons/I01970.png"
+    },
+    "11934": {
+        "item_icon_path": "/handled_icons/I01963.png"
+    },
+    "11935": {
+        "item_icon_path": "/handled_icons/I01969.png"
+    },
+    "11936": {
+        "item_icon_path": "/handled_icons/I01960.png"
+    },
+    "11937": {
+        "item_icon_path": "/handled_icons/I01978.png"
+    },
+    "11950": {
+        "item_icon_path": "/handled_icons/I01954.png"
+    },
+    "11951": {
+        "item_icon_path": "/handled_icons/I01969.png"
+    },
+    "11952": {
+        "item_icon_path": "/handled_icons/I01966.png"
+    },
+    "11953": {
+        "item_icon_path": "/handled_icons/I01978.png"
+    },
+    "11966": {
+        "item_icon_path": "/handled_icons/I01577.png"
+    },
+    "11967": {
+        "item_icon_path": "/handled_icons/I01580.png"
+    },
+    "11968": {
+        "item_icon_path": "/handled_icons/I01972.png"
+    },
+    "11969": {
+        "item_icon_path": "/handled_icons/I01312.png"
+    },
+    "11982": {
+        "item_icon_path": "/handled_icons/I01348.png"
+    },
+    "11983": {
+        "item_icon_path": "/handled_icons/I01351.png"
+    },
+    "11984": {
+        "item_icon_path": "/handled_icons/I01304.png"
+    },
+    "11985": {
+        "item_icon_path": "/handled_icons/I01957.png"
+    },
+    "12010": {
+        "item_icon_path": "/handled_icons/I00688.png"
+    },
+    "12011": {
+        "item_icon_path": "/handled_icons/I00686.png"
+    },
+    "12012": {
+        "item_icon_path": "/handled_icons/I00685.png"
+    },
+    "12013": {
+        "item_icon_path": "/handled_icons/I00684.png"
+    },
+    "12024": {
+        "item_icon_path": "/handled_icons/I00031.png"
+    },
+    "12096": {
+        "item_icon_path": "/handled_icons/I02176.png"
+    },
+    "12097": {
+        "item_icon_path": "/handled_icons/I02175.png"
+    },
+    "12098": {
+        "item_icon_path": "/handled_icons/I02178.png"
+    },
+    "12099": {
+        "item_icon_path": "/handled_icons/I02181.png"
+    },
+    "12100": {
+        "item_icon_path": "/handled_icons/I02180.png"
+    },
+    "12101": {
+        "item_icon_path": "/handled_icons/I02183.png"
+    },
+    "12102": {
+        "item_icon_path": "/handled_icons/I02186.png"
+    },
+    "12103": {
+        "item_icon_path": "/handled_icons/I02185.png"
+    },
+    "12104": {
+        "item_icon_path": "/handled_icons/I02188.png"
+    },
+    "12105": {
+        "item_icon_path": "/handled_icons/I02206.png"
+    },
+    "12106": {
+        "item_icon_path": "/handled_icons/I02207.png"
+    },
+    "12107": {
+        "item_icon_path": "/handled_icons/I02208.png"
+    },
+    "12108": {
+        "item_icon_path": "/handled_icons/I02211.png"
+    },
+    "12109": {
+        "item_icon_path": "/handled_icons/I02212.png"
+    },
+    "12110": {
+        "item_icon_path": "/handled_icons/I02213.png"
+    },
+    "12111": {
+        "item_icon_path": "/handled_icons/I02216.png"
+    },
+    "12112": {
+        "item_icon_path": "/handled_icons/I02217.png"
+    },
+    "12113": {
+        "item_icon_path": "/handled_icons/I02218.png"
+    },
+    "12305": {
+        "item_icon_path": "/handled_icons/I02391.png"
+    },
+    "12306": {
+        "item_icon_path": "/handled_icons/I02392.png"
+    },
+    "12312": {
+        "item_icon_path": "/handled_icons/I02398.png"
+    },
+    "12313": {
+        "item_icon_path": "/handled_icons/I02399.png"
+    },
+    "12314": {
+        "item_icon_path": "/handled_icons/I02400.png"
+    },
+    "13238": {
+        "item_icon_path": "/handled_icons/A10891.png"
+    },
+    "13239": {
+        "item_icon_path": "/handled_icons/A20865.png"
+    },
+    "13240": {
+        "item_icon_path": "/handled_icons/A30411.png"
+    },
+    "13241": {
+        "item_icon_path": "/handled_icons/A40407.png"
+    },
+    "13242": {
+        "item_icon_path": "/handled_icons/A50395.png"
+    },
+    "13243": {
+        "item_icon_path": "/handled_icons/A10903.png"
+    },
+    "13244": {
+        "item_icon_path": "/handled_icons/A20877.png"
+    },
+    "13245": {
+        "item_icon_path": "/handled_icons/A30423.png"
+    },
+    "13246": {
+        "item_icon_path": "/handled_icons/A40419.png"
+    },
+    "13247": {
+        "item_icon_path": "/handled_icons/A50407.png"
+    },
+    "13268": {
+        "item_icon_path": "/handled_icons/A30368.png"
+    },
+    "13269": {
+        "item_icon_path": "/handled_icons/A40364.png"
+    },
+    "13270": {
+        "item_icon_path": "/handled_icons/A30377.png"
+    },
+    "13271": {
+        "item_icon_path": "/handled_icons/A40373.png"
+    },
+    "13287": {
+        "item_icon_path": "/handled_icons/A10869.png"
+    },
+    "13288": {
+        "item_icon_path": "/handled_icons/A20843.png"
+    },
+    "13289": {
+        "item_icon_path": "/handled_icons/A30389.png"
+    },
+    "13290": {
+        "item_icon_path": "/handled_icons/A40385.png"
+    },
+    "13291": {
+        "item_icon_path": "/handled_icons/A50373.png"
+    },
+    "13292": {
+        "item_icon_path": "/handled_icons/A10872.png"
+    },
+    "13293": {
+        "item_icon_path": "/handled_icons/A20846.png"
+    },
+    "13294": {
+        "item_icon_path": "/handled_icons/A30392.png"
+    },
+    "13295": {
+        "item_icon_path": "/handled_icons/A40388.png"
+    },
+    "13296": {
+        "item_icon_path": "/handled_icons/A50376.png"
+    },
+    "13297": {
+        "item_icon_path": "/handled_icons/A10868.png"
+    },
+    "13298": {
+        "item_icon_path": "/handled_icons/A20842.png"
+    },
+    "13299": {
+        "item_icon_path": "/handled_icons/A30388.png"
+    },
+    "13300": {
+        "item_icon_path": "/handled_icons/A40384.png"
+    },
+    "13301": {
+        "item_icon_path": "/handled_icons/A50372.png"
+    },
+    "13302": {
+        "item_icon_path": "/handled_icons/A10871.png"
+    },
+    "13303": {
+        "item_icon_path": "/handled_icons/A20845.png"
+    },
+    "13304": {
+        "item_icon_path": "/handled_icons/A30391.png"
+    },
+    "13305": {
+        "item_icon_path": "/handled_icons/A40387.png"
+    },
+    "13306": {
+        "item_icon_path": "/handled_icons/A50375.png"
+    },
+    "13357": {
+        "item_icon_path": "/handled_icons/A30403.png"
+    },
+    "13358": {
+        "item_icon_path": "/handled_icons/A40399.png"
+    },
+    "13359": {
+        "item_icon_path": "/handled_icons/A50387.png"
+    },
+    "13370": {
+        "item_icon_path": "/handled_icons/A30401.png"
+    },
+    "13371": {
+        "item_icon_path": "/handled_icons/A40397.png"
+    },
+    "13372": {
+        "item_icon_path": "/handled_icons/A50385.png"
+    },
+    "13373": {
+        "item_icon_path": "/handled_icons/A10884.png"
+    },
+    "13374": {
+        "item_icon_path": "/handled_icons/A20858.png"
+    },
+    "13375": {
+        "item_icon_path": "/handled_icons/A30404.png"
+    },
+    "13376": {
+        "item_icon_path": "/handled_icons/A40400.png"
+    },
+    "13377": {
+        "item_icon_path": "/handled_icons/A50388.png"
+    },
+    "13378": {
+        "item_icon_path": "/handled_icons/A10896.png"
+    },
+    "13379": {
+        "item_icon_path": "/handled_icons/A20870.png"
+    },
+    "13380": {
+        "item_icon_path": "/handled_icons/A30416.png"
+    },
+    "13381": {
+        "item_icon_path": "/handled_icons/A40412.png"
+    },
+    "13382": {
+        "item_icon_path": "/handled_icons/A50400.png"
+    },
+    "13383": {
+        "item_icon_path": "/handled_icons/A10890.png"
+    },
+    "13384": {
+        "item_icon_path": "/handled_icons/A20864.png"
+    },
+    "13385": {
+        "item_icon_path": "/handled_icons/A30410.png"
+    },
+    "13386": {
+        "item_icon_path": "/handled_icons/A40406.png"
+    },
+    "13387": {
+        "item_icon_path": "/handled_icons/A50394.png"
+    },
+    "13388": {
+        "item_icon_path": "/handled_icons/A10902.png"
+    },
+    "13389": {
+        "item_icon_path": "/handled_icons/A20876.png"
+    },
+    "13390": {
+        "item_icon_path": "/handled_icons/A30422.png"
+    },
+    "13391": {
+        "item_icon_path": "/handled_icons/A40418.png"
+    },
+    "13392": {
+        "item_icon_path": "/handled_icons/A50406.png"
+    },
+    "13501": {
+        "item_icon_path": "/handled_icons/A30366.png"
+    },
+    "13502": {
+        "item_icon_path": "/handled_icons/A40362.png"
+    },
+    "13503": {
+        "item_icon_path": "/handled_icons/A50350.png"
+    },
+    "13594": {
+        "item_icon_path": "/handled_icons/A30340.png"
+    },
+    "13595": {
+        "item_icon_path": "/handled_icons/A40336.png"
+    },
+    "13596": {
+        "item_icon_path": "/handled_icons/A50324.png"
+    },
+    "13597": {
+        "item_icon_path": "/handled_icons/A30343.png"
+    },
+    "13598": {
+        "item_icon_path": "/handled_icons/A40339.png"
+    },
+    "13599": {
+        "item_icon_path": "/handled_icons/A50327.png"
+    },
+    "13600": {
+        "item_icon_path": "/handled_icons/A30353.png"
+    },
+    "13601": {
+        "item_icon_path": "/handled_icons/A40349.png"
+    },
+    "13602": {
+        "item_icon_path": "/handled_icons/A50337.png"
+    },
+    "13603": {
+        "item_icon_path": "/handled_icons/A30354.png"
+    },
+    "13604": {
+        "item_icon_path": "/handled_icons/A40350.png"
+    },
+    "13605": {
+        "item_icon_path": "/handled_icons/A50338.png"
+    },
+    "13606": {
+        "item_icon_path": "/handled_icons/A30347.png"
+    },
+    "13607": {
+        "item_icon_path": "/handled_icons/A40343.png"
+    },
+    "13608": {
+        "item_icon_path": "/handled_icons/A50331.png"
+    },
+    "13612": {
+        "item_icon_path": "/handled_icons/A30340.png"
+    },
+    "13613": {
+        "item_icon_path": "/handled_icons/A40336.png"
+    },
+    "13614": {
+        "item_icon_path": "/handled_icons/A50326.png"
+    },
+    "13615": {
+        "item_icon_path": "/handled_icons/A30343.png"
+    },
+    "13616": {
+        "item_icon_path": "/handled_icons/A40339.png"
+    },
+    "13617": {
+        "item_icon_path": "/handled_icons/A50327.png"
+    },
+    "13618": {
+        "item_icon_path": "/handled_icons/A30353.png"
+    },
+    "13619": {
+        "item_icon_path": "/handled_icons/A40349.png"
+    },
+    "13620": {
+        "item_icon_path": "/handled_icons/A50337.png"
+    },
+    "13621": {
+        "item_icon_path": "/handled_icons/A30354.png"
+    },
+    "13622": {
+        "item_icon_path": "/handled_icons/A40350.png"
+    },
+    "13623": {
+        "item_icon_path": "/handled_icons/A50338.png"
+    },
+    "13624": {
+        "item_icon_path": "/handled_icons/A30347.png"
+    },
+    "13625": {
+        "item_icon_path": "/handled_icons/A40343.png"
+    },
+    "13626": {
+        "item_icon_path": "/handled_icons/A50331.png"
+    },
+    "13793": {
+        "item_icon_path": "/handled_icons/A30353.png"
+    },
+    "13794": {
+        "item_icon_path": "/handled_icons/A40349.png"
+    },
+    "13795": {
+        "item_icon_path": "/handled_icons/A50337.png"
+    },
+    "13846": {
+        "item_icon_path": "/handled_icons/A30366.png"
+    },
+    "13847": {
+        "item_icon_path": "/handled_icons/A40362.png"
+    },
+    "13848": {
+        "item_icon_path": "/handled_icons/A50350.png"
+    },
+    "13859": {
+        "item_icon_path": "/handled_icons/A30366.png"
+    },
+    "13860": {
+        "item_icon_path": "/handled_icons/A40362.png"
+    },
+    "13861": {
+        "item_icon_path": "/handled_icons/A50350.png"
+    },
+    "13947": {
+        "item_icon_path": "/handled_icons/A30366.png"
+    },
+    "13948": {
+        "item_icon_path": "/handled_icons/A40362.png"
+    },
+    "13949": {
+        "item_icon_path": "/handled_icons/A50350.png"
+    },
+    "13950": {
+        "item_icon_path": "/handled_icons/A10851.png"
+    },
+    "13951": {
+        "item_icon_path": "/handled_icons/A20825.png"
+    },
+    "13952": {
+        "item_icon_path": "/handled_icons/A30371.png"
+    },
+    "13953": {
+        "item_icon_path": "/handled_icons/A40367.png"
+    },
+    "13954": {
+        "item_icon_path": "/handled_icons/A50355.png"
+    },
+    "13955": {
+        "item_icon_path": "/handled_icons/A10860.png"
+    },
+    "13956": {
+        "item_icon_path": "/handled_icons/A20834.png"
+    },
+    "13957": {
+        "item_icon_path": "/handled_icons/A30380.png"
+    },
+    "13958": {
+        "item_icon_path": "/handled_icons/A40376.png"
+    },
+    "13959": {
+        "item_icon_path": "/handled_icons/A50364.png"
+    },
+    "13976": {
+        "item_icon_path": "/handled_icons/A10848.png"
+    },
+    "13977": {
+        "item_icon_path": "/handled_icons/A20822.png"
+    },
+    "13980": {
+        "item_icon_path": "/handled_icons/A50352.png"
+    },
+    "13981": {
+        "item_icon_path": "/handled_icons/A10857.png"
+    },
+    "13982": {
+        "item_icon_path": "/handled_icons/A20831.png"
+    },
+    "13985": {
+        "item_icon_path": "/handled_icons/A50361.png"
+    },
+    "14016": {
+        "item_icon_path": "/handled_icons/A30386.png"
+    },
+    "14017": {
+        "item_icon_path": "/handled_icons/A40382.png"
+    },
+    "14018": {
+        "item_icon_path": "/handled_icons/A50370.png"
+    },
+    "14019": {
+        "item_icon_path": "/handled_icons/A10880.png"
+    },
+    "14020": {
+        "item_icon_path": "/handled_icons/A20854.png"
+    },
+    "14021": {
+        "item_icon_path": "/handled_icons/A30400.png"
+    },
+    "14022": {
+        "item_icon_path": "/handled_icons/A40396.png"
+    },
+    "14023": {
+        "item_icon_path": "/handled_icons/A50384.png"
+    },
+    "14024": {
+        "item_icon_path": "/handled_icons/A10873.png"
+    },
+    "14025": {
+        "item_icon_path": "/handled_icons/A20847.png"
+    },
+    "14026": {
+        "item_icon_path": "/handled_icons/A30393.png"
+    },
+    "14027": {
+        "item_icon_path": "/handled_icons/A40389.png"
+    },
+    "14028": {
+        "item_icon_path": "/handled_icons/A50377.png"
+    },
+    "14042": {
+        "item_icon_path": "/handled_icons/WD3401.png"
+    },
+    "14045": {
+        "item_icon_path": "/handled_icons/WD3701.png"
+    },
+    "14093": {
+        "item_icon_path": "/handled_icons/WE0101.png"
+    },
+    "14095": {
+        "item_icon_path": "/handled_icons/WE0101.png"
+    },
+    "14096": {
+        "item_icon_path": "/handled_icons/WE0101.png"
+    },
+    "14098": {
+        "item_icon_path": "/handled_icons/WE0201.png"
+    },
+    "14099": {
+        "item_icon_path": "/handled_icons/WE0201.png"
+    },
+    "14101": {
+        "item_icon_path": "/handled_icons/WE0201.png"
+    },
+    "14102": {
+        "item_icon_path": "/handled_icons/WE0402.png"
+    },
+    "14104": {
+        "item_icon_path": "/handled_icons/WE0602.png"
+    },
+    "14105": {
+        "item_icon_path": "/handled_icons/WE0602.png"
+    },
+    "14107": {
+        "item_icon_path": "/handled_icons/WE0402.png"
+    },
+    "14109": {
+        "item_icon_path": "/handled_icons/WE0401.png"
+    },
+    "14110": {
+        "item_icon_path": "/handled_icons/WE0401.png"
+    },
+    "14111": {
+        "item_icon_path": "/handled_icons/WE0702.png"
+    },
+    "14113": {
+        "item_icon_path": "/handled_icons/WE0701.png"
+    },
+    "14114": {
+        "item_icon_path": "/handled_icons/WE0902.png"
+    },
+    "14116": {
+        "item_icon_path": "/handled_icons/WE1502.png"
+    },
+    "14117": {
+        "item_icon_path": "/handled_icons/WE1601.png"
+    },
+    "14119": {
+        "item_icon_path": "/handled_icons/WE2601.png"
+    },
+    "14121": {
+        "item_icon_path": "/handled_icons/WE1802.png"
+    },
+    "14122": {
+        "item_icon_path": "/handled_icons/WE1901.png"
+    },
+    "14124": {
+        "item_icon_path": "/handled_icons/WE2303.png"
+    },
+    "14125": {
+        "item_icon_path": "/handled_icons/WE2401.png"
+    },
+    "14127": {
+        "item_icon_path": "/handled_icons/WE2303.png"
+    },
+    "14128": {
+        "item_icon_path": "/handled_icons/WE1802.png"
+    },
+    "14129": {
+        "item_icon_path": "/handled_icons/WE2101.png"
+    },
+    "14131": {
+        "item_icon_path": "/handled_icons/WE2801.png"
+    },
+    "14132": {
+        "item_icon_path": "/handled_icons/WE2802.png"
+    },
+    "14133": {
+        "item_icon_path": "/handled_icons/WE2901.png"
+    },
+    "14134": {
+        "item_icon_path": "/handled_icons/WE3001.png"
+    },
+    "14135": {
+        "item_icon_path": "/handled_icons/WE3101.png"
+    },
+    "14136": {
+        "item_icon_path": "/handled_icons/WE3102.png"
+    },
+    "14137": {
+        "item_icon_path": "/handled_icons/WE3201.png"
+    },
+    "14138": {
+        "item_icon_path": "/handled_icons/WE3301.png"
+    },
+    "14139": {
+        "item_icon_path": "/handled_icons/WE3501.png"
+    },
+    "14140": {
+        "item_icon_path": "/handled_icons/WE3502.png"
+    },
+    "14141": {
+        "item_icon_path": "/handled_icons/WE3601.png"
+    },
+    "14142": {
+        "item_icon_path": "/handled_icons/WE3701.png"
+    },
+    "14150": {
+        "item_icon_path": "/handled_icons/WD2901.png"
+    },
+    "14156": {
+        "item_icon_path": "/handled_icons/WD3001.png"
+    },
+    "14161": {
+        "item_icon_path": "/handled_icons/WD3101.png"
+    },
+    "14162": {
+        "item_icon_path": "/handled_icons/WD3501.png"
+    },
+    "14163": {
+        "item_icon_path": "/handled_icons/WD3202.png"
+    },
+    "14164": {
+        "item_icon_path": "/handled_icons/WD3502.png"
+    },
+    "14165": {
+        "item_icon_path": "/handled_icons/WD3301.png"
+    },
+    "14166": {
+        "item_icon_path": "/handled_icons/WD3601.png"
+    },
+    "14173": {
+        "item_icon_path": "/handled_icons/WD2301.png"
+    },
+    "14174": {
+        "item_icon_path": "/handled_icons/WD1802.png"
+    },
+    "14175": {
+        "item_icon_path": "/handled_icons/WD2101.png"
+    },
+    "14176": {
+        "item_icon_path": "/handled_icons/WD0101.png"
+    },
+    "14177": {
+        "item_icon_path": "/handled_icons/WD0101.png"
+    },
+    "14196": {
+        "item_icon_path": "/handled_icons/WD0201.png"
+    },
+    "14197": {
+        "item_icon_path": "/handled_icons/WD0502.png"
+    },
+    "14198": {
+        "item_icon_path": "/handled_icons/WD0201.png"
+    },
+    "14199": {
+        "item_icon_path": "/handled_icons/WD0702.png"
+    },
+    "14201": {
+        "item_icon_path": "/handled_icons/WD0201.png"
+    },
+    "14202": {
+        "item_icon_path": "/handled_icons/WD0201.png"
+    },
+    "14203": {
+        "item_icon_path": "/handled_icons/WD0501.png"
+    },
+    "14204": {
+        "item_icon_path": "/handled_icons/WD0401.png"
+    },
+    "14205": {
+        "item_icon_path": "/handled_icons/WD0701.png"
+    },
+    "14211": {
+        "item_icon_path": "/handled_icons/WD0901.png"
+    },
+    "14213": {
+        "item_icon_path": "/handled_icons/WD1101.png"
+    },
+    "14230": {
+        "item_icon_path": "/handled_icons/WD0501.png"
+    },
+    "14231": {
+        "item_icon_path": "/handled_icons/WD1301.png"
+    },
+    "14232": {
+        "item_icon_path": "/handled_icons/WD1503.png"
+    },
+    "14241": {
+        "item_icon_path": "/handled_icons/WD1502.png"
+    },
+    "14242": {
+        "item_icon_path": "/handled_icons/WD1801.png"
+    },
+    "14244": {
+        "item_icon_path": "/handled_icons/WD1601.png"
+    },
+    "14248": {
+        "item_icon_path": "/handled_icons/WD2303.png"
+    },
+    "14249": {
+        "item_icon_path": "/handled_icons/WD1901.png"
+    },
+    "14251": {
+        "item_icon_path": "/handled_icons/WD2401.png"
+    },
+    "14254": {
+        "item_icon_path": "/handled_icons/WD2601.png"
+    },
+    "14255": {
+        "item_icon_path": "/handled_icons/WD2802.png"
+    },
+    "17708": {
+        "item_icon_path": "/handled_icons/I01901.png"
+    },
+    "17709": {
+        "item_icon_path": "/handled_icons/I01903.png"
+    },
+    "17710": {
+        "item_icon_path": "/handled_icons/I01912.png"
+    },
+    "17711": {
+        "item_icon_path": "/handled_icons/I01914.png"
+    },
+    "17712": {
+        "item_icon_path": "/handled_icons/I01917.png"
+    },
+    "17713": {
+        "item_icon_path": "/handled_icons/I01920.png"
+    },
+    "18037": {
+        "item_icon_path": "/handled_icons/I00720.png"
+    },
+    "18038": {
+        "item_icon_path": "/handled_icons/I00445.png"
+    },
+    "18039": {
+        "item_icon_path": "/handled_icons/I00076.png"
+    },
+    "18543": {
+        "item_icon_path": "/handled_icons/I01937.png"
+    },
+    "18544": {
+        "item_icon_path": "/handled_icons/I01938.png"
+    },
+    "18545": {
+        "item_icon_path": "/handled_icons/I01939.png"
+    },
+    "18546": {
+        "item_icon_path": "/handled_icons/I01940.png"
+    },
+    "18547": {
+        "item_icon_path": "/handled_icons/I01941.png"
+    },
+    "18548": {
+        "item_icon_path": "/handled_icons/I01942.png"
+    },
+    "18549": {
+        "item_icon_path": "/handled_icons/I01943.png"
+    },
+    "18550": {
+        "item_icon_path": "/handled_icons/I01946.png"
+    },
+    "18551": {
+        "item_icon_path": "/handled_icons/I01947.png"
+    },
+    "18552": {
+        "item_icon_path": "/handled_icons/I01944.png"
+    },
+    "18553": {
+        "item_icon_path": "/handled_icons/I01945.png"
+    },
+    "18554": {
+        "item_icon_path": "/handled_icons/I01948.png"
+    },
+    "18555": {
+        "item_icon_path": "/handled_icons/I01949.png"
+    },
+    "18556": {
+        "item_icon_path": "/handled_icons/I01950.png"
+    },
+    "18557": {
+        "item_icon_path": "/handled_icons/I01951.png"
+    },
+    "18558": {
+        "item_icon_path": "/handled_icons/I01952.png"
+    },
+    "18559": {
+        "item_icon_path": "/handled_icons/I01953.png"
+    },
+    "18560": {
+        "item_icon_path": "/handled_icons/I01954.png"
+    },
+    "18562": {
+        "item_icon_path": "/handled_icons/I01956.png"
+    },
+    "18563": {
+        "item_icon_path": "/handled_icons/I01957.png"
+    },
+    "18565": {
+        "item_icon_path": "/handled_icons/I01959.png"
+    },
+    "18566": {
+        "item_icon_path": "/handled_icons/I01960.png"
+    },
+    "18568": {
+        "item_icon_path": "/handled_icons/I01962.png"
+    },
+    "18569": {
+        "item_icon_path": "/handled_icons/I01963.png"
+    },
+    "18571": {
+        "item_icon_path": "/handled_icons/I01965.png"
+    },
+    "18572": {
+        "item_icon_path": "/handled_icons/I01966.png"
+    },
+    "18574": {
+        "item_icon_path": "/handled_icons/I01968.png"
+    },
+    "18575": {
+        "item_icon_path": "/handled_icons/I01969.png"
+    },
+    "18577": {
+        "item_icon_path": "/handled_icons/I01971.png"
+    },
+    "18578": {
+        "item_icon_path": "/handled_icons/I01972.png"
+    },
+    "18580": {
+        "item_icon_path": "/handled_icons/I01974.png"
+    },
+    "18581": {
+        "item_icon_path": "/handled_icons/I01975.png"
+    },
+    "18583": {
+        "item_icon_path": "/handled_icons/I01977.png"
+    },
+    "18584": {
+        "item_icon_path": "/handled_icons/I01978.png"
+    },
+    "18586": {
+        "item_icon_path": "/handled_icons/I01980.png"
+    },
+    "18587": {
+        "item_icon_path": "/handled_icons/I01981.png"
+    },
+    "18589": {
+        "item_icon_path": "/handled_icons/I01983.png"
+    },
+    "19295": {
+        "item_icon_path": "/handled_icons/I02162.png"
+    },
+    "19296": {
+        "item_icon_path": "/handled_icons/I02163.png"
+    },
+    "19297": {
+        "item_icon_path": "/handled_icons/I02164.png"
+    },
+    "19298": {
+        "item_icon_path": "/handled_icons/I02166.png"
+    },
+    "19299": {
+        "item_icon_path": "/handled_icons/I02167.png"
+    },
+    "19300": {
+        "item_icon_path": "/handled_icons/I02168.png"
+    },
+    "19301": {
+        "item_icon_path": "/handled_icons/I02170.png"
+    },
+    "19302": {
+        "item_icon_path": "/handled_icons/I02171.png"
+    },
+    "19303": {
+        "item_icon_path": "/handled_icons/I02172.png"
+    },
+    "19304": {
+        "item_icon_path": "/handled_icons/I02194.png"
+    },
+    "19305": {
+        "item_icon_path": "/handled_icons/I02195.png"
+    },
+    "19306": {
+        "item_icon_path": "/handled_icons/I02196.png"
+    },
+    "19307": {
+        "item_icon_path": "/handled_icons/I02198.png"
+    },
+    "19308": {
+        "item_icon_path": "/handled_icons/I02199.png"
+    },
+    "19309": {
+        "item_icon_path": "/handled_icons/I02200.png"
+    },
+    "19310": {
+        "item_icon_path": "/handled_icons/I02202.png"
+    },
+    "19311": {
+        "item_icon_path": "/handled_icons/I02203.png"
+    },
+    "19312": {
+        "item_icon_path": "/handled_icons/I02204.png"
+    },
+    "19319": {
+        "item_icon_path": "/handled_icons/I02176.png"
+    },
+    "19320": {
+        "item_icon_path": "/handled_icons/I02175.png"
+    },
+    "19321": {
+        "item_icon_path": "/handled_icons/I02178.png"
+    },
+    "19322": {
+        "item_icon_path": "/handled_icons/I02181.png"
+    },
+    "19323": {
+        "item_icon_path": "/handled_icons/I02180.png"
+    },
+    "19324": {
+        "item_icon_path": "/handled_icons/I02183.png"
+    },
+    "19325": {
+        "item_icon_path": "/handled_icons/I02186.png"
+    },
+    "19326": {
+        "item_icon_path": "/handled_icons/I02185.png"
+    },
+    "19327": {
+        "item_icon_path": "/handled_icons/I02188.png"
+    },
+    "19328": {
+        "item_icon_path": "/handled_icons/I02191.png"
+    },
+    "19329": {
+        "item_icon_path": "/handled_icons/I02190.png"
+    },
+    "19330": {
+        "item_icon_path": "/handled_icons/I02193.png"
+    },
+    "19331": {
+        "item_icon_path": "/handled_icons/I02206.png"
+    },
+    "19332": {
+        "item_icon_path": "/handled_icons/I02207.png"
+    },
+    "19333": {
+        "item_icon_path": "/handled_icons/I02208.png"
+    },
+    "19334": {
+        "item_icon_path": "/handled_icons/I02211.png"
+    },
+    "19335": {
+        "item_icon_path": "/handled_icons/I02212.png"
+    },
+    "19336": {
+        "item_icon_path": "/handled_icons/I02213.png"
+    },
+    "19337": {
+        "item_icon_path": "/handled_icons/I02216.png"
+    },
+    "19338": {
+        "item_icon_path": "/handled_icons/I02217.png"
+    },
+    "19339": {
+        "item_icon_path": "/handled_icons/I02218.png"
+    },
+    "19340": {
+        "item_icon_path": "/handled_icons/I02221.png"
+    },
+    "19341": {
+        "item_icon_path": "/handled_icons/I02222.png"
+    },
+    "19342": {
+        "item_icon_path": "/handled_icons/I02223.png"
+    },
+    "20360": {
+        "item_icon_path": "/handled_icons/I00175.png"
+    },
+    "20361": {
+        "item_icon_path": "/handled_icons/I00753.png"
+    },
+    "20362": {
+        "item_icon_path": "/handled_icons/I00090.png"
+    },
+    "20363": {
+        "item_icon_path": "/handled_icons/I00157.png"
+    },
+    "20364": {
+        "item_icon_path": "/handled_icons/I00097.png"
+    },
+    "20365": {
+        "item_icon_path": "/handled_icons/I00563.png"
+    },
+    "20496": {
+        "item_icon_path": "/handled_icons/I01548.png"
+    },
+    "20497": {
+        "item_icon_path": "/handled_icons/I01549.png"
+    },
+    "20498": {
+        "item_icon_path": "/handled_icons/I01550.png"
+    },
+    "20499": {
+        "item_icon_path": "/handled_icons/I01551.png"
+    },
+    "20500": {
+        "item_icon_path": "/handled_icons/I01552.png"
+    },
+    "20501": {
+        "item_icon_path": "/handled_icons/I01553.png"
+    },
+    "20962": {
+        "item_icon_path": "/handled_icons/I00047.png"
+    },
+    "20963": {
+        "item_icon_path": "/handled_icons/I01575.png"
+    },
+    "21000": {
+        "item_icon_path": "/handled_icons/I01573.png"
+    },
+    "21001": {
+        "item_icon_path": "/handled_icons/I01574.png"
+    },
+    "21035": {
+        "item_icon_path": "/handled_icons/I01576.png"
+    },
+    "21066": {
+        "item_icon_path": "/handled_icons/I01588.png"
+    },
+    "21075": {
+        "item_icon_path": "/handled_icons/I01579.png"
+    },
+    "21076": {
+        "item_icon_path": "/handled_icons/I01581.png"
+    },
+    "21077": {
+        "item_icon_path": "/handled_icons/I01584.png"
+    },
+    "21078": {
+        "item_icon_path": "/handled_icons/I01586.png"
+    },
+    "21083": {
+        "item_icon_path": "/handled_icons/I01571.png"
+    },
+    "21084": {
+        "item_icon_path": "/handled_icons/I01668.png"
+    },
+    "21085": {
+        "item_icon_path": "/handled_icons/I01572.png"
+    },
+    "21086": {
+        "item_icon_path": "/handled_icons/I01669.png"
+    },
+    "21091": {
+        "item_icon_path": "/handled_icons/I01322.png"
+    },
+    "21092": {
+        "item_icon_path": "/handled_icons/I01322.png"
+    },
+    "21382": {
+        "item_icon_path": "/handled_icons/I01590.png"
+    },
+    "21383": {
+        "item_icon_path": "/handled_icons/I01591.png"
+    },
+    "21384": {
+        "item_icon_path": "/handled_icons/I01592.png"
+    },
+    "21385": {
+        "item_icon_path": "/handled_icons/I01593.png"
+    },
+    "21386": {
+        "item_icon_path": "/handled_icons/I01594.png"
+    },
+    "21387": {
+        "item_icon_path": "/handled_icons/I01595.png"
+    },
+    "21400": {
+        "item_icon_path": "/handled_icons/W79401.png"
+    },
+    "21401": {
+        "item_icon_path": "/handled_icons/W86801.png"
+    },
+    "21402": {
+        "item_icon_path": "/handled_icons/W79501.png"
+    },
+    "21403": {
+        "item_icon_path": "/handled_icons/W86901.png"
+    },
+    "21404": {
+        "item_icon_path": "/handled_icons/W79601.png"
+    },
+    "21405": {
+        "item_icon_path": "/handled_icons/W87001.png"
+    },
+    "21406": {
+        "item_icon_path": "/handled_icons/W33801.png"
+    },
+    "21407": {
+        "item_icon_path": "/handled_icons/W43901.png"
+    },
+    "21408": {
+        "item_icon_path": "/handled_icons/W54901.png"
+    },
+    "21409": {
+        "item_icon_path": "/handled_icons/W55001.png"
+    },
+    "21410": {
+        "item_icon_path": "/handled_icons/W66101.png"
+    },
+    "21411": {
+        "item_icon_path": "/handled_icons/I01606.png"
+    },
+    "21412": {
+        "item_icon_path": "/handled_icons/I01607.png"
+    },
+    "21413": {
+        "item_icon_path": "/handled_icons/I01608.png"
+    },
+    "21414": {
+        "item_icon_path": "/handled_icons/A10543.png"
+    },
+    "21415": {
+        "item_icon_path": "/handled_icons/A20560.png"
+    },
+    "21416": {
+        "item_icon_path": "/handled_icons/A30225.png"
+    },
+    "21417": {
+        "item_icon_path": "/handled_icons/A40221.png"
+    },
+    "21418": {
+        "item_icon_path": "/handled_icons/A50209.png"
+    },
+    "21419": {
+        "item_icon_path": "/handled_icons/A10544.png"
+    },
+    "21420": {
+        "item_icon_path": "/handled_icons/A20561.png"
+    },
+    "21421": {
+        "item_icon_path": "/handled_icons/A30226.png"
+    },
+    "21422": {
+        "item_icon_path": "/handled_icons/A40222.png"
+    },
+    "21423": {
+        "item_icon_path": "/handled_icons/A50210.png"
+    },
+    "21424": {
+        "item_icon_path": "/handled_icons/A10545.png"
+    },
+    "21425": {
+        "item_icon_path": "/handled_icons/A20562.png"
+    },
+    "21426": {
+        "item_icon_path": "/handled_icons/A30227.png"
+    },
+    "21427": {
+        "item_icon_path": "/handled_icons/A40223.png"
+    },
+    "21428": {
+        "item_icon_path": "/handled_icons/A50212.png"
+    },
+    "21429": {
+        "item_icon_path": "/handled_icons/A10546.png"
+    },
+    "21430": {
+        "item_icon_path": "/handled_icons/A20563.png"
+    },
+    "21431": {
+        "item_icon_path": "/handled_icons/A30228.png"
+    },
+    "21432": {
+        "item_icon_path": "/handled_icons/A40224.png"
+    },
+    "21433": {
+        "item_icon_path": "/handled_icons/A50213.png"
+    },
+    "21434": {
+        "item_icon_path": "/handled_icons/A10549.png"
+    },
+    "21435": {
+        "item_icon_path": "/handled_icons/A20566.png"
+    },
+    "21436": {
+        "item_icon_path": "/handled_icons/A30231.png"
+    },
+    "21437": {
+        "item_icon_path": "/handled_icons/A40227.png"
+    },
+    "21438": {
+        "item_icon_path": "/handled_icons/A50216.png"
+    },
+    "21439": {
+        "item_icon_path": "/handled_icons/A10550.png"
+    },
+    "21440": {
+        "item_icon_path": "/handled_icons/A20567.png"
+    },
+    "21441": {
+        "item_icon_path": "/handled_icons/A30232.png"
+    },
+    "21442": {
+        "item_icon_path": "/handled_icons/A40228.png"
+    },
+    "21443": {
+        "item_icon_path": "/handled_icons/A50217.png"
+    },
+    "21444": {
+        "item_icon_path": "/handled_icons/A10547.png"
+    },
+    "21445": {
+        "item_icon_path": "/handled_icons/A20564.png"
+    },
+    "21446": {
+        "item_icon_path": "/handled_icons/A30229.png"
+    },
+    "21447": {
+        "item_icon_path": "/handled_icons/A40225.png"
+    },
+    "21448": {
+        "item_icon_path": "/handled_icons/A50214.png"
+    },
+    "21449": {
+        "item_icon_path": "/handled_icons/A10548.png"
+    },
+    "21450": {
+        "item_icon_path": "/handled_icons/A20565.png"
+    },
+    "21451": {
+        "item_icon_path": "/handled_icons/A30230.png"
+    },
+    "21452": {
+        "item_icon_path": "/handled_icons/A40226.png"
+    },
+    "21453": {
+        "item_icon_path": "/handled_icons/A50215.png"
+    },
+    "21575": {
+        "item_icon_path": "/handled_icons/WA0101.png"
+    },
+    "21576": {
+        "item_icon_path": "/handled_icons/W87401.png"
+    },
+    "21577": {
+        "item_icon_path": "/handled_icons/WA0201.png"
+    },
+    "21578": {
+        "item_icon_path": "/handled_icons/W87501.png"
+    },
+    "21579": {
+        "item_icon_path": "/handled_icons/WA0301.png"
+    },
+    "21580": {
+        "item_icon_path": "/handled_icons/W87601.png"
+    },
+    "21581": {
+        "item_icon_path": "/handled_icons/W55201.png"
+    },
+    "21582": {
+        "item_icon_path": "/handled_icons/W34001.png"
+    },
+    "21583": {
+        "item_icon_path": "/handled_icons/W44101.png"
+    },
+    "21584": {
+        "item_icon_path": "/handled_icons/W66301.png"
+    },
+    "21585": {
+        "item_icon_path": "/handled_icons/I01603.png"
+    },
+    "21586": {
+        "item_icon_path": "/handled_icons/I01604.png"
+    },
+    "21587": {
+        "item_icon_path": "/handled_icons/I01605.png"
+    },
+    "21735": {
+        "item_icon_path": "/handled_icons/WA0901.png"
+    },
+    "21737": {
+        "item_icon_path": "/handled_icons/WA1001.png"
+    },
+    "21738": {
+        "item_icon_path": "/handled_icons/WA1001.png"
+    },
+    "21740": {
+        "item_icon_path": "/handled_icons/WA0901.png"
+    },
+    "21741": {
+        "item_icon_path": "/handled_icons/WA0901.png"
+    },
+    "21743": {
+        "item_icon_path": "/handled_icons/WA1601.png"
+    },
+    "21744": {
+        "item_icon_path": "/handled_icons/WA1601.png"
+    },
+    "21746": {
+        "item_icon_path": "/handled_icons/WA1501.png"
+    },
+    "21747": {
+        "item_icon_path": "/handled_icons/WA1501.png"
+    },
+    "21749": {
+        "item_icon_path": "/handled_icons/WA1901.png"
+    },
+    "21751": {
+        "item_icon_path": "/handled_icons/WA1601.png"
+    },
+    "21752": {
+        "item_icon_path": "/handled_icons/WA1601.png"
+    },
+    "21754": {
+        "item_icon_path": "/handled_icons/WA1701.png"
+    },
+    "21756": {
+        "item_icon_path": "/handled_icons/WA1501.png"
+    },
+    "21757": {
+        "item_icon_path": "/handled_icons/WA1801.png"
+    },
+    "21759": {
+        "item_icon_path": "/handled_icons/WA3101.png"
+    },
+    "21760": {
+        "item_icon_path": "/handled_icons/WA3201.png"
+    },
+    "21762": {
+        "item_icon_path": "/handled_icons/WA2301.png"
+    },
+    "21763": {
+        "item_icon_path": "/handled_icons/WA2301.png"
+    },
+    "21764": {
+        "item_icon_path": "/handled_icons/WA2401.png"
+    },
+    "21766": {
+        "item_icon_path": "/handled_icons/WA2801.png"
+    },
+    "21767": {
+        "item_icon_path": "/handled_icons/WA2901.png"
+    },
+    "21769": {
+        "item_icon_path": "/handled_icons/WA2301.png"
+    },
+    "21770": {
+        "item_icon_path": "/handled_icons/WA2301.png"
+    },
+    "21771": {
+        "item_icon_path": "/handled_icons/WA2601.png"
+    },
+    "21773": {
+        "item_icon_path": "/handled_icons/WA3402.png"
+    },
+    "21774": {
+        "item_icon_path": "/handled_icons/WA3402.png"
+    },
+    "21775": {
+        "item_icon_path": "/handled_icons/WA3501.png"
+    },
+    "21776": {
+        "item_icon_path": "/handled_icons/WA3601.png"
+    },
+    "21777": {
+        "item_icon_path": "/handled_icons/WA4302.png"
+    },
+    "21778": {
+        "item_icon_path": "/handled_icons/WA3902.png"
+    },
+    "21779": {
+        "item_icon_path": "/handled_icons/WA4001.png"
+    },
+    "21780": {
+        "item_icon_path": "/handled_icons/WA4101.png"
+    },
+    "21781": {
+        "item_icon_path": "/handled_icons/WA4401.png"
+    },
+    "21782": {
+        "item_icon_path": "/handled_icons/WA4402.png"
+    },
+    "21783": {
+        "item_icon_path": "/handled_icons/WA4501.png"
+    },
+    "21784": {
+        "item_icon_path": "/handled_icons/WA4601.png"
+    },
+    "21785": {
+        "item_icon_path": "/handled_icons/W88301.png"
+    },
+    "21787": {
+        "item_icon_path": "/handled_icons/W88401.png"
+    },
+    "21788": {
+        "item_icon_path": "/handled_icons/W88401.png"
+    },
+    "21790": {
+        "item_icon_path": "/handled_icons/W88301.png"
+    },
+    "21791": {
+        "item_icon_path": "/handled_icons/W88301.png"
+    },
+    "21793": {
+        "item_icon_path": "/handled_icons/W88801.png"
+    },
+    "21794": {
+        "item_icon_path": "/handled_icons/W88801.png"
+    },
+    "21796": {
+        "item_icon_path": "/handled_icons/W88701.png"
+    },
+    "21797": {
+        "item_icon_path": "/handled_icons/W88701.png"
+    },
+    "21799": {
+        "item_icon_path": "/handled_icons/W89101.png"
+    },
+    "21801": {
+        "item_icon_path": "/handled_icons/W88801.png"
+    },
+    "21802": {
+        "item_icon_path": "/handled_icons/W88801.png"
+    },
+    "21804": {
+        "item_icon_path": "/handled_icons/W89001.png"
+    },
+    "21806": {
+        "item_icon_path": "/handled_icons/W88701.png"
+    },
+    "21807": {
+        "item_icon_path": "/handled_icons/W88901.png"
+    },
+    "21809": {
+        "item_icon_path": "/handled_icons/WB0901.png"
+    },
+    "21810": {
+        "item_icon_path": "/handled_icons/WB1001.png"
+    },
+    "21812": {
+        "item_icon_path": "/handled_icons/WB0101.png"
+    },
+    "21813": {
+        "item_icon_path": "/handled_icons/WB0101.png"
+    },
+    "21814": {
+        "item_icon_path": "/handled_icons/WB0201.png"
+    },
+    "21816": {
+        "item_icon_path": "/handled_icons/WB0601.png"
+    },
+    "21817": {
+        "item_icon_path": "/handled_icons/WB0701.png"
+    },
+    "21819": {
+        "item_icon_path": "/handled_icons/WB0101.png"
+    },
+    "21820": {
+        "item_icon_path": "/handled_icons/WB0101.png"
+    },
+    "21821": {
+        "item_icon_path": "/handled_icons/WB0401.png"
+    },
+    "21823": {
+        "item_icon_path": "/handled_icons/WB1402.png"
+    },
+    "21824": {
+        "item_icon_path": "/handled_icons/WB1402.png"
+    },
+    "21825": {
+        "item_icon_path": "/handled_icons/WB1501.png"
+    },
+    "21826": {
+        "item_icon_path": "/handled_icons/WB1601.png"
+    },
+    "21827": {
+        "item_icon_path": "/handled_icons/WB2402.png"
+    },
+    "21828": {
+        "item_icon_path": "/handled_icons/WB2102.png"
+    },
+    "21829": {
+        "item_icon_path": "/handled_icons/WB2201.png"
+    },
+    "21830": {
+        "item_icon_path": "/handled_icons/WB2301.png"
+    },
+    "21831": {
+        "item_icon_path": "/handled_icons/WB2501.png"
+    },
+    "21832": {
+        "item_icon_path": "/handled_icons/WB2502.png"
+    },
+    "21833": {
+        "item_icon_path": "/handled_icons/WB2601.png"
+    },
+    "21834": {
+        "item_icon_path": "/handled_icons/WB2701.png"
+    },
+    "21836": {
+        "item_icon_path": "/handled_icons/WC0101.png"
+    },
+    "21839": {
+        "item_icon_path": "/handled_icons/WC0201.png"
+    },
+    "21840": {
+        "item_icon_path": "/handled_icons/WC0201.png"
+    },
+    "21843": {
+        "item_icon_path": "/handled_icons/WC0101.png"
+    },
+    "21844": {
+        "item_icon_path": "/handled_icons/WC0101.png"
+    },
+    "21847": {
+        "item_icon_path": "/handled_icons/WC0501.png"
+    },
+    "21848": {
+        "item_icon_path": "/handled_icons/WC0501.png"
+    },
+    "21851": {
+        "item_icon_path": "/handled_icons/WC1101.png"
+    },
+    "21852": {
+        "item_icon_path": "/handled_icons/WC1101.png"
+    },
+    "21854": {
+        "item_icon_path": "/handled_icons/WC0601.png"
+    },
+    "21857": {
+        "item_icon_path": "/handled_icons/WC0501.png"
+    },
+    "21858": {
+        "item_icon_path": "/handled_icons/WC0501.png"
+    },
+    "21859": {
+        "item_icon_path": "/handled_icons/WC1201.png"
+    },
+    "21862": {
+        "item_icon_path": "/handled_icons/WC1101.png"
+    },
+    "21863": {
+        "item_icon_path": "/handled_icons/WC0901.png"
+    },
+    "21865": {
+        "item_icon_path": "/handled_icons/WC2301.png"
+    },
+    "21866": {
+        "item_icon_path": "/handled_icons/WC2401.png"
+    },
+    "21869": {
+        "item_icon_path": "/handled_icons/WC1501.png"
+    },
+    "21871": {
+        "item_icon_path": "/handled_icons/WC1501.png"
+    },
+    "21872": {
+        "item_icon_path": "/handled_icons/WC1601.png"
+    },
+    "21874": {
+        "item_icon_path": "/handled_icons/WC2001.png"
+    },
+    "21875": {
+        "item_icon_path": "/handled_icons/WC2101.png"
+    },
+    "21878": {
+        "item_icon_path": "/handled_icons/WC1501.png"
+    },
+    "21879": {
+        "item_icon_path": "/handled_icons/WC1501.png"
+    },
+    "21880": {
+        "item_icon_path": "/handled_icons/WC1801.png"
+    },
+    "21882": {
+        "item_icon_path": "/handled_icons/WC2802.png"
+    },
+    "21883": {
+        "item_icon_path": "/handled_icons/WC2802.png"
+    },
+    "21884": {
+        "item_icon_path": "/handled_icons/WC2901.png"
+    },
+    "21885": {
+        "item_icon_path": "/handled_icons/WC3001.png"
+    },
+    "21887": {
+        "item_icon_path": "/handled_icons/WC3402.png"
+    },
+    "21888": {
+        "item_icon_path": "/handled_icons/WC3102.png"
+    },
+    "21889": {
+        "item_icon_path": "/handled_icons/WC3201.png"
+    },
+    "21890": {
+        "item_icon_path": "/handled_icons/WC3301.png"
+    },
+    "21892": {
+        "item_icon_path": "/handled_icons/WC3501.png"
+    },
+    "21893": {
+        "item_icon_path": "/handled_icons/WC3502.png"
+    },
+    "21894": {
+        "item_icon_path": "/handled_icons/WC3601.png"
+    },
+    "21895": {
+        "item_icon_path": "/handled_icons/WC3701.png"
+    },
+    "22514": {
+        "item_icon_path": "/handled_icons/A30224.png"
+    },
+    "22515": {
+        "item_icon_path": "/handled_icons/A40220.png"
+    },
+    "22516": {
+        "item_icon_path": "/handled_icons/A50208.png"
+    },
+    "22520": {
+        "item_icon_path": "/handled_icons/A30223.png"
+    },
+    "22521": {
+        "item_icon_path": "/handled_icons/A40219.png"
+    },
+    "22522": {
+        "item_icon_path": "/handled_icons/A50207.png"
+    },
+    "22523": {
+        "item_icon_path": "/handled_icons/A30223.png"
+    },
+    "22524": {
+        "item_icon_path": "/handled_icons/A40219.png"
+    },
+    "22525": {
+        "item_icon_path": "/handled_icons/A50207.png"
+    },
+    "22531": {
+        "item_icon_path": "/handled_icons/A30235.png"
+    },
+    "22532": {
+        "item_icon_path": "/handled_icons/A40231.png"
+    },
+    "22533": {
+        "item_icon_path": "/handled_icons/A50219.png"
+    },
+    "22534": {
+        "item_icon_path": "/handled_icons/A30235.png"
+    },
+    "22535": {
+        "item_icon_path": "/handled_icons/A40231.png"
+    },
+    "22536": {
+        "item_icon_path": "/handled_icons/A50219.png"
+    },
+    "22542": {
+        "item_icon_path": "/handled_icons/A30246.png"
+    },
+    "22543": {
+        "item_icon_path": "/handled_icons/A40242.png"
+    },
+    "22544": {
+        "item_icon_path": "/handled_icons/A50230.png"
+    },
+    "22545": {
+        "item_icon_path": "/handled_icons/A30246.png"
+    },
+    "22546": {
+        "item_icon_path": "/handled_icons/A40242.png"
+    },
+    "22547": {
+        "item_icon_path": "/handled_icons/A50230.png"
+    },
+    "22558": {
+        "item_icon_path": "/handled_icons/A30247.png"
+    },
+    "22559": {
+        "item_icon_path": "/handled_icons/A40243.png"
+    },
+    "22560": {
+        "item_icon_path": "/handled_icons/A50231.png"
+    },
+    "22561": {
+        "item_icon_path": "/handled_icons/A30247.png"
+    },
+    "22562": {
+        "item_icon_path": "/handled_icons/A40243.png"
+    },
+    "22563": {
+        "item_icon_path": "/handled_icons/A50231.png"
+    },
+    "22574": {
+        "item_icon_path": "/handled_icons/A30246.png"
+    },
+    "22575": {
+        "item_icon_path": "/handled_icons/A40242.png"
+    },
+    "22576": {
+        "item_icon_path": "/handled_icons/A50230.png"
+    },
+    "22577": {
+        "item_icon_path": "/handled_icons/A30246.png"
+    },
+    "22578": {
+        "item_icon_path": "/handled_icons/A40242.png"
+    },
+    "22579": {
+        "item_icon_path": "/handled_icons/A50230.png"
+    },
+    "22596": {
+        "item_icon_path": "/handled_icons/A30247.png"
+    },
+    "22597": {
+        "item_icon_path": "/handled_icons/A40243.png"
+    },
+    "22598": {
+        "item_icon_path": "/handled_icons/A50231.png"
+    },
+    "22609": {
+        "item_icon_path": "/handled_icons/A30264.png"
+    },
+    "22610": {
+        "item_icon_path": "/handled_icons/A40260.png"
+    },
+    "22611": {
+        "item_icon_path": "/handled_icons/A50248.png"
+    },
+    "22622": {
+        "item_icon_path": "/handled_icons/A30265.png"
+    },
+    "22623": {
+        "item_icon_path": "/handled_icons/A40261.png"
+    },
+    "22624": {
+        "item_icon_path": "/handled_icons/A50249.png"
+    },
+    "22635": {
+        "item_icon_path": "/handled_icons/A30266.png"
+    },
+    "22636": {
+        "item_icon_path": "/handled_icons/A40262.png"
+    },
+    "22637": {
+        "item_icon_path": "/handled_icons/A50250.png"
+    },
+    "22638": {
+        "item_icon_path": "/handled_icons/A30279.png"
+    },
+    "22639": {
+        "item_icon_path": "/handled_icons/A30270.png"
+    },
+    "22640": {
+        "item_icon_path": "/handled_icons/A40275.png"
+    },
+    "22641": {
+        "item_icon_path": "/handled_icons/A40266.png"
+    },
+    "22642": {
+        "item_icon_path": "/handled_icons/A50263.png"
+    },
+    "22643": {
+        "item_icon_path": "/handled_icons/A50254.png"
+    },
+    "22644": {
+        "item_icon_path": "/handled_icons/A20620.png"
+    },
+    "22645": {
+        "item_icon_path": "/handled_icons/A20611.png"
+    },
+    "22646": {
+        "item_icon_path": "/handled_icons/A10609.png"
+    },
+    "22647": {
+        "item_icon_path": "/handled_icons/A10600.png"
+    },
+    "22648": {
+        "item_icon_path": "/handled_icons/A30279.png"
+    },
+    "22649": {
+        "item_icon_path": "/handled_icons/A30270.png"
+    },
+    "22650": {
+        "item_icon_path": "/handled_icons/A40275.png"
+    },
+    "22651": {
+        "item_icon_path": "/handled_icons/A40266.png"
+    },
+    "22652": {
+        "item_icon_path": "/handled_icons/A50263.png"
+    },
+    "22653": {
+        "item_icon_path": "/handled_icons/A50254.png"
+    },
+    "22654": {
+        "item_icon_path": "/handled_icons/A20620.png"
+    },
+    "22655": {
+        "item_icon_path": "/handled_icons/A20611.png"
+    },
+    "22656": {
+        "item_icon_path": "/handled_icons/A10609.png"
+    },
+    "22657": {
+        "item_icon_path": "/handled_icons/A10600.png"
+    },
+    "22658": {
+        "item_icon_path": "/handled_icons/A30267.png"
+    },
+    "22659": {
+        "item_icon_path": "/handled_icons/A40263.png"
+    },
+    "22660": {
+        "item_icon_path": "/handled_icons/A50251.png"
+    },
+    "22671": {
+        "item_icon_path": "/handled_icons/A30282.png"
+    },
+    "22672": {
+        "item_icon_path": "/handled_icons/A40278.png"
+    },
+    "22673": {
+        "item_icon_path": "/handled_icons/A50266.png"
+    },
+    "22674": {
+        "item_icon_path": "/handled_icons/A30291.png"
+    },
+    "22675": {
+        "item_icon_path": "/handled_icons/A30282.png"
+    },
+    "22676": {
+        "item_icon_path": "/handled_icons/A40287.png"
+    },
+    "22677": {
+        "item_icon_path": "/handled_icons/A40278.png"
+    },
+    "22678": {
+        "item_icon_path": "/handled_icons/A50275.png"
+    },
+    "22679": {
+        "item_icon_path": "/handled_icons/A50266.png"
+    },
+    "22680": {
+        "item_icon_path": "/handled_icons/A20640.png"
+    },
+    "22681": {
+        "item_icon_path": "/handled_icons/A20631.png"
+    },
+    "22682": {
+        "item_icon_path": "/handled_icons/A10632.png"
+    },
+    "22683": {
+        "item_icon_path": "/handled_icons/A10623.png"
+    },
+    "22684": {
+        "item_icon_path": "/handled_icons/A30296.png"
+    },
+    "22685": {
+        "item_icon_path": "/handled_icons/A30287.png"
+    },
+    "22686": {
+        "item_icon_path": "/handled_icons/A40292.png"
+    },
+    "22687": {
+        "item_icon_path": "/handled_icons/A40283.png"
+    },
+    "22688": {
+        "item_icon_path": "/handled_icons/A50280.png"
+    },
+    "22689": {
+        "item_icon_path": "/handled_icons/A50271.png"
+    },
+    "22690": {
+        "item_icon_path": "/handled_icons/A20645.png"
+    },
+    "22691": {
+        "item_icon_path": "/handled_icons/A20636.png"
+    },
+    "22692": {
+        "item_icon_path": "/handled_icons/A10637.png"
+    },
+    "22693": {
+        "item_icon_path": "/handled_icons/A10628.png"
+    },
+    "22694": {
+        "item_icon_path": "/handled_icons/A10700.png"
+    },
+    "22695": {
+        "item_icon_path": "/handled_icons/A20706.png"
+    },
+    "22696": {
+        "item_icon_path": "/handled_icons/A30329.png"
+    },
+    "22697": {
+        "item_icon_path": "/handled_icons/A40325.png"
+    },
+    "22698": {
+        "item_icon_path": "/handled_icons/A50313.png"
+    },
+    "22699": {
+        "item_icon_path": "/handled_icons/A10699.png"
+    },
+    "22700": {
+        "item_icon_path": "/handled_icons/A20705.png"
+    },
+    "22701": {
+        "item_icon_path": "/handled_icons/A30328.png"
+    },
+    "22702": {
+        "item_icon_path": "/handled_icons/A40324.png"
+    },
+    "22703": {
+        "item_icon_path": "/handled_icons/A50312.png"
+    },
+    "22714": {
+        "item_icon_path": "/handled_icons/A30300.png"
+    },
+    "22715": {
+        "item_icon_path": "/handled_icons/A40296.png"
+    },
+    "22716": {
+        "item_icon_path": "/handled_icons/A50284.png"
+    },
+    "22727": {
+        "item_icon_path": "/handled_icons/A30305.png"
+    },
+    "22728": {
+        "item_icon_path": "/handled_icons/A40301.png"
+    },
+    "22729": {
+        "item_icon_path": "/handled_icons/A50289.png"
+    },
+    "22730": {
+        "item_icon_path": "/handled_icons/A10655.png"
+    },
+    "22731": {
+        "item_icon_path": "/handled_icons/A20663.png"
+    },
+    "22732": {
+        "item_icon_path": "/handled_icons/A30314.png"
+    },
+    "22733": {
+        "item_icon_path": "/handled_icons/A40310.png"
+    },
+    "22734": {
+        "item_icon_path": "/handled_icons/A50298.png"
+    },
+    "22735": {
+        "item_icon_path": "/handled_icons/A10646.png"
+    },
+    "22736": {
+        "item_icon_path": "/handled_icons/A20654.png"
+    },
+    "22737": {
+        "item_icon_path": "/handled_icons/A30305.png"
+    },
+    "22738": {
+        "item_icon_path": "/handled_icons/A40301.png"
+    },
+    "22739": {
+        "item_icon_path": "/handled_icons/A50289.png"
+    },
+    "22740": {
+        "item_icon_path": "/handled_icons/A10661.png"
+    },
+    "22741": {
+        "item_icon_path": "/handled_icons/A20669.png"
+    },
+    "22742": {
+        "item_icon_path": "/handled_icons/A30320.png"
+    },
+    "22743": {
+        "item_icon_path": "/handled_icons/A40316.png"
+    },
+    "22744": {
+        "item_icon_path": "/handled_icons/A50304.png"
+    },
+    "22745": {
+        "item_icon_path": "/handled_icons/A10658.png"
+    },
+    "22746": {
+        "item_icon_path": "/handled_icons/A20666.png"
+    },
+    "22747": {
+        "item_icon_path": "/handled_icons/A30317.png"
+    },
+    "22748": {
+        "item_icon_path": "/handled_icons/A40313.png"
+    },
+    "22749": {
+        "item_icon_path": "/handled_icons/A50301.png"
+    },
+    "22750": {
+        "item_icon_path": "/handled_icons/A10702.png"
+    },
+    "22751": {
+        "item_icon_path": "/handled_icons/A20708.png"
+    },
+    "22752": {
+        "item_icon_path": "/handled_icons/A30331.png"
+    },
+    "22753": {
+        "item_icon_path": "/handled_icons/A40327.png"
+    },
+    "22754": {
+        "item_icon_path": "/handled_icons/A50315.png"
+    },
+    "22755": {
+        "item_icon_path": "/handled_icons/A10701.png"
+    },
+    "22756": {
+        "item_icon_path": "/handled_icons/A20707.png"
+    },
+    "22757": {
+        "item_icon_path": "/handled_icons/A30330.png"
+    },
+    "22758": {
+        "item_icon_path": "/handled_icons/A40326.png"
+    },
+    "22759": {
+        "item_icon_path": "/handled_icons/A50314.png"
+    },
+    "25055": {
+        "item_icon_path": "/handled_icons/A00014.png"
+    },
+    "25056": {
+        "item_icon_path": "/handled_icons/I00966.png"
+    },
+    "25057": {
+        "item_icon_path": "/handled_icons/I00266.png"
+    },
+    "25084": {
+        "item_icon_path": "/handled_icons/A30127.png"
+    },
+    "25085": {
+        "item_icon_path": "/handled_icons/A40123.png"
+    },
+    "25086": {
+        "item_icon_path": "/handled_icons/A30128.png"
+    },
+    "25087": {
+        "item_icon_path": "/handled_icons/A40124.png"
+    },
+    "25088": {
+        "item_icon_path": "/handled_icons/A30129.png"
+    },
+    "25089": {
+        "item_icon_path": "/handled_icons/A40125.png"
+    },
+    "25090": {
+        "item_icon_path": "/handled_icons/A30130.png"
+    },
+    "25091": {
+        "item_icon_path": "/handled_icons/A40126.png"
+    },
+    "25092": {
+        "item_icon_path": "/handled_icons/A30131.png"
+    },
+    "25093": {
+        "item_icon_path": "/handled_icons/A40127.png"
+    },
+    "25094": {
+        "item_icon_path": "/handled_icons/A30132.png"
+    },
+    "25095": {
+        "item_icon_path": "/handled_icons/A40128.png"
+    },
+    "25096": {
+        "item_icon_path": "/handled_icons/A30133.png"
+    },
+    "25097": {
+        "item_icon_path": "/handled_icons/A40129.png"
+    },
+    "25098": {
+        "item_icon_path": "/handled_icons/A30134.png"
+    },
+    "25099": {
+        "item_icon_path": "/handled_icons/A40130.png"
+    },
+    "25617": {
+        "item_icon_path": "/handled_icons/I00630.png"
+    },
+    "25618": {
+        "item_icon_path": "/handled_icons/I00631.png"
+    },
+    "25619": {
+        "item_icon_path": "/handled_icons/I00632.png"
+    },
+    "25620": {
+        "item_icon_path": "/handled_icons/I00633.png"
+    },
+    "25621": {
+        "item_icon_path": "/handled_icons/I00635.png"
+    },
+    "25622": {
+        "item_icon_path": "/handled_icons/I00238.png"
+    },
+    "25623": {
+        "item_icon_path": "/handled_icons/A10402.png"
+    },
+    "25624": {
+        "item_icon_path": "/handled_icons/A20415.png"
+    },
+    "25625": {
+        "item_icon_path": "/handled_icons/A30175.png"
+    },
+    "25626": {
+        "item_icon_path": "/handled_icons/A40171.png"
+    },
+    "25627": {
+        "item_icon_path": "/handled_icons/A50159.png"
+    },
+    "25628": {
+        "item_icon_path": "/handled_icons/A10401.png"
+    },
+    "25629": {
+        "item_icon_path": "/handled_icons/A20414.png"
+    },
+    "25630": {
+        "item_icon_path": "/handled_icons/A30174.png"
+    },
+    "25631": {
+        "item_icon_path": "/handled_icons/A40170.png"
+    },
+    "25632": {
+        "item_icon_path": "/handled_icons/A50158.png"
+    },
+    "25633": {
+        "item_icon_path": "/handled_icons/A10403.png"
+    },
+    "25634": {
+        "item_icon_path": "/handled_icons/A20416.png"
+    },
+    "25635": {
+        "item_icon_path": "/handled_icons/A30176.png"
+    },
+    "25636": {
+        "item_icon_path": "/handled_icons/A40172.png"
+    },
+    "25637": {
+        "item_icon_path": "/handled_icons/A50160.png"
+    },
+    "25638": {
+        "item_icon_path": "/handled_icons/A10404.png"
+    },
+    "25639": {
+        "item_icon_path": "/handled_icons/A20417.png"
+    },
+    "25640": {
+        "item_icon_path": "/handled_icons/A30177.png"
+    },
+    "25641": {
+        "item_icon_path": "/handled_icons/A40173.png"
+    },
+    "25642": {
+        "item_icon_path": "/handled_icons/A50161.png"
+    },
+    "25643": {
+        "item_icon_path": "/handled_icons/A10406.png"
+    },
+    "25644": {
+        "item_icon_path": "/handled_icons/A20419.png"
+    },
+    "25645": {
+        "item_icon_path": "/handled_icons/A30179.png"
+    },
+    "25646": {
+        "item_icon_path": "/handled_icons/A40175.png"
+    },
+    "25647": {
+        "item_icon_path": "/handled_icons/A50163.png"
+    },
+    "25648": {
+        "item_icon_path": "/handled_icons/A10405.png"
+    },
+    "25649": {
+        "item_icon_path": "/handled_icons/A20418.png"
+    },
+    "25650": {
+        "item_icon_path": "/handled_icons/A30178.png"
+    },
+    "25651": {
+        "item_icon_path": "/handled_icons/A40174.png"
+    },
+    "25652": {
+        "item_icon_path": "/handled_icons/A50162.png"
+    },
+    "25653": {
+        "item_icon_path": "/handled_icons/A10407.png"
+    },
+    "25654": {
+        "item_icon_path": "/handled_icons/A20420.png"
+    },
+    "25655": {
+        "item_icon_path": "/handled_icons/A30180.png"
+    },
+    "25656": {
+        "item_icon_path": "/handled_icons/A40176.png"
+    },
+    "25657": {
+        "item_icon_path": "/handled_icons/A50164.png"
+    },
+    "25658": {
+        "item_icon_path": "/handled_icons/A10408.png"
+    },
+    "25659": {
+        "item_icon_path": "/handled_icons/A20421.png"
+    },
+    "25660": {
+        "item_icon_path": "/handled_icons/A30181.png"
+    },
+    "25661": {
+        "item_icon_path": "/handled_icons/A40177.png"
+    },
+    "25662": {
+        "item_icon_path": "/handled_icons/A50165.png"
+    },
+    "25743": {
+        "item_icon_path": "/handled_icons/I00017.png"
+    },
+    "25744": {
+        "item_icon_path": "/handled_icons/I00018.png"
+    },
+    "25745": {
+        "item_icon_path": "/handled_icons/I00016.png"
+    },
+    "25746": {
+        "item_icon_path": "/handled_icons/I00084.png"
+    },
+    "25747": {
+        "item_icon_path": "/handled_icons/I01264.png"
+    },
+    "25748": {
+        "item_icon_path": "/handled_icons/I01266.png"
+    },
+    "25749": {
+        "item_icon_path": "/handled_icons/I01270.png"
+    },
+    "25750": {
+        "item_icon_path": "/handled_icons/I00356.png"
+    },
+    "25751": {
+        "item_icon_path": "/handled_icons/I01346.png"
+    },
+    "25752": {
+        "item_icon_path": "/handled_icons/I00107.png"
+    },
+    "25753": {
+        "item_icon_path": "/handled_icons/I00267.png"
+    },
+    "25754": {
+        "item_icon_path": "/handled_icons/I01343.png"
+    },
+    "25755": {
+        "item_icon_path": "/handled_icons/I01344.png"
+    },
+    "25756": {
+        "item_icon_path": "/handled_icons/I01345.png"
+    },
+    "25757": {
+        "item_icon_path": "/handled_icons/I01339.png"
+    },
+    "25758": {
+        "item_icon_path": "/handled_icons/I01336.png"
+    },
+    "25759": {
+        "item_icon_path": "/handled_icons/I01337.png"
+    },
+    "25760": {
+        "item_icon_path": "/handled_icons/I01338.png"
+    },
+    "25761": {
+        "item_icon_path": "/handled_icons/I01341.png"
+    },
+    "25762": {
+        "item_icon_path": "/handled_icons/I01347.png"
+    },
+    "25763": {
+        "item_icon_path": "/handled_icons/I01342.png"
+    },
+    "25764": {
+        "item_icon_path": "/handled_icons/I01340.png"
+    },
+    "25785": {
+        "item_icon_path": "/handled_icons/I01304.png"
+    },
+    "25786": {
+        "item_icon_path": "/handled_icons/I01305.png"
+    },
+    "25787": {
+        "item_icon_path": "/handled_icons/I01306.png"
+    },
+    "25788": {
+        "item_icon_path": "/handled_icons/I01350.png"
+    },
+    "25789": {
+        "item_icon_path": "/handled_icons/I01358.png"
+    },
+    "25790": {
+        "item_icon_path": "/handled_icons/I01311.png"
+    },
+    "25791": {
+        "item_icon_path": "/handled_icons/I01313.png"
+    },
+    "25792": {
+        "item_icon_path": "/handled_icons/I01312.png"
+    },
+    "25793": {
+        "item_icon_path": "/handled_icons/I01359.png"
+    },
+    "25794": {
+        "item_icon_path": "/handled_icons/I01353.png"
+    },
+    "25807": {
+        "item_icon_path": "/handled_icons/I01289.png"
+    },
+    "25808": {
+        "item_icon_path": "/handled_icons/I01290.png"
+    },
+    "25809": {
+        "item_icon_path": "/handled_icons/I01291.png"
+    },
+    "25810": {
+        "item_icon_path": "/handled_icons/I01292.png"
+    },
+    "25811": {
+        "item_icon_path": "/handled_icons/I01295.png"
+    },
+    "25812": {
+        "item_icon_path": "/handled_icons/I01296.png"
+    },
+    "25813": {
+        "item_icon_path": "/handled_icons/I01293.png"
+    },
+    "25814": {
+        "item_icon_path": "/handled_icons/I01294.png"
+    },
+    "25815": {
+        "item_icon_path": "/handled_icons/I01297.png"
+    },
+    "25816": {
+        "item_icon_path": "/handled_icons/I01298.png"
+    },
+    "25817": {
+        "item_icon_path": "/handled_icons/I01299.png"
+    },
+    "25818": {
+        "item_icon_path": "/handled_icons/I01300.png"
+    },
+    "25831": {
+        "item_icon_path": "/handled_icons/I01322.png"
+    },
+    "25832": {
+        "item_icon_path": "/handled_icons/I01322.png"
+    },
+    "25833": {
+        "item_icon_path": "/handled_icons/I01322.png"
+    },
+    "25834": {
+        "item_icon_path": "/handled_icons/I01322.png"
+    },
+    "25835": {
+        "item_icon_path": "/handled_icons/I01322.png"
+    },
+    "25836": {
+        "item_icon_path": "/handled_icons/I01322.png"
+    },
+    "26055": {
+        "item_icon_path": "/handled_icons/I01185.png"
+    },
+    "26056": {
+        "item_icon_path": "/handled_icons/I01186.png"
+    },
+    "26057": {
+        "item_icon_path": "/handled_icons/I01181.png"
+    },
+    "26058": {
+        "item_icon_path": "/handled_icons/I01182.png"
+    },
+    "26059": {
+        "item_icon_path": "/handled_icons/I01183.png"
+    },
+    "26060": {
+        "item_icon_path": "/handled_icons/I01184.png"
+    },
+    "26061": {
+        "item_icon_path": "/handled_icons/W74601.png"
+    },
+    "26062": {
+        "item_icon_path": "/handled_icons/W81801.png"
+    },
+    "26063": {
+        "item_icon_path": "/handled_icons/W74701.png"
+    },
+    "26064": {
+        "item_icon_path": "/handled_icons/W81901.png"
+    },
+    "26065": {
+        "item_icon_path": "/handled_icons/W74801.png"
+    },
+    "26066": {
+        "item_icon_path": "/handled_icons/W82001.png"
+    },
+    "26067": {
+        "item_icon_path": "/handled_icons/W33101.png"
+    },
+    "26068": {
+        "item_icon_path": "/handled_icons/W43101.png"
+    },
+    "26070": {
+        "item_icon_path": "/handled_icons/W53802.png"
+    },
+    "26071": {
+        "item_icon_path": "/handled_icons/W64401.png"
+    },
+    "26072": {
+        "item_icon_path": "/handled_icons/W64402.png"
+    },
+    "26073": {
+        "item_icon_path": "/handled_icons/I00197.png"
+    },
+    "26074": {
+        "item_icon_path": "/handled_icons/I00497.png"
+    },
+    "26075": {
+        "item_icon_path": "/handled_icons/I00625.png"
+    },
+    "26303": {
+        "item_icon_path": "/handled_icons/I01378.png"
+    },
+    "26304": {
+        "item_icon_path": "/handled_icons/I01379.png"
+    },
+    "26305": {
+        "item_icon_path": "/handled_icons/I01380.png"
+    },
+    "26306": {
+        "item_icon_path": "/handled_icons/I01383.png"
+    },
+    "26307": {
+        "item_icon_path": "/handled_icons/I01384.png"
+    },
+    "26308": {
+        "item_icon_path": "/handled_icons/I01385.png"
+    },
+    "26309": {
+        "item_icon_path": "/handled_icons/I01388.png"
+    },
+    "26310": {
+        "item_icon_path": "/handled_icons/I01390.png"
+    },
+    "26311": {
+        "item_icon_path": "/handled_icons/I01389.png"
+    },
+    "26321": {
+        "item_icon_path": "/handled_icons/I01386.png"
+    },
+    "26322": {
+        "item_icon_path": "/handled_icons/I01387.png"
+    },
+    "26323": {
+        "item_icon_path": "/handled_icons/I01391.png"
+    },
+    "26324": {
+        "item_icon_path": "/handled_icons/I01392.png"
+    },
+    "26325": {
+        "item_icon_path": "/handled_icons/I01381.png"
+    },
+    "26326": {
+        "item_icon_path": "/handled_icons/I01382.png"
+    },
+    "26643": {
+        "item_icon_path": "/handled_icons/W75101.png"
+    },
+    "26644": {
+        "item_icon_path": "/handled_icons/W82401.png"
+    },
+    "26645": {
+        "item_icon_path": "/handled_icons/W75301.png"
+    },
+    "26646": {
+        "item_icon_path": "/handled_icons/W82301.png"
+    },
+    "26647": {
+        "item_icon_path": "/handled_icons/W75201.png"
+    },
+    "26648": {
+        "item_icon_path": "/handled_icons/W82501.png"
+    },
+    "26649": {
+        "item_icon_path": "/handled_icons/W33201.png"
+    },
+    "26650": {
+        "item_icon_path": "/handled_icons/W43201.png"
+    },
+    "26651": {
+        "item_icon_path": "/handled_icons/W53901.png"
+    },
+    "26652": {
+        "item_icon_path": "/handled_icons/W64601.png"
+    },
+    "26653": {
+        "item_icon_path": "/handled_icons/W64701.png"
+    },
+    "26654": {
+        "item_icon_path": "/handled_icons/W64801.png"
+    },
+    "26655": {
+        "item_icon_path": "/handled_icons/I01426.png"
+    },
+    "26656": {
+        "item_icon_path": "/handled_icons/I01427.png"
+    },
+    "26657": {
+        "item_icon_path": "/handled_icons/I01428.png"
+    },
+    "26658": {
+        "item_icon_path": "/handled_icons/A10445.png"
+    },
+    "26659": {
+        "item_icon_path": "/handled_icons/A20473.png"
+    },
+    "26660": {
+        "item_icon_path": "/handled_icons/A30191.png"
+    },
+    "26661": {
+        "item_icon_path": "/handled_icons/A40187.png"
+    },
+    "26662": {
+        "item_icon_path": "/handled_icons/A50175.png"
+    },
+    "26663": {
+        "item_icon_path": "/handled_icons/A10444.png"
+    },
+    "26664": {
+        "item_icon_path": "/handled_icons/A20472.png"
+    },
+    "26665": {
+        "item_icon_path": "/handled_icons/A30190.png"
+    },
+    "26666": {
+        "item_icon_path": "/handled_icons/A40186.png"
+    },
+    "26667": {
+        "item_icon_path": "/handled_icons/A50174.png"
+    },
+    "26668": {
+        "item_icon_path": "/handled_icons/A10446.png"
+    },
+    "26669": {
+        "item_icon_path": "/handled_icons/A20474.png"
+    },
+    "26670": {
+        "item_icon_path": "/handled_icons/A30192.png"
+    },
+    "26671": {
+        "item_icon_path": "/handled_icons/A40188.png"
+    },
+    "26672": {
+        "item_icon_path": "/handled_icons/A50176.png"
+    },
+    "26673": {
+        "item_icon_path": "/handled_icons/A10447.png"
+    },
+    "26674": {
+        "item_icon_path": "/handled_icons/A20475.png"
+    },
+    "26675": {
+        "item_icon_path": "/handled_icons/A30193.png"
+    },
+    "26676": {
+        "item_icon_path": "/handled_icons/A40189.png"
+    },
+    "26677": {
+        "item_icon_path": "/handled_icons/A50177.png"
+    },
+    "26678": {
+        "item_icon_path": "/handled_icons/A10448.png"
+    },
+    "26679": {
+        "item_icon_path": "/handled_icons/A20476.png"
+    },
+    "26680": {
+        "item_icon_path": "/handled_icons/A30194.png"
+    },
+    "26681": {
+        "item_icon_path": "/handled_icons/A40190.png"
+    },
+    "26682": {
+        "item_icon_path": "/handled_icons/A50178.png"
+    },
+    "26683": {
+        "item_icon_path": "/handled_icons/A10449.png"
+    },
+    "26684": {
+        "item_icon_path": "/handled_icons/A20477.png"
+    },
+    "26685": {
+        "item_icon_path": "/handled_icons/A30195.png"
+    },
+    "26686": {
+        "item_icon_path": "/handled_icons/A40191.png"
+    },
+    "26687": {
+        "item_icon_path": "/handled_icons/A50179.png"
+    },
+    "26688": {
+        "item_icon_path": "/handled_icons/A10450.png"
+    },
+    "26689": {
+        "item_icon_path": "/handled_icons/A20478.png"
+    },
+    "26690": {
+        "item_icon_path": "/handled_icons/A30196.png"
+    },
+    "26691": {
+        "item_icon_path": "/handled_icons/A40192.png"
+    },
+    "26692": {
+        "item_icon_path": "/handled_icons/A50180.png"
+    },
+    "26693": {
+        "item_icon_path": "/handled_icons/A10451.png"
+    },
+    "26694": {
+        "item_icon_path": "/handled_icons/A20479.png"
+    },
+    "26695": {
+        "item_icon_path": "/handled_icons/A30197.png"
+    },
+    "26696": {
+        "item_icon_path": "/handled_icons/A40193.png"
+    },
+    "26697": {
+        "item_icon_path": "/handled_icons/A50181.png"
+    },
+    "27210": {
+        "item_icon_path": "/handled_icons/I01503.png"
+    },
+    "27211": {
+        "item_icon_path": "/handled_icons/I01504.png"
+    },
+    "27212": {
+        "item_icon_path": "/handled_icons/I01505.png"
+    },
+    "27213": {
+        "item_icon_path": "/handled_icons/I01506.png"
+    },
+    "27214": {
+        "item_icon_path": "/handled_icons/I01507.png"
+    },
+    "27215": {
+        "item_icon_path": "/handled_icons/I01508.png"
+    },
+    "27216": {
+        "item_icon_path": "/handled_icons/I01509.png"
+    },
+    "27217": {
+        "item_icon_path": "/handled_icons/I01510.png"
+    },
+    "27218": {
+        "item_icon_path": "/handled_icons/I01511.png"
+    },
+    "27219": {
+        "item_icon_path": "/handled_icons/I01512.png"
+    },
+    "27220": {
+        "item_icon_path": "/handled_icons/I01513.png"
+    },
+    "27221": {
+        "item_icon_path": "/handled_icons/I01514.png"
+    },
+    "27222": {
+        "item_icon_path": "/handled_icons/I01515.png"
+    },
+    "27223": {
+        "item_icon_path": "/handled_icons/I01516.png"
+    },
+    "27224": {
+        "item_icon_path": "/handled_icons/I01517.png"
+    },
+    "27225": {
+        "item_icon_path": "/handled_icons/I01518.png"
+    },
+    "27226": {
+        "item_icon_path": "/handled_icons/I01519.png"
+    },
+    "27227": {
+        "item_icon_path": "/handled_icons/I01520.png"
+    },
+    "27707": {
+        "item_icon_path": "/handled_icons/W10502.png"
+    },
+    "27708": {
+        "item_icon_path": "/handled_icons/W20501.png"
+    },
+    "27709": {
+        "item_icon_path": "/handled_icons/W22802.png"
+    },
+    "27710": {
+        "item_icon_path": "/handled_icons/W22901.png"
+    },
+    "27711": {
+        "item_icon_path": "/handled_icons/W11503.png"
+    },
+    "27712": {
+        "item_icon_path": "/handled_icons/W21403.png"
+    },
+    "27713": {
+        "item_icon_path": "/handled_icons/W50103.png"
+    },
+    "27714": {
+        "item_icon_path": "/handled_icons/W50501.png"
+    },
+    "27716": {
+        "item_icon_path": "/handled_icons/W30402.png"
+    },
+    "27718": {
+        "item_icon_path": "/handled_icons/W40802.png"
+    },
+    "27719": {
+        "item_icon_path": "/handled_icons/W60103.png"
+    },
+    "27720": {
+        "item_icon_path": "/handled_icons/W60403.png"
+    },
+    "27721": {
+        "item_icon_path": "/handled_icons/I00702.png"
+    },
+    "27722": {
+        "item_icon_path": "/handled_icons/A00057.png"
+    },
+    "27723": {
+        "item_icon_path": "/handled_icons/I00028.png"
+    },
+    "27724": {
+        "item_icon_path": "/handled_icons/W10801.png"
+    },
+    "27725": {
+        "item_icon_path": "/handled_icons/W20801.png"
+    },
+    "27726": {
+        "item_icon_path": "/handled_icons/W12901.png"
+    },
+    "27727": {
+        "item_icon_path": "/handled_icons/W22902.png"
+    },
+    "27728": {
+        "item_icon_path": "/handled_icons/W11301.png"
+    },
+    "27729": {
+        "item_icon_path": "/handled_icons/W21302.png"
+    },
+    "27730": {
+        "item_icon_path": "/handled_icons/W50701.png"
+    },
+    "27731": {
+        "item_icon_path": "/handled_icons/W50901.png"
+    },
+    "27733": {
+        "item_icon_path": "/handled_icons/W30501.png"
+    },
+    "27735": {
+        "item_icon_path": "/handled_icons/W40602.png"
+    },
+    "27736": {
+        "item_icon_path": "/handled_icons/W60701.png"
+    },
+    "27737": {
+        "item_icon_path": "/handled_icons/W60702.png"
+    },
+    "27738": {
+        "item_icon_path": "/handled_icons/I00164.png"
+    },
+    "27739": {
+        "item_icon_path": "/handled_icons/I00651.png"
+    },
+    "27740": {
+        "item_icon_path": "/handled_icons/I00593.png"
+    },
+    "27741": {
+        "item_icon_path": "/handled_icons/W10703.png"
+    },
+    "27742": {
+        "item_icon_path": "/handled_icons/W21001.png"
+    },
+    "27743": {
+        "item_icon_path": "/handled_icons/W12502.png"
+    },
+    "27744": {
+        "item_icon_path": "/handled_icons/W22702.png"
+    },
+    "27745": {
+        "item_icon_path": "/handled_icons/W11303.png"
+    },
+    "27746": {
+        "item_icon_path": "/handled_icons/W24701.png"
+    },
+    "27747": {
+        "item_icon_path": "/handled_icons/W50302.png"
+    },
+    "27748": {
+        "item_icon_path": "/handled_icons/W50602.png"
+    },
+    "27749": {
+        "item_icon_path": "/handled_icons/W32201.png"
+    },
+    "27750": {
+        "item_icon_path": "/handled_icons/W40701.png"
+    },
+    "27752": {
+        "item_icon_path": "/handled_icons/W60604.png"
+    },
+    "27753": {
+        "item_icon_path": "/handled_icons/I00626.png"
+    },
+    "27754": {
+        "item_icon_path": "/handled_icons/I00024.png"
+    },
+    "27755": {
+        "item_icon_path": "/handled_icons/I00024.png"
+    },
+    "27756": {
+        "item_icon_path": "/handled_icons/W75501.png"
+    },
+    "27757": {
+        "item_icon_path": "/handled_icons/W82801.png"
+    },
+    "27758": {
+        "item_icon_path": "/handled_icons/W75701.png"
+    },
+    "27759": {
+        "item_icon_path": "/handled_icons/W83001.png"
+    },
+    "27760": {
+        "item_icon_path": "/handled_icons/W75601.png"
+    },
+    "27761": {
+        "item_icon_path": "/handled_icons/W82901.png"
+    },
+    "27763": {
+        "item_icon_path": "/handled_icons/W54001.png"
+    },
+    "27764": {
+        "item_icon_path": "/handled_icons/W33301.png"
+    },
+    "27765": {
+        "item_icon_path": "/handled_icons/W43301.png"
+    },
+    "27767": {
+        "item_icon_path": "/handled_icons/W65001.png"
+    },
+    "27768": {
+        "item_icon_path": "/handled_icons/I00296.png"
+    },
+    "27769": {
+        "item_icon_path": "/handled_icons/I01499.png"
+    },
+    "27770": {
+        "item_icon_path": "/handled_icons/I01498.png"
+    },
+    "27771": {
+        "item_icon_path": "/handled_icons/W15201.png"
+    },
+    "27772": {
+        "item_icon_path": "/handled_icons/W25301.png"
+    },
+    "27773": {
+        "item_icon_path": "/handled_icons/W15701.png"
+    },
+    "27774": {
+        "item_icon_path": "/handled_icons/W25901.png"
+    },
+    "27775": {
+        "item_icon_path": "/handled_icons/W15501.png"
+    },
+    "27776": {
+        "item_icon_path": "/handled_icons/W25601.png"
+    },
+    "27777": {
+        "item_icon_path": "/handled_icons/W52001.png"
+    },
+    "27778": {
+        "item_icon_path": "/handled_icons/W52101.png"
+    },
+    "27779": {
+        "item_icon_path": "/handled_icons/W32001.png"
+    },
+    "27780": {
+        "item_icon_path": "/handled_icons/W42101.png"
+    },
+    "27781": {
+        "item_icon_path": "/handled_icons/W62001.png"
+    },
+    "27782": {
+        "item_icon_path": "/handled_icons/A00045.png"
+    },
+    "27783": {
+        "item_icon_path": "/handled_icons/I00164.png"
+    },
+    "27784": {
+        "item_icon_path": "/handled_icons/I00025.png"
+    },
+    "27785": {
+        "item_icon_path": "/handled_icons/W79701.png"
+    },
+    "27786": {
+        "item_icon_path": "/handled_icons/W87101.png"
+    },
+    "27787": {
+        "item_icon_path": "/handled_icons/W79801.png"
+    },
+    "27788": {
+        "item_icon_path": "/handled_icons/W87201.png"
+    },
+    "27789": {
+        "item_icon_path": "/handled_icons/W79901.png"
+    },
+    "27790": {
+        "item_icon_path": "/handled_icons/W87301.png"
+    },
+    "27791": {
+        "item_icon_path": "/handled_icons/W55101.png"
+    },
+    "27792": {
+        "item_icon_path": "/handled_icons/W33901.png"
+    },
+    "27793": {
+        "item_icon_path": "/handled_icons/W44001.png"
+    },
+    "27794": {
+        "item_icon_path": "/handled_icons/W66201.png"
+    },
+    "27795": {
+        "item_icon_path": "/handled_icons/I01500.png"
+    },
+    "27796": {
+        "item_icon_path": "/handled_icons/I01501.png"
+    },
+    "27797": {
+        "item_icon_path": "/handled_icons/I01502.png"
+    },
+    "27798": {
+        "item_icon_path": "/handled_icons/A30022.png"
+    },
+    "27799": {
+        "item_icon_path": "/handled_icons/A40006.png"
+    },
+    "27800": {
+        "item_icon_path": "/handled_icons/A50013.png"
+    },
+    "27801": {
+        "item_icon_path": "/handled_icons/A30042.png"
+    },
+    "27802": {
+        "item_icon_path": "/handled_icons/A40038.png"
+    },
+    "27803": {
+        "item_icon_path": "/handled_icons/A50033.png"
+    },
+    "27804": {
+        "item_icon_path": "/handled_icons/A30002.png"
+    },
+    "27805": {
+        "item_icon_path": "/handled_icons/A40002.png"
+    },
+    "27806": {
+        "item_icon_path": "/handled_icons/A50007.png"
+    },
+    "27807": {
+        "item_icon_path": "/handled_icons/A30045.png"
+    },
+    "27808": {
+        "item_icon_path": "/handled_icons/A40041.png"
+    },
+    "27809": {
+        "item_icon_path": "/handled_icons/A50036.png"
+    },
+    "27850": {
+        "item_icon_path": "/handled_icons/A30021.png"
+    },
+    "27851": {
+        "item_icon_path": "/handled_icons/A40012.png"
+    },
+    "27852": {
+        "item_icon_path": "/handled_icons/A50013.png"
+    },
+    "27853": {
+        "item_icon_path": "/handled_icons/A30007.png"
+    },
+    "27854": {
+        "item_icon_path": "/handled_icons/A40005.png"
+    },
+    "27855": {
+        "item_icon_path": "/handled_icons/A50003.png"
+    },
+    "27856": {
+        "item_icon_path": "/handled_icons/A30003.png"
+    },
+    "27857": {
+        "item_icon_path": "/handled_icons/A40011.png"
+    },
+    "27858": {
+        "item_icon_path": "/handled_icons/A50008.png"
+    },
+    "27859": {
+        "item_icon_path": "/handled_icons/A30016.png"
+    },
+    "27860": {
+        "item_icon_path": "/handled_icons/A40005.png"
+    },
+    "27861": {
+        "item_icon_path": "/handled_icons/A50008.png"
+    },
+    "27862": {
+        "item_icon_path": "/handled_icons/A10019.png"
+    },
+    "27863": {
+        "item_icon_path": "/handled_icons/A20003.png"
+    },
+    "27864": {
+        "item_icon_path": "/handled_icons/A30021.png"
+    },
+    "27865": {
+        "item_icon_path": "/handled_icons/A40017.png"
+    },
+    "27866": {
+        "item_icon_path": "/handled_icons/A50006.png"
+    },
+    "27867": {
+        "item_icon_path": "/handled_icons/A10076.png"
+    },
+    "27868": {
+        "item_icon_path": "/handled_icons/A20052.png"
+    },
+    "27869": {
+        "item_icon_path": "/handled_icons/A30032.png"
+    },
+    "27870": {
+        "item_icon_path": "/handled_icons/A40028.png"
+    },
+    "27871": {
+        "item_icon_path": "/handled_icons/A50023.png"
+    },
+    "27872": {
+        "item_icon_path": "/handled_icons/A10129.png"
+    },
+    "27873": {
+        "item_icon_path": "/handled_icons/A20081.png"
+    },
+    "27874": {
+        "item_icon_path": "/handled_icons/A30057.png"
+    },
+    "27875": {
+        "item_icon_path": "/handled_icons/A40053.png"
+    },
+    "27876": {
+        "item_icon_path": "/handled_icons/A50048.png"
+    },
+    "27877": {
+        "item_icon_path": "/handled_icons/A10078.png"
+    },
+    "27878": {
+        "item_icon_path": "/handled_icons/A20054.png"
+    },
+    "27879": {
+        "item_icon_path": "/handled_icons/A30034.png"
+    },
+    "27880": {
+        "item_icon_path": "/handled_icons/A40030.png"
+    },
+    "27881": {
+        "item_icon_path": "/handled_icons/A50025.png"
+    },
+    "27882": {
+        "item_icon_path": "/handled_icons/A10102.png"
+    },
+    "27883": {
+        "item_icon_path": "/handled_icons/A20063.png"
+    },
+    "27884": {
+        "item_icon_path": "/handled_icons/A30043.png"
+    },
+    "27885": {
+        "item_icon_path": "/handled_icons/A40039.png"
+    },
+    "27886": {
+        "item_icon_path": "/handled_icons/A50034.png"
+    },
+    "27887": {
+        "item_icon_path": "/handled_icons/A10080.png"
+    },
+    "27888": {
+        "item_icon_path": "/handled_icons/A20056.png"
+    },
+    "27889": {
+        "item_icon_path": "/handled_icons/A30036.png"
+    },
+    "27890": {
+        "item_icon_path": "/handled_icons/A40032.png"
+    },
+    "27891": {
+        "item_icon_path": "/handled_icons/A50027.png"
+    },
+    "27892": {
+        "item_icon_path": "/handled_icons/A10104.png"
+    },
+    "27893": {
+        "item_icon_path": "/handled_icons/A20065.png"
+    },
+    "27894": {
+        "item_icon_path": "/handled_icons/A30045.png"
+    },
+    "27895": {
+        "item_icon_path": "/handled_icons/A40041.png"
+    },
+    "27896": {
+        "item_icon_path": "/handled_icons/A50036.png"
+    },
+    "27897": {
+        "item_icon_path": "/handled_icons/A10105.png"
+    },
+    "27898": {
+        "item_icon_path": "/handled_icons/A20066.png"
+    },
+    "27899": {
+        "item_icon_path": "/handled_icons/A30046.png"
+    },
+    "27900": {
+        "item_icon_path": "/handled_icons/A40042.png"
+    },
+    "27901": {
+        "item_icon_path": "/handled_icons/A50037.png"
+    },
+    "27902": {
+        "item_icon_path": "/handled_icons/A10477.png"
+    },
+    "27903": {
+        "item_icon_path": "/handled_icons/A20507.png"
+    },
+    "27904": {
+        "item_icon_path": "/handled_icons/A30201.png"
+    },
+    "27905": {
+        "item_icon_path": "/handled_icons/A40197.png"
+    },
+    "27906": {
+        "item_icon_path": "/handled_icons/A50185.png"
+    },
+    "27907": {
+        "item_icon_path": "/handled_icons/A10478.png"
+    },
+    "27908": {
+        "item_icon_path": "/handled_icons/A20508.png"
+    },
+    "27909": {
+        "item_icon_path": "/handled_icons/A30202.png"
+    },
+    "27910": {
+        "item_icon_path": "/handled_icons/A40198.png"
+    },
+    "27911": {
+        "item_icon_path": "/handled_icons/A50186.png"
+    },
+    "27912": {
+        "item_icon_path": "/handled_icons/A10479.png"
+    },
+    "27913": {
+        "item_icon_path": "/handled_icons/A20509.png"
+    },
+    "27914": {
+        "item_icon_path": "/handled_icons/A30203.png"
+    },
+    "27915": {
+        "item_icon_path": "/handled_icons/A40199.png"
+    },
+    "27916": {
+        "item_icon_path": "/handled_icons/A50187.png"
+    },
+    "27917": {
+        "item_icon_path": "/handled_icons/A10480.png"
+    },
+    "27918": {
+        "item_icon_path": "/handled_icons/A20510.png"
+    },
+    "27919": {
+        "item_icon_path": "/handled_icons/A30204.png"
+    },
+    "27920": {
+        "item_icon_path": "/handled_icons/A40200.png"
+    },
+    "27921": {
+        "item_icon_path": "/handled_icons/A50188.png"
+    },
+    "27922": {
+        "item_icon_path": "/handled_icons/A10483.png"
+    },
+    "27923": {
+        "item_icon_path": "/handled_icons/A20513.png"
+    },
+    "27924": {
+        "item_icon_path": "/handled_icons/A30207.png"
+    },
+    "27925": {
+        "item_icon_path": "/handled_icons/A40203.png"
+    },
+    "27926": {
+        "item_icon_path": "/handled_icons/A50191.png"
+    },
+    "27927": {
+        "item_icon_path": "/handled_icons/A10484.png"
+    },
+    "27928": {
+        "item_icon_path": "/handled_icons/A20514.png"
+    },
+    "27929": {
+        "item_icon_path": "/handled_icons/A30208.png"
+    },
+    "27930": {
+        "item_icon_path": "/handled_icons/A40204.png"
+    },
+    "27931": {
+        "item_icon_path": "/handled_icons/A50192.png"
+    },
+    "27932": {
+        "item_icon_path": "/handled_icons/A10481.png"
+    },
+    "27933": {
+        "item_icon_path": "/handled_icons/A20511.png"
+    },
+    "27934": {
+        "item_icon_path": "/handled_icons/A30205.png"
+    },
+    "27935": {
+        "item_icon_path": "/handled_icons/A40201.png"
+    },
+    "27936": {
+        "item_icon_path": "/handled_icons/A50189.png"
+    },
+    "27937": {
+        "item_icon_path": "/handled_icons/A10482.png"
+    },
+    "27938": {
+        "item_icon_path": "/handled_icons/A20512.png"
+    },
+    "27939": {
+        "item_icon_path": "/handled_icons/A30206.png"
+    },
+    "27940": {
+        "item_icon_path": "/handled_icons/A40202.png"
+    },
+    "27941": {
+        "item_icon_path": "/handled_icons/A50190.png"
+    },
+    "27990": {
+        "item_icon_path": "/handled_icons/I01521.png"
+    },
+    "27991": {
+        "item_icon_path": "/handled_icons/I01522.png"
+    },
+    "27992": {
+        "item_icon_path": "/handled_icons/I01523.png"
+    },
+    "27993": {
+        "item_icon_path": "/handled_icons/I01524.png"
+    },
+    "27994": {
+        "item_icon_path": "/handled_icons/I01067.png"
+    },
+    "27995": {
+        "item_icon_path": "/handled_icons/I00630.png"
+    },
+    "27996": {
+        "item_icon_path": "/handled_icons/I00632.png"
+    },
+    "27997": {
+        "item_icon_path": "/handled_icons/I00633.png"
+    },
+    "27998": {
+        "item_icon_path": "/handled_icons/I00643.png"
+    },
+    "27999": {
+        "item_icon_path": "/handled_icons/I00644.png"
+    },
+    "29615": {
+        "item_icon_path": "/handled_icons/A30095.png"
+    },
+    "29616": {
+        "item_icon_path": "/handled_icons/A40091.png"
+    },
+    "29617": {
+        "item_icon_path": "/handled_icons/A50086.png"
+    },
+    "29618": {
+        "item_icon_path": "/handled_icons/A30105.png"
+    },
+    "29619": {
+        "item_icon_path": "/handled_icons/A40101.png"
+    },
+    "29620": {
+        "item_icon_path": "/handled_icons/A50096.png"
+    },
+    "29621": {
+        "item_icon_path": "/handled_icons/A30099.png"
+    },
+    "29622": {
+        "item_icon_path": "/handled_icons/A40095.png"
+    },
+    "29623": {
+        "item_icon_path": "/handled_icons/A50090.png"
+    },
+    "29624": {
+        "item_icon_path": "/handled_icons/A30101.png"
+    },
+    "29625": {
+        "item_icon_path": "/handled_icons/A40097.png"
+    },
+    "29626": {
+        "item_icon_path": "/handled_icons/A50092.png"
+    },
+    "29667": {
+        "item_icon_path": "/handled_icons/W16301.png"
+    },
+    "29668": {
+        "item_icon_path": "/handled_icons/W26402.png"
+    },
+    "29669": {
+        "item_icon_path": "/handled_icons/W19001.png"
+    },
+    "29670": {
+        "item_icon_path": "/handled_icons/W28601.png"
+    },
+    "29671": {
+        "item_icon_path": "/handled_icons/W16502.png"
+    },
+    "29672": {
+        "item_icon_path": "/handled_icons/W26601.png"
+    },
+    "29673": {
+        "item_icon_path": "/handled_icons/W19201.png"
+    },
+    "29674": {
+        "item_icon_path": "/handled_icons/W28801.png"
+    },
+    "29675": {
+        "item_icon_path": "/handled_icons/W16401.png"
+    },
+    "29676": {
+        "item_icon_path": "/handled_icons/W26501.png"
+    },
+    "29677": {
+        "item_icon_path": "/handled_icons/W19101.png"
+    },
+    "29678": {
+        "item_icon_path": "/handled_icons/W28701.png"
+    },
+    "29679": {
+        "item_icon_path": "/handled_icons/W32301.png"
+    },
+    "29680": {
+        "item_icon_path": "/handled_icons/W32801.png"
+    },
+    "29681": {
+        "item_icon_path": "/handled_icons/W42202.png"
+    },
+    "29682": {
+        "item_icon_path": "/handled_icons/W42801.png"
+    },
+    "29683": {
+        "item_icon_path": "/handled_icons/W52302.png"
+    },
+    "29684": {
+        "item_icon_path": "/handled_icons/W52401.png"
+    },
+    "29686": {
+        "item_icon_path": "/handled_icons/W53101.png"
+    },
+    "29687": {
+        "item_icon_path": "/handled_icons/W62402.png"
+    },
+    "29688": {
+        "item_icon_path": "/handled_icons/W62302.png"
+    },
+    "29690": {
+        "item_icon_path": "/handled_icons/W63101.png"
+    },
+    "29691": {
+        "item_icon_path": "/handled_icons/I00065.png"
+    },
+    "29692": {
+        "item_icon_path": "/handled_icons/I00164.png"
+    },
+    "29693": {
+        "item_icon_path": "/handled_icons/I00024.png"
+    },
+    "29694": {
+        "item_icon_path": "/handled_icons/I00425.png"
+    },
+    "29695": {
+        "item_icon_path": "/handled_icons/I00626.png"
+    },
+    "29696": {
+        "item_icon_path": "/handled_icons/I00276.png"
+    },
+    "29750": {
+        "item_icon_path": "/handled_icons/I00781.png"
+    },
+    "29751": {
+        "item_icon_path": "/handled_icons/I00782.png"
+    },
+    "29752": {
+        "item_icon_path": "/handled_icons/I00778.png"
+    },
+    "29753": {
+        "item_icon_path": "/handled_icons/I00780.png"
+    },
+    "29754": {
+        "item_icon_path": "/handled_icons/I00779.png"
+    },
+    "29755": {
+        "item_icon_path": "/handled_icons/I00777.png"
+    },
+    "29756": {
+        "item_icon_path": "/handled_icons/I00777.png"
+    },
+    "29757": {
+        "item_icon_path": "/handled_icons/W71201.png"
+    },
+    "29758": {
+        "item_icon_path": "/handled_icons/W71301.png"
+    },
+    "29759": {
+        "item_icon_path": "/handled_icons/W71401.png"
+    },
+    "29760": {
+        "item_icon_path": "/handled_icons/W80401.png"
+    },
+    "29761": {
+        "item_icon_path": "/handled_icons/W80501.png"
+    },
+    "29762": {
+        "item_icon_path": "/handled_icons/W80601.png"
+    },
+    "29763": {
+        "item_icon_path": "/handled_icons/W32901.png"
+    },
+    "29764": {
+        "item_icon_path": "/handled_icons/W42901.png"
+    },
+    "29765": {
+        "item_icon_path": "/handled_icons/W53601.png"
+    },
+    "29766": {
+        "item_icon_path": "/handled_icons/W63501.png"
+    },
+    "29767": {
+        "item_icon_path": "/handled_icons/I00425.png"
+    },
+    "29768": {
+        "item_icon_path": "/handled_icons/I00626.png"
+    },
+    "29769": {
+        "item_icon_path": "/handled_icons/I00276.png"
+    },
+    "30022": {
+        "item_icon_path": "/handled_icons/W10101.png"
+    },
+    "30023": {
+        "item_icon_path": "/handled_icons/W10101.png"
+    },
+    "30026": {
+        "item_icon_path": "/handled_icons/W11101.png"
+    },
+    "30027": {
+        "item_icon_path": "/handled_icons/W11101.png"
+    },
+    "30030": {
+        "item_icon_path": "/handled_icons/W12101.png"
+    },
+    "30031": {
+        "item_icon_path": "/handled_icons/W12102.png"
+    },
+    "30034": {
+        "item_icon_path": "/handled_icons/W20102.png"
+    },
+    "30035": {
+        "item_icon_path": "/handled_icons/W20104.png"
+    },
+    "30038": {
+        "item_icon_path": "/handled_icons/W21101.png"
+    },
+    "30039": {
+        "item_icon_path": "/handled_icons/W21101.png"
+    },
+    "30042": {
+        "item_icon_path": "/handled_icons/W22101.png"
+    },
+    "30043": {
+        "item_icon_path": "/handled_icons/W22102.png"
+    },
+    "30046": {
+        "item_icon_path": "/handled_icons/W50101.png"
+    },
+    "30047": {
+        "item_icon_path": "/handled_icons/W50101.png"
+    },
+    "30053": {
+        "item_icon_path": "/handled_icons/W30301.png"
+    },
+    "30057": {
+        "item_icon_path": "/handled_icons/W40201.png"
+    },
+    "30059": {
+        "item_icon_path": "/handled_icons/W60101.png"
+    },
+    "30205": {
+        "item_icon_path": "/handled_icons/A00012.png"
+    },
+    "30210": {
+        "item_icon_path": "/handled_icons/A00056.png"
+    },
+    "30215": {
+        "item_icon_path": "/handled_icons/I00023.png"
+    },
+    "30658": {
+        "item_icon_path": "/handled_icons/W10301.png"
+    },
+    "30659": {
+        "item_icon_path": "/handled_icons/W10601.png"
+    },
+    "30660": {
+        "item_icon_path": "/handled_icons/W10403.png"
+    },
+    "30661": {
+        "item_icon_path": "/handled_icons/W10501.png"
+    },
+    "30662": {
+        "item_icon_path": "/handled_icons/W11301.png"
+    },
+    "30663": {
+        "item_icon_path": "/handled_icons/W11603.png"
+    },
+    "30664": {
+        "item_icon_path": "/handled_icons/W11402.png"
+    },
+    "30665": {
+        "item_icon_path": "/handled_icons/W11501.png"
+    },
+    "30666": {
+        "item_icon_path": "/handled_icons/W12303.png"
+    },
+    "30667": {
+        "item_icon_path": "/handled_icons/W12503.png"
+    },
+    "30668": {
+        "item_icon_path": "/handled_icons/W12401.png"
+    },
+    "30669": {
+        "item_icon_path": "/handled_icons/W12503.png"
+    },
+    "30670": {
+        "item_icon_path": "/handled_icons/W20302.png"
+    },
+    "30671": {
+        "item_icon_path": "/handled_icons/W20601.png"
+    },
+    "30672": {
+        "item_icon_path": "/handled_icons/W20401.png"
+    },
+    "30673": {
+        "item_icon_path": "/handled_icons/W20502.png"
+    },
+    "30674": {
+        "item_icon_path": "/handled_icons/W21303.png"
+    },
+    "30675": {
+        "item_icon_path": "/handled_icons/W21601.png"
+    },
+    "30676": {
+        "item_icon_path": "/handled_icons/W21401.png"
+    },
+    "30677": {
+        "item_icon_path": "/handled_icons/W21502.png"
+    },
+    "30678": {
+        "item_icon_path": "/handled_icons/W22301.png"
+    },
+    "30679": {
+        "item_icon_path": "/handled_icons/W22601.png"
+    },
+    "30680": {
+        "item_icon_path": "/handled_icons/W22402.png"
+    },
+    "30681": {
+        "item_icon_path": "/handled_icons/W22502.png"
+    },
+    "30682": {
+        "item_icon_path": "/handled_icons/W50201.png"
+    },
+    "30683": {
+        "item_icon_path": "/handled_icons/W50301.png"
+    },
+    "30684": {
+        "item_icon_path": "/handled_icons/W50402.png"
+    },
+    "30685": {
+        "item_icon_path": "/handled_icons/W50603.png"
+    },
+    "30686": {
+        "item_icon_path": "/handled_icons/W50501.png"
+    },
+    "30687": {
+        "item_icon_path": "/handled_icons/W50403.png"
+    },
+    "30688": {
+        "item_icon_path": "/handled_icons/W50101.png"
+    },
+    "30689": {
+        "item_icon_path": "/handled_icons/W50502.png"
+    },
+    "30690": {
+        "item_icon_path": "/handled_icons/W50603.png"
+    },
+    "30691": {
+        "item_icon_path": "/handled_icons/W30101.png"
+    },
+    "30692": {
+        "item_icon_path": "/handled_icons/W30203.png"
+    },
+    "30693": {
+        "item_icon_path": "/handled_icons/W30601.png"
+    },
+    "30694": {
+        "item_icon_path": "/handled_icons/W30402.png"
+    },
+    "30695": {
+        "item_icon_path": "/handled_icons/W30501.png"
+    },
+    "30696": {
+        "item_icon_path": "/handled_icons/W40101.png"
+    },
+    "30697": {
+        "item_icon_path": "/handled_icons/W40201.png"
+    },
+    "30698": {
+        "item_icon_path": "/handled_icons/W40602.png"
+    },
+    "30699": {
+        "item_icon_path": "/handled_icons/W40401.png"
+    },
+    "30700": {
+        "item_icon_path": "/handled_icons/W40301.png"
+    },
+    "30701": {
+        "item_icon_path": "/handled_icons/W60101.png"
+    },
+    "30702": {
+        "item_icon_path": "/handled_icons/W60301.png"
+    },
+    "30703": {
+        "item_icon_path": "/handled_icons/W60403.png"
+    },
+    "30704": {
+        "item_icon_path": "/handled_icons/W60601.png"
+    },
+    "30705": {
+        "item_icon_path": "/handled_icons/W60501.png"
+    },
+    "30706": {
+        "item_icon_path": "/handled_icons/W60402.png"
+    },
+    "30707": {
+        "item_icon_path": "/handled_icons/W60102.png"
+    },
+    "30708": {
+        "item_icon_path": "/handled_icons/W60502.png"
+    },
+    "30709": {
+        "item_icon_path": "/handled_icons/W60603.png"
+    },
+    "30712": {
+        "item_icon_path": "/handled_icons/W10105.png"
+    },
+    "30713": {
+        "item_icon_path": "/handled_icons/W10302.png"
+    },
+    "30714": {
+        "item_icon_path": "/handled_icons/W10603.png"
+    },
+    "30715": {
+        "item_icon_path": "/handled_icons/W10402.png"
+    },
+    "30716": {
+        "item_icon_path": "/handled_icons/W10502.png"
+    },
+    "30718": {
+        "item_icon_path": "/handled_icons/W11102.png"
+    },
+    "30719": {
+        "item_icon_path": "/handled_icons/W11301.png"
+    },
+    "30720": {
+        "item_icon_path": "/handled_icons/W11603.png"
+    },
+    "30721": {
+        "item_icon_path": "/handled_icons/W11403.png"
+    },
+    "30722": {
+        "item_icon_path": "/handled_icons/W11503.png"
+    },
+    "30724": {
+        "item_icon_path": "/handled_icons/W12104.png"
+    },
+    "30725": {
+        "item_icon_path": "/handled_icons/W12301.png"
+    },
+    "30726": {
+        "item_icon_path": "/handled_icons/W12502.png"
+    },
+    "30727": {
+        "item_icon_path": "/handled_icons/W12402.png"
+    },
+    "30728": {
+        "item_icon_path": "/handled_icons/W12503.png"
+    },
+    "30730": {
+        "item_icon_path": "/handled_icons/W20101.png"
+    },
+    "30731": {
+        "item_icon_path": "/handled_icons/W20302.png"
+    },
+    "30732": {
+        "item_icon_path": "/handled_icons/W20602.png"
+    },
+    "30733": {
+        "item_icon_path": "/handled_icons/W20402.png"
+    },
+    "30734": {
+        "item_icon_path": "/handled_icons/W20501.png"
+    },
+    "30736": {
+        "item_icon_path": "/handled_icons/W21102.png"
+    },
+    "30737": {
+        "item_icon_path": "/handled_icons/W21302.png"
+    },
+    "30738": {
+        "item_icon_path": "/handled_icons/W21602.png"
+    },
+    "30739": {
+        "item_icon_path": "/handled_icons/W21403.png"
+    },
+    "30740": {
+        "item_icon_path": "/handled_icons/W21502.png"
+    },
+    "30742": {
+        "item_icon_path": "/handled_icons/W22103.png"
+    },
+    "30743": {
+        "item_icon_path": "/handled_icons/W22301.png"
+    },
+    "30744": {
+        "item_icon_path": "/handled_icons/W22601.png"
+    },
+    "30745": {
+        "item_icon_path": "/handled_icons/W22403.png"
+    },
+    "30746": {
+        "item_icon_path": "/handled_icons/W22501.png"
+    },
+    "30749": {
+        "item_icon_path": "/handled_icons/W50201.png"
+    },
+    "30750": {
+        "item_icon_path": "/handled_icons/W50102.png"
+    },
+    "30751": {
+        "item_icon_path": "/handled_icons/W50301.png"
+    },
+    "30752": {
+        "item_icon_path": "/handled_icons/W50402.png"
+    },
+    "30753": {
+        "item_icon_path": "/handled_icons/W50603.png"
+    },
+    "30754": {
+        "item_icon_path": "/handled_icons/W50501.png"
+    },
+    "30755": {
+        "item_icon_path": "/handled_icons/W50403.png"
+    },
+    "30756": {
+        "item_icon_path": "/handled_icons/W50103.png"
+    },
+    "30757": {
+        "item_icon_path": "/handled_icons/W50502.png"
+    },
+    "30758": {
+        "item_icon_path": "/handled_icons/W50603.png"
+    },
+    "30760": {
+        "item_icon_path": "/handled_icons/W30203.png"
+    },
+    "30761": {
+        "item_icon_path": "/handled_icons/W30302.png"
+    },
+    "30762": {
+        "item_icon_path": "/handled_icons/W30601.png"
+    },
+    "30763": {
+        "item_icon_path": "/handled_icons/W30402.png"
+    },
+    "30764": {
+        "item_icon_path": "/handled_icons/W30501.png"
+    },
+    "30766": {
+        "item_icon_path": "/handled_icons/W40201.png"
+    },
+    "30767": {
+        "item_icon_path": "/handled_icons/W40202.png"
+    },
+    "30768": {
+        "item_icon_path": "/handled_icons/W40602.png"
+    },
+    "30769": {
+        "item_icon_path": "/handled_icons/W40403.png"
+    },
+    "30770": {
+        "item_icon_path": "/handled_icons/W40302.png"
+    },
+    "30772": {
+        "item_icon_path": "/handled_icons/W60102.png"
+    },
+    "30773": {
+        "item_icon_path": "/handled_icons/W60302.png"
+    },
+    "30774": {
+        "item_icon_path": "/handled_icons/W60403.png"
+    },
+    "30775": {
+        "item_icon_path": "/handled_icons/W60601.png"
+    },
+    "30776": {
+        "item_icon_path": "/handled_icons/W60501.png"
+    },
+    "30777": {
+        "item_icon_path": "/handled_icons/W60402.png"
+    },
+    "30778": {
+        "item_icon_path": "/handled_icons/W60103.png"
+    },
+    "30779": {
+        "item_icon_path": "/handled_icons/W60502.png"
+    },
+    "30780": {
+        "item_icon_path": "/handled_icons/W60603.png"
+    },
+    "30781": {
+        "item_icon_path": "/handled_icons/I00195.png"
+    },
+    "30782": {
+        "item_icon_path": "/handled_icons/I00196.png"
+    },
+    "30783": {
+        "item_icon_path": "/handled_icons/I00051.png"
+    },
+    "30784": {
+        "item_icon_path": "/handled_icons/I00267.png"
+    },
+    "30785": {
+        "item_icon_path": "/handled_icons/I00258.png"
+    },
+    "30786": {
+        "item_icon_path": "/handled_icons/I00045.png"
+    },
+    "30787": {
+        "item_icon_path": "/handled_icons/I00048.png"
+    },
+    "30788": {
+        "item_icon_path": "/handled_icons/I00049.png"
+    },
+    "30789": {
+        "item_icon_path": "/handled_icons/I00046.png"
+    },
+    "30790": {
+        "item_icon_path": "/handled_icons/I00050.png"
+    },
+    "30791": {
+        "item_icon_path": "/handled_icons/I00115.png"
+    },
+    "30792": {
+        "item_icon_path": "/handled_icons/I00009.png"
+    },
+    "30793": {
+        "item_icon_path": "/handled_icons/I00010.png"
+    },
+    "30794": {
+        "item_icon_path": "/handled_icons/I00147.png"
+    },
+    "30795": {
+        "item_icon_path": "/handled_icons/I00156.png"
+    },
+    "30796": {
+        "item_icon_path": "/handled_icons/I00297.png"
+    },
+    "30797": {
+        "item_icon_path": "/handled_icons/I00298.png"
+    },
+    "30798": {
+        "item_icon_path": "/handled_icons/I00198.png"
+    },
+    "30799": {
+        "item_icon_path": "/handled_icons/I00404.png"
+    },
+    "30800": {
+        "item_icon_path": "/handled_icons/I00215.png"
+    },
+    "30801": {
+        "item_icon_path": "/handled_icons/I00419.png"
+    },
+    "30802": {
+        "item_icon_path": "/handled_icons/I00201.png"
+    },
+    "30803": {
+        "item_icon_path": "/handled_icons/I00216.png"
+    },
+    "30804": {
+        "item_icon_path": "/handled_icons/I00423.png"
+    },
+    "30805": {
+        "item_icon_path": "/handled_icons/I00193.png"
+    },
+    "30806": {
+        "item_icon_path": "/handled_icons/I00194.png"
+    },
+    "30807": {
+        "item_icon_path": "/handled_icons/I00406.png"
+    },
+    "30808": {
+        "item_icon_path": "/handled_icons/I00420.png"
+    },
+    "30809": {
+        "item_icon_path": "/handled_icons/I00058.png"
+    },
+    "30810": {
+        "item_icon_path": "/handled_icons/I00405.png"
+    },
+    "30811": {
+        "item_icon_path": "/handled_icons/I00188.png"
+    },
+    "30812": {
+        "item_icon_path": "/handled_icons/I00192.png"
+    },
+    "30813": {
+        "item_icon_path": "/handled_icons/I00117.png"
+    },
+    "30814": {
+        "item_icon_path": "/handled_icons/I00033.png"
+    },
+    "30815": {
+        "item_icon_path": "/handled_icons/I00039.png"
+    },
+    "30816": {
+        "item_icon_path": "/handled_icons/I00168.png"
+    },
+    "30817": {
+        "item_icon_path": "/handled_icons/I00179.png"
+    },
+    "30818": {
+        "item_icon_path": "/handled_icons/I00169.png"
+    },
+    "30819": {
+        "item_icon_path": "/handled_icons/I00395.png"
+    },
+    "30820": {
+        "item_icon_path": "/handled_icons/I00177.png"
+    },
+    "30821": {
+        "item_icon_path": "/handled_icons/I00175.png"
+    },
+    "30822": {
+        "item_icon_path": "/handled_icons/I00167.png"
+    },
+    "30823": {
+        "item_icon_path": "/handled_icons/I00186.png"
+    },
+    "30824": {
+        "item_icon_path": "/handled_icons/I00273.png"
+    },
+    "30825": {
+        "item_icon_path": "/handled_icons/I00172.png"
+    },
+    "30826": {
+        "item_icon_path": "/handled_icons/I00044.png"
+    },
+    "30827": {
+        "item_icon_path": "/handled_icons/I00173.png"
+    },
+    "30828": {
+        "item_icon_path": "/handled_icons/I00181.png"
+    },
+    "30829": {
+        "item_icon_path": "/handled_icons/I00398.png"
+    },
+    "30830": {
+        "item_icon_path": "/handled_icons/I00013.png"
+    },
+    "30831": {
+        "item_icon_path": "/handled_icons/I00021.png"
+    },
+    "30832": {
+        "item_icon_path": "/handled_icons/I00155.png"
+    },
+    "30833": {
+        "item_icon_path": "/handled_icons/I00030.png"
+    },
+    "30834": {
+        "item_icon_path": "/handled_icons/I00296.png"
+    },
+    "30835": {
+        "item_icon_path": "/handled_icons/I00149.png"
+    },
+    "30836": {
+        "item_icon_path": "/handled_icons/I00027.png"
+    },
+    "30837": {
+        "item_icon_path": "/handled_icons/I00097.png"
+    },
+    "30838": {
+        "item_icon_path": "/handled_icons/I00152.png"
+    },
+    "30839": {
+        "item_icon_path": "/handled_icons/I00148.png"
+    },
+    "30840": {
+        "item_icon_path": "/handled_icons/I00029.png"
+    },
+    "30841": {
+        "item_icon_path": "/handled_icons/I00274.png"
+    },
+    "30842": {
+        "item_icon_path": "/handled_icons/I00167.png"
+    },
+    "30843": {
+        "item_icon_path": "/handled_icons/I00160.png"
+    },
+    "30844": {
+        "item_icon_path": "/handled_icons/I00251.png"
+    },
+    "30845": {
+        "item_icon_path": "/handled_icons/I00250.png"
+    },
+    "30846": {
+        "item_icon_path": "/handled_icons/I00252.png"
+    },
+    "30847": {
+        "item_icon_path": "/handled_icons/I00197.png"
+    },
+    "30848": {
+        "item_icon_path": "/handled_icons/I00099.png"
+    },
+    "30849": {
+        "item_icon_path": "/handled_icons/I00118.png"
+    },
+    "30850": {
+        "item_icon_path": "/handled_icons/I00256.png"
+    },
+    "30851": {
+        "item_icon_path": "/handled_icons/I00100.png"
+    },
+    "30852": {
+        "item_icon_path": "/handled_icons/I00178.png"
+    },
+    "30853": {
+        "item_icon_path": "/handled_icons/I00180.png"
+    },
+    "30854": {
+        "item_icon_path": "/handled_icons/I00396.png"
+    },
+    "30855": {
+        "item_icon_path": "/handled_icons/I00015.png"
+    },
+    "30856": {
+        "item_icon_path": "/handled_icons/I00028.png"
+    },
+    "30857": {
+        "item_icon_path": "/handled_icons/I00400.png"
+    },
+    "30858": {
+        "item_icon_path": "/handled_icons/I00299.png"
+    },
+    "30859": {
+        "item_icon_path": "/handled_icons/I00200.png"
+    },
+    "30860": {
+        "item_icon_path": "/handled_icons/A00058.png"
+    },
+    "30861": {
+        "item_icon_path": "/handled_icons/A00011.png"
+    },
+    "30862": {
+        "item_icon_path": "/handled_icons/I00161.png"
+    },
+    "30863": {
+        "item_icon_path": "/handled_icons/A00016.png"
+    },
+    "30864": {
+        "item_icon_path": "/handled_icons/A00043.png"
+    },
+    "30865": {
+        "item_icon_path": "/handled_icons/I00024.png"
+    },
+    "30866": {
+        "item_icon_path": "/handled_icons/A30002.png"
+    },
+    "30867": {
+        "item_icon_path": "/handled_icons/A40001.png"
+    },
+    "30868": {
+        "item_icon_path": "/handled_icons/A50002.png"
+    },
+    "30869": {
+        "item_icon_path": "/handled_icons/A30021.png"
+    },
+    "30870": {
+        "item_icon_path": "/handled_icons/A40003.png"
+    },
+    "30871": {
+        "item_icon_path": "/handled_icons/A50006.png"
+    },
+    "30872": {
+        "item_icon_path": "/handled_icons/A30007.png"
+    },
+    "30873": {
+        "item_icon_path": "/handled_icons/A40015.png"
+    },
+    "30874": {
+        "item_icon_path": "/handled_icons/A50002.png"
+    },
+    "30875": {
+        "item_icon_path": "/handled_icons/A30006.png"
+    },
+    "30876": {
+        "item_icon_path": "/handled_icons/A40008.png"
+    },
+    "30877": {
+        "item_icon_path": "/handled_icons/A50012.png"
+    },
+    "30878": {
+        "item_icon_path": "/handled_icons/A30021.png"
+    },
+    "30879": {
+        "item_icon_path": "/handled_icons/A40012.png"
+    },
+    "30880": {
+        "item_icon_path": "/handled_icons/A50013.png"
+    },
+    "30881": {
+        "item_icon_path": "/handled_icons/A30022.png"
+    },
+    "30882": {
+        "item_icon_path": "/handled_icons/A40006.png"
+    },
+    "30883": {
+        "item_icon_path": "/handled_icons/A50013.png"
+    },
+    "30884": {
+        "item_icon_path": "/handled_icons/A30013.png"
+    },
+    "30885": {
+        "item_icon_path": "/handled_icons/A40005.png"
+    },
+    "30886": {
+        "item_icon_path": "/handled_icons/A50006.png"
+    },
+    "30887": {
+        "item_icon_path": "/handled_icons/A30003.png"
+    },
+    "30888": {
+        "item_icon_path": "/handled_icons/A40005.png"
+    },
+    "30889": {
+        "item_icon_path": "/handled_icons/A50006.png"
+    },
+    "30890": {
+        "item_icon_path": "/handled_icons/A30007.png"
+    },
+    "30891": {
+        "item_icon_path": "/handled_icons/A40008.png"
+    },
+    "30892": {
+        "item_icon_path": "/handled_icons/A50008.png"
+    },
+    "30893": {
+        "item_icon_path": "/handled_icons/A30007.png"
+    },
+    "30894": {
+        "item_icon_path": "/handled_icons/A40005.png"
+    },
+    "30895": {
+        "item_icon_path": "/handled_icons/A50003.png"
+    },
+    "30896": {
+        "item_icon_path": "/handled_icons/A30018.png"
+    },
+    "30897": {
+        "item_icon_path": "/handled_icons/A40003.png"
+    },
+    "30898": {
+        "item_icon_path": "/handled_icons/A50003.png"
+    },
+    "30899": {
+        "item_icon_path": "/handled_icons/A30008.png"
+    },
+    "30900": {
+        "item_icon_path": "/handled_icons/A40013.png"
+    },
+    "30901": {
+        "item_icon_path": "/handled_icons/A50010.png"
+    },
+    "30902": {
+        "item_icon_path": "/handled_icons/A30003.png"
+    },
+    "30903": {
+        "item_icon_path": "/handled_icons/A40011.png"
+    },
+    "30904": {
+        "item_icon_path": "/handled_icons/A50008.png"
+    },
+    "30905": {
+        "item_icon_path": "/handled_icons/A30011.png"
+    },
+    "30906": {
+        "item_icon_path": "/handled_icons/A40009.png"
+    },
+    "30907": {
+        "item_icon_path": "/handled_icons/A50009.png"
+    },
+    "30908": {
+        "item_icon_path": "/handled_icons/A30002.png"
+    },
+    "30909": {
+        "item_icon_path": "/handled_icons/A40002.png"
+    },
+    "30910": {
+        "item_icon_path": "/handled_icons/A50007.png"
+    },
+    "30911": {
+        "item_icon_path": "/handled_icons/A30005.png"
+    },
+    "30912": {
+        "item_icon_path": "/handled_icons/A40017.png"
+    },
+    "30913": {
+        "item_icon_path": "/handled_icons/A50004.png"
+    },
+    "30914": {
+        "item_icon_path": "/handled_icons/A30014.png"
+    },
+    "30915": {
+        "item_icon_path": "/handled_icons/A40002.png"
+    },
+    "30916": {
+        "item_icon_path": "/handled_icons/A50009.png"
+    },
+    "30917": {
+        "item_icon_path": "/handled_icons/A30003.png"
+    },
+    "30918": {
+        "item_icon_path": "/handled_icons/A40011.png"
+    },
+    "30919": {
+        "item_icon_path": "/handled_icons/A50004.png"
+    },
+    "30920": {
+        "item_icon_path": "/handled_icons/A30006.png"
+    },
+    "30921": {
+        "item_icon_path": "/handled_icons/A40002.png"
+    },
+    "30922": {
+        "item_icon_path": "/handled_icons/A50004.png"
+    },
+    "30923": {
+        "item_icon_path": "/handled_icons/A30016.png"
+    },
+    "30924": {
+        "item_icon_path": "/handled_icons/A40005.png"
+    },
+    "30925": {
+        "item_icon_path": "/handled_icons/A50008.png"
+    },
+    "30926": {
+        "item_icon_path": "/handled_icons/A30017.png"
+    },
+    "30927": {
+        "item_icon_path": "/handled_icons/A40012.png"
+    },
+    "30928": {
+        "item_icon_path": "/handled_icons/A50004.png"
+    },
+    "30929": {
+        "item_icon_path": "/handled_icons/A00012.png"
+    },
+    "30930": {
+        "item_icon_path": "/handled_icons/I00056.png"
+    },
+    "30931": {
+        "item_icon_path": "/handled_icons/I00023.png"
+    },
+    "30932": {
+        "item_icon_path": "/handled_icons/A00011.png"
+    },
+    "30933": {
+        "item_icon_path": "/handled_icons/I00266.png"
+    },
+    "30934": {
+        "item_icon_path": "/handled_icons/I00161.png"
+    },
+    "30935": {
+        "item_icon_path": "/handled_icons/A00044.png"
+    },
+    "30936": {
+        "item_icon_path": "/handled_icons/I00197.png"
+    },
+    "30937": {
+        "item_icon_path": "/handled_icons/I00024.png"
+    },
+    "30950": {
+        "item_icon_path": "/handled_icons/A30021.png"
+    },
+    "30951": {
+        "item_icon_path": "/handled_icons/A40003.png"
+    },
+    "30952": {
+        "item_icon_path": "/handled_icons/A50006.png"
+    },
+    "30953": {
+        "item_icon_path": "/handled_icons/A30007.png"
+    },
+    "30954": {
+        "item_icon_path": "/handled_icons/A40015.png"
+    },
+    "30955": {
+        "item_icon_path": "/handled_icons/A50002.png"
+    },
+    "30956": {
+        "item_icon_path": "/handled_icons/A30006.png"
+    },
+    "30957": {
+        "item_icon_path": "/handled_icons/A40008.png"
+    },
+    "30958": {
+        "item_icon_path": "/handled_icons/A50012.png"
+    },
+    "30959": {
+        "item_icon_path": "/handled_icons/A30021.png"
+    },
+    "30960": {
+        "item_icon_path": "/handled_icons/A40012.png"
+    },
+    "30961": {
+        "item_icon_path": "/handled_icons/A50013.png"
+    },
+    "30962": {
+        "item_icon_path": "/handled_icons/A30022.png"
+    },
+    "30963": {
+        "item_icon_path": "/handled_icons/A40006.png"
+    },
+    "30964": {
+        "item_icon_path": "/handled_icons/A50013.png"
+    },
+    "30965": {
+        "item_icon_path": "/handled_icons/A30013.png"
+    },
+    "30966": {
+        "item_icon_path": "/handled_icons/A40005.png"
+    },
+    "30967": {
+        "item_icon_path": "/handled_icons/A50006.png"
+    },
+    "30968": {
+        "item_icon_path": "/handled_icons/A30003.png"
+    },
+    "30969": {
+        "item_icon_path": "/handled_icons/A40005.png"
+    },
+    "30970": {
+        "item_icon_path": "/handled_icons/A50006.png"
+    },
+    "30971": {
+        "item_icon_path": "/handled_icons/A30007.png"
+    },
+    "30972": {
+        "item_icon_path": "/handled_icons/A40008.png"
+    },
+    "30973": {
+        "item_icon_path": "/handled_icons/A50008.png"
+    },
+    "30974": {
+        "item_icon_path": "/handled_icons/A30007.png"
+    },
+    "30975": {
+        "item_icon_path": "/handled_icons/A40005.png"
+    },
+    "30976": {
+        "item_icon_path": "/handled_icons/A50003.png"
+    },
+    "30977": {
+        "item_icon_path": "/handled_icons/A30018.png"
+    },
+    "30978": {
+        "item_icon_path": "/handled_icons/A40003.png"
+    },
+    "30979": {
+        "item_icon_path": "/handled_icons/A50003.png"
+    },
+    "30980": {
+        "item_icon_path": "/handled_icons/A30008.png"
+    },
+    "30981": {
+        "item_icon_path": "/handled_icons/A40013.png"
+    },
+    "30982": {
+        "item_icon_path": "/handled_icons/A50010.png"
+    },
+    "30983": {
+        "item_icon_path": "/handled_icons/A30003.png"
+    },
+    "30984": {
+        "item_icon_path": "/handled_icons/A40011.png"
+    },
+    "30985": {
+        "item_icon_path": "/handled_icons/A50008.png"
+    },
+    "30986": {
+        "item_icon_path": "/handled_icons/A30011.png"
+    },
+    "30987": {
+        "item_icon_path": "/handled_icons/A40009.png"
+    },
+    "30988": {
+        "item_icon_path": "/handled_icons/A50009.png"
+    },
+    "30989": {
+        "item_icon_path": "/handled_icons/A30002.png"
+    },
+    "30990": {
+        "item_icon_path": "/handled_icons/A40002.png"
+    },
+    "30991": {
+        "item_icon_path": "/handled_icons/A50007.png"
+    },
+    "30992": {
+        "item_icon_path": "/handled_icons/A30005.png"
+    },
+    "30993": {
+        "item_icon_path": "/handled_icons/A40017.png"
+    },
+    "30994": {
+        "item_icon_path": "/handled_icons/A50004.png"
+    },
+    "30995": {
+        "item_icon_path": "/handled_icons/A30014.png"
+    },
+    "30996": {
+        "item_icon_path": "/handled_icons/A40002.png"
+    },
+    "30997": {
+        "item_icon_path": "/handled_icons/A50009.png"
+    },
+    "30998": {
+        "item_icon_path": "/handled_icons/A30003.png"
+    },
+    "30999": {
+        "item_icon_path": "/handled_icons/A40011.png"
+    },
+    "31000": {
+        "item_icon_path": "/handled_icons/A50004.png"
+    },
+    "31001": {
+        "item_icon_path": "/handled_icons/A30006.png"
+    },
+    "31002": {
+        "item_icon_path": "/handled_icons/A40002.png"
+    },
+    "31003": {
+        "item_icon_path": "/handled_icons/A50004.png"
+    },
+    "31004": {
+        "item_icon_path": "/handled_icons/A30016.png"
+    },
+    "31005": {
+        "item_icon_path": "/handled_icons/A40005.png"
+    },
+    "31006": {
+        "item_icon_path": "/handled_icons/A50008.png"
+    },
+    "31007": {
+        "item_icon_path": "/handled_icons/A30017.png"
+    },
+    "31008": {
+        "item_icon_path": "/handled_icons/A40012.png"
+    },
+    "31009": {
+        "item_icon_path": "/handled_icons/A50004.png"
+    },
+    "31015": {
+        "item_icon_path": "/handled_icons/W10803.png"
+    },
+    "31017": {
+        "item_icon_path": "/handled_icons/W11001.png"
+    },
+    "31023": {
+        "item_icon_path": "/handled_icons/W20801.png"
+    },
+    "31025": {
+        "item_icon_path": "/handled_icons/W21001.png"
+    },
+    "31031": {
+        "item_icon_path": "/handled_icons/W12803.png"
+    },
+    "31033": {
+        "item_icon_path": "/handled_icons/W13003.png"
+    },
+    "31039": {
+        "item_icon_path": "/handled_icons/W22803.png"
+    },
+    "31041": {
+        "item_icon_path": "/handled_icons/W23002.png"
+    },
+    "31047": {
+        "item_icon_path": "/handled_icons/W11801.png"
+    },
+    "31048": {
+        "item_icon_path": "/handled_icons/W11902.png"
+    },
+    "31055": {
+        "item_icon_path": "/handled_icons/W21802.png"
+    },
+    "31057": {
+        "item_icon_path": "/handled_icons/W22001.png"
+    },
+    "31064": {
+        "item_icon_path": "/handled_icons/W30902.png"
+    },
+    "31066": {
+        "item_icon_path": "/handled_icons/W30901.png"
+    },
+    "31073": {
+        "item_icon_path": "/handled_icons/W40901.png"
+    },
+    "31075": {
+        "item_icon_path": "/handled_icons/W40903.png"
+    },
+    "31086": {
+        "item_icon_path": "/handled_icons/W50602.png"
+    },
+    "31091": {
+        "item_icon_path": "/handled_icons/W50901.png"
+    },
+    "31098": {
+        "item_icon_path": "/handled_icons/W60801.png"
+    },
+    "31100": {
+        "item_icon_path": "/handled_icons/W69901.png"
+    },
+    "31106": {
+        "item_icon_path": "/handled_icons/A00044.png"
+    },
+    "31107": {
+        "item_icon_path": "/handled_icons/A00043.png"
+    },
+    "31108": {
+        "item_icon_path": "/handled_icons/I00025.png"
+    },
+    "31112": {
+        "item_icon_path": "/handled_icons/A00013.png"
+    },
+    "31113": {
+        "item_icon_path": "/handled_icons/A00013.png"
+    },
+    "31114": {
+        "item_icon_path": "/handled_icons/I00163.png"
+    },
+    "31969": {
+        "item_icon_path": "/handled_icons/I00419.png"
+    },
+    "31971": {
+        "item_icon_path": "/handled_icons/I00420.png"
+    },
+    "31972": {
+        "item_icon_path": "/handled_icons/I00422.png"
+    },
+    "31973": {
+        "item_icon_path": "/handled_icons/I00421.png"
+    },
+    "31974": {
+        "item_icon_path": "/handled_icons/I00416.png"
+    },
+    "31976": {
+        "item_icon_path": "/handled_icons/I00418.png"
+    },
+    "31977": {
+        "item_icon_path": "/handled_icons/I00415.png"
+    },
+    "31978": {
+        "item_icon_path": "/handled_icons/I00417.png"
+    },
+    "34086": {
+        "item_icon_path": "/handled_icons/I00254.png"
+    },
+    "34087": {
+        "item_icon_path": "/handled_icons/I00096.png"
+    },
+    "34088": {
+        "item_icon_path": "/handled_icons/I00253.png"
+    },
+    "34151": {
+        "item_icon_path": "/handled_icons/I00253.png"
+    },
+    "34155": {
+        "item_icon_path": "/handled_icons/I00421.png"
+    },
+    "34156": {
+        "item_icon_path": "/handled_icons/I00417.png"
+    },
+    "34573": {
+        "item_icon_path": "/handled_icons/W10801.png"
+    },
+    "34574": {
+        "item_icon_path": "/handled_icons/W20801.png"
+    },
+    "34575": {
+        "item_icon_path": "/handled_icons/W14201.png"
+    },
+    "34576": {
+        "item_icon_path": "/handled_icons/W24101.png"
+    },
+    "34578": {
+        "item_icon_path": "/handled_icons/W14202.png"
+    },
+    "34579": {
+        "item_icon_path": "/handled_icons/W24601.png"
+    },
+    "34582": {
+        "item_icon_path": "/handled_icons/W22802.png"
+    },
+    "34583": {
+        "item_icon_path": "/handled_icons/W22901.png"
+    },
+    "34584": {
+        "item_icon_path": "/handled_icons/W14401.png"
+    },
+    "34585": {
+        "item_icon_path": "/handled_icons/W24301.png"
+    },
+    "34587": {
+        "item_icon_path": "/handled_icons/W14901.png"
+    },
+    "34588": {
+        "item_icon_path": "/handled_icons/W24801.png"
+    },
+    "34591": {
+        "item_icon_path": "/handled_icons/W11802.png"
+    },
+    "34592": {
+        "item_icon_path": "/handled_icons/W21901.png"
+    },
+    "34593": {
+        "item_icon_path": "/handled_icons/W14301.png"
+    },
+    "34594": {
+        "item_icon_path": "/handled_icons/W24201.png"
+    },
+    "34596": {
+        "item_icon_path": "/handled_icons/W14801.png"
+    },
+    "34597": {
+        "item_icon_path": "/handled_icons/W24701.png"
+    },
+    "34600": {
+        "item_icon_path": "/handled_icons/W30701.png"
+    },
+    "34601": {
+        "item_icon_path": "/handled_icons/W31701.png"
+    },
+    "34602": {
+        "item_icon_path": "/handled_icons/W31802.png"
+    },
+    "34604": {
+        "item_icon_path": "/handled_icons/W40802.png"
+    },
+    "34605": {
+        "item_icon_path": "/handled_icons/W41701.png"
+    },
+    "34606": {
+        "item_icon_path": "/handled_icons/W41802.png"
+    },
+    "34608": {
+        "item_icon_path": "/handled_icons/W50803.png"
+    },
+    "34609": {
+        "item_icon_path": "/handled_icons/W50901.png"
+    },
+    "34611": {
+        "item_icon_path": "/handled_icons/W51801.png"
+    },
+    "34613": {
+        "item_icon_path": "/handled_icons/W51902.png"
+    },
+    "34615": {
+        "item_icon_path": "/handled_icons/W60701.png"
+    },
+    "34616": {
+        "item_icon_path": "/handled_icons/W60803.png"
+    },
+    "34618": {
+        "item_icon_path": "/handled_icons/W61701.png"
+    },
+    "34620": {
+        "item_icon_path": "/handled_icons/W61802.png"
+    },
+    "34622": {
+        "item_icon_path": "/handled_icons/I00027.png"
+    },
+    "34623": {
+        "item_icon_path": "/handled_icons/I00164.png"
+    },
+    "34624": {
+        "item_icon_path": "/handled_icons/I00096.png"
+    },
+    "34625": {
+        "item_icon_path": "/handled_icons/I00065.png"
+    },
+    "34626": {
+        "item_icon_path": "/handled_icons/I00270.png"
+    },
+    "34627": {
+        "item_icon_path": "/handled_icons/I00269.png"
+    },
+    "34628": {
+        "item_icon_path": "/handled_icons/A90011.png"
+    },
+    "34629": {
+        "item_icon_path": "/handled_icons/I00025.png"
+    },
+    "34630": {
+        "item_icon_path": "/handled_icons/F94005.png"
+    },
+    "34631": {
+        "item_icon_path": "/handled_icons/A30021.png"
+    },
+    "34632": {
+        "item_icon_path": "/handled_icons/A40003.png"
+    },
+    "34633": {
+        "item_icon_path": "/handled_icons/A50019.png"
+    },
+    "34644": {
+        "item_icon_path": "/handled_icons/A30006.png"
+    },
+    "34645": {
+        "item_icon_path": "/handled_icons/A40008.png"
+    },
+    "34646": {
+        "item_icon_path": "/handled_icons/A50012.png"
+    },
+    "34657": {
+        "item_icon_path": "/handled_icons/A30011.png"
+    },
+    "34658": {
+        "item_icon_path": "/handled_icons/A40018.png"
+    },
+    "34659": {
+        "item_icon_path": "/handled_icons/A50009.png"
+    },
+    "34670": {
+        "item_icon_path": "/handled_icons/A30017.png"
+    },
+    "34671": {
+        "item_icon_path": "/handled_icons/A40009.png"
+    },
+    "34672": {
+        "item_icon_path": "/handled_icons/A50004.png"
+    },
+    "34721": {
+        "item_icon_path": "/handled_icons/I00217.png"
+    },
+    "34722": {
+        "item_icon_path": "/handled_icons/I00272.png"
+    },
+    "34723": {
+        "item_icon_path": "/handled_icons/I00116.png"
+    },
+    "34724": {
+        "item_icon_path": "/handled_icons/I00192.png"
+    },
+    "34725": {
+        "item_icon_path": "/handled_icons/I00190.png"
+    },
+    "34726": {
+        "item_icon_path": "/handled_icons/I00252.png"
+    },
+    "34727": {
+        "item_icon_path": "/handled_icons/I00211.png"
+    },
+    "34728": {
+        "item_icon_path": "/handled_icons/I00166.png"
+    },
+    "34729": {
+        "item_icon_path": "/handled_icons/I00182.png"
+    },
+    "34730": {
+        "item_icon_path": "/handled_icons/I00176.png"
+    },
+    "34731": {
+        "item_icon_path": "/handled_icons/I00366.png"
+    },
+    "34732": {
+        "item_icon_path": "/handled_icons/I00038.png"
+    },
+    "34733": {
+        "item_icon_path": "/handled_icons/I00269.png"
+    },
+    "34734": {
+        "item_icon_path": "/handled_icons/I00399.png"
+    },
+    "34735": {
+        "item_icon_path": "/handled_icons/I00008.png"
+    },
+    "34937": {
+        "item_icon_path": "/handled_icons/I00236.png"
+    },
+    "34938": {
+        "item_icon_path": "/handled_icons/I00237.png"
+    },
+    "34939": {
+        "item_icon_path": "/handled_icons/I00238.png"
+    },
+    "34940": {
+        "item_icon_path": "/handled_icons/I00170.png"
+    },
+    "34941": {
+        "item_icon_path": "/handled_icons/I00197.png"
+    },
+    "34942": {
+        "item_icon_path": "/handled_icons/I00266.png"
+    },
+    "34943": {
+        "item_icon_path": "/handled_icons/I00519.png"
+    },
+    "34944": {
+        "item_icon_path": "/handled_icons/I00520.png"
+    },
+    "34945": {
+        "item_icon_path": "/handled_icons/I00521.png"
+    },
+    "34946": {
+        "item_icon_path": "/handled_icons/I00522.png"
+    },
+    "34947": {
+        "item_icon_path": "/handled_icons/I00523.png"
+    },
+    "34948": {
+        "item_icon_path": "/handled_icons/I00524.png"
+    },
+    "34949": {
+        "item_icon_path": "/handled_icons/I00525.png"
+    },
+    "34950": {
+        "item_icon_path": "/handled_icons/I00526.png"
+    },
+    "34951": {
+        "item_icon_path": "/handled_icons/I00527.png"
+    },
+    "34952": {
+        "item_icon_path": "/handled_icons/I00528.png"
+    },
+    "34953": {
+        "item_icon_path": "/handled_icons/I00529.png"
+    },
+    "34954": {
+        "item_icon_path": "/handled_icons/I00530.png"
+    },
+    "35310": {
+        "item_icon_path": "/handled_icons/W10901.png"
+    },
+    "35311": {
+        "item_icon_path": "/handled_icons/W20902.png"
+    },
+    "35312": {
+        "item_icon_path": "/handled_icons/W16001.png"
+    },
+    "35313": {
+        "item_icon_path": "/handled_icons/W26101.png"
+    },
+    "35314": {
+        "item_icon_path": "/handled_icons/W12901.png"
+    },
+    "35315": {
+        "item_icon_path": "/handled_icons/W22902.png"
+    },
+    "35316": {
+        "item_icon_path": "/handled_icons/W16201.png"
+    },
+    "35317": {
+        "item_icon_path": "/handled_icons/W26301.png"
+    },
+    "35318": {
+        "item_icon_path": "/handled_icons/W11801.png"
+    },
+    "35319": {
+        "item_icon_path": "/handled_icons/W21901.png"
+    },
+    "35320": {
+        "item_icon_path": "/handled_icons/W16101.png"
+    },
+    "35321": {
+        "item_icon_path": "/handled_icons/W96201.png"
+    },
+    "35322": {
+        "item_icon_path": "/handled_icons/W30902.png"
+    },
+    "35323": {
+        "item_icon_path": "/handled_icons/W32201.png"
+    },
+    "35325": {
+        "item_icon_path": "/handled_icons/W40801.png"
+    },
+    "35327": {
+        "item_icon_path": "/handled_icons/W41603.png"
+    },
+    "35328": {
+        "item_icon_path": "/handled_icons/W50702.png"
+    },
+    "35329": {
+        "item_icon_path": "/handled_icons/W50701.png"
+    },
+    "35331": {
+        "item_icon_path": "/handled_icons/W50904.png"
+    },
+    "35332": {
+        "item_icon_path": "/handled_icons/W60702.png"
+    },
+    "35333": {
+        "item_icon_path": "/handled_icons/W60701.png"
+    },
+    "35334": {
+        "item_icon_path": "/handled_icons/W62301.png"
+    },
+    "35336": {
+        "item_icon_path": "/handled_icons/I00117.png"
+    },
+    "35337": {
+        "item_icon_path": "/handled_icons/I00164.png"
+    },
+    "35338": {
+        "item_icon_path": "/handled_icons/I00024.png"
+    },
+    "35339": {
+        "item_icon_path": "/handled_icons/A00013.png"
+    },
+    "35340": {
+        "item_icon_path": "/handled_icons/I00065.png"
+    },
+    "35341": {
+        "item_icon_path": "/handled_icons/F94005.png"
+    },
+    "35342": {
+        "item_icon_path": "/handled_icons/A30040.png"
+    },
+    "35343": {
+        "item_icon_path": "/handled_icons/A40036.png"
+    },
+    "35344": {
+        "item_icon_path": "/handled_icons/A50031.png"
+    },
+    "35355": {
+        "item_icon_path": "/handled_icons/A30040.png"
+    },
+    "35356": {
+        "item_icon_path": "/handled_icons/A40036.png"
+    },
+    "35357": {
+        "item_icon_path": "/handled_icons/A50031.png"
+    },
+    "35368": {
+        "item_icon_path": "/handled_icons/A30042.png"
+    },
+    "35369": {
+        "item_icon_path": "/handled_icons/A40038.png"
+    },
+    "35370": {
+        "item_icon_path": "/handled_icons/A50033.png"
+    },
+    "35381": {
+        "item_icon_path": "/handled_icons/A30042.png"
+    },
+    "35382": {
+        "item_icon_path": "/handled_icons/A40038.png"
+    },
+    "35383": {
+        "item_icon_path": "/handled_icons/A50033.png"
+    },
+    "35394": {
+        "item_icon_path": "/handled_icons/A30043.png"
+    },
+    "35395": {
+        "item_icon_path": "/handled_icons/A40039.png"
+    },
+    "35396": {
+        "item_icon_path": "/handled_icons/A50034.png"
+    },
+    "35407": {
+        "item_icon_path": "/handled_icons/A30043.png"
+    },
+    "35408": {
+        "item_icon_path": "/handled_icons/A40039.png"
+    },
+    "35409": {
+        "item_icon_path": "/handled_icons/A50034.png"
+    },
+    "35420": {
+        "item_icon_path": "/handled_icons/A30045.png"
+    },
+    "35421": {
+        "item_icon_path": "/handled_icons/A40041.png"
+    },
+    "35422": {
+        "item_icon_path": "/handled_icons/A50036.png"
+    },
+    "35433": {
+        "item_icon_path": "/handled_icons/A30045.png"
+    },
+    "35434": {
+        "item_icon_path": "/handled_icons/A40041.png"
+    },
+    "35435": {
+        "item_icon_path": "/handled_icons/A50036.png"
+    },
+    "35675": {
+        "item_icon_path": "/handled_icons/I00207.png"
+    },
+    "35676": {
+        "item_icon_path": "/handled_icons/I00149.png"
+    },
+    "35677": {
+        "item_icon_path": "/handled_icons/I00035.png"
+    },
+    "35678": {
+        "item_icon_path": "/handled_icons/I00408.png"
+    },
+    "35679": {
+        "item_icon_path": "/handled_icons/I00104.png"
+    },
+    "35680": {
+        "item_icon_path": "/handled_icons/I00084.png"
+    },
+    "35681": {
+        "item_icon_path": "/handled_icons/I00531.png"
+    },
+    "35682": {
+        "item_icon_path": "/handled_icons/I00112.png"
+    },
+    "35683": {
+        "item_icon_path": "/handled_icons/I00186.png"
+    },
+    "35684": {
+        "item_icon_path": "/handled_icons/I00296.png"
+    },
+    "35685": {
+        "item_icon_path": "/handled_icons/A00051.png"
+    },
+    "35686": {
+        "item_icon_path": "/handled_icons/I00015.png"
+    },
+    "35687": {
+        "item_icon_path": "/handled_icons/I00397.png"
+    },
+    "35688": {
+        "item_icon_path": "/handled_icons/I00262.png"
+    },
+    "35689": {
+        "item_icon_path": "/handled_icons/I00299.png"
+    },
+    "35690": {
+        "item_icon_path": "/handled_icons/I00199.png"
+    },
+    "35691": {
+        "item_icon_path": "/handled_icons/I00253.png"
+    },
+    "35692": {
+        "item_icon_path": "/handled_icons/A00008.png"
+    },
+    "35693": {
+        "item_icon_path": "/handled_icons/I00095.png"
+    },
+    "35694": {
+        "item_icon_path": "/handled_icons/I00180.png"
+    },
+    "35695": {
+        "item_icon_path": "/handled_icons/I00165.png"
+    },
+    "35696": {
+        "item_icon_path": "/handled_icons/A60032.png"
+    },
+    "35697": {
+        "item_icon_path": "/handled_icons/I00037.png"
+    },
+    "35698": {
+        "item_icon_path": "/handled_icons/I00202.png"
+    },
+    "36570": {
+        "item_icon_path": "/handled_icons/W16901.png"
+    },
+    "36571": {
+        "item_icon_path": "/handled_icons/W17001.png"
+    },
+    "36572": {
+        "item_icon_path": "/handled_icons/W17101.png"
+    },
+    "36573": {
+        "item_icon_path": "/handled_icons/W27001.png"
+    },
+    "36574": {
+        "item_icon_path": "/handled_icons/W27101.png"
+    },
+    "36575": {
+        "item_icon_path": "/handled_icons/W27201.png"
+    },
+    "36576": {
+        "item_icon_path": "/handled_icons/W32501.png"
+    },
+    "36577": {
+        "item_icon_path": "/handled_icons/W42501.png"
+    },
+    "36578": {
+        "item_icon_path": "/handled_icons/W52601.png"
+    },
+    "36579": {
+        "item_icon_path": "/handled_icons/W62601.png"
+    },
+    "36580": {
+        "item_icon_path": "/handled_icons/A00011.png"
+    },
+    "36581": {
+        "item_icon_path": "/handled_icons/I00025.png"
+    },
+    "36582": {
+        "item_icon_path": "/handled_icons/F94005.png"
+    },
+    "36584": {
+        "item_icon_path": "/handled_icons/I00552.png"
+    },
+    "36585": {
+        "item_icon_path": "/handled_icons/I00553.png"
+    },
+    "36586": {
+        "item_icon_path": "/handled_icons/I00554.png"
+    },
+    "36587": {
+        "item_icon_path": "/handled_icons/I00555.png"
+    },
+    "36679": {
+        "item_icon_path": "/handled_icons/A30063.png"
+    },
+    "36680": {
+        "item_icon_path": "/handled_icons/A40059.png"
+    },
+    "36681": {
+        "item_icon_path": "/handled_icons/A50054.png"
+    },
+    "36682": {
+        "item_icon_path": "/handled_icons/A30057.png"
+    },
+    "36683": {
+        "item_icon_path": "/handled_icons/A40053.png"
+    },
+    "36684": {
+        "item_icon_path": "/handled_icons/A50048.png"
+    },
+    "36685": {
+        "item_icon_path": "/handled_icons/A30067.png"
+    },
+    "36686": {
+        "item_icon_path": "/handled_icons/A40063.png"
+    },
+    "36687": {
+        "item_icon_path": "/handled_icons/A50058.png"
+    },
+    "36688": {
+        "item_icon_path": "/handled_icons/A30069.png"
+    },
+    "36689": {
+        "item_icon_path": "/handled_icons/A40065.png"
+    },
+    "36690": {
+        "item_icon_path": "/handled_icons/A50060.png"
+    },
+    "36691": {
+        "item_icon_path": "/handled_icons/A10198.png"
+    },
+    "36692": {
+        "item_icon_path": "/handled_icons/A20139.png"
+    },
+    "36693": {
+        "item_icon_path": "/handled_icons/A30095.png"
+    },
+    "36694": {
+        "item_icon_path": "/handled_icons/A40091.png"
+    },
+    "36695": {
+        "item_icon_path": "/handled_icons/A50086.png"
+    },
+    "36696": {
+        "item_icon_path": "/handled_icons/A10199.png"
+    },
+    "36697": {
+        "item_icon_path": "/handled_icons/A20140.png"
+    },
+    "36698": {
+        "item_icon_path": "/handled_icons/A30096.png"
+    },
+    "36699": {
+        "item_icon_path": "/handled_icons/A40092.png"
+    },
+    "36700": {
+        "item_icon_path": "/handled_icons/A50087.png"
+    },
+    "36701": {
+        "item_icon_path": "/handled_icons/A10208.png"
+    },
+    "36702": {
+        "item_icon_path": "/handled_icons/A20149.png"
+    },
+    "36703": {
+        "item_icon_path": "/handled_icons/A30105.png"
+    },
+    "36704": {
+        "item_icon_path": "/handled_icons/A40101.png"
+    },
+    "36705": {
+        "item_icon_path": "/handled_icons/A50096.png"
+    },
+    "36706": {
+        "item_icon_path": "/handled_icons/A10201.png"
+    },
+    "36707": {
+        "item_icon_path": "/handled_icons/A20142.png"
+    },
+    "36708": {
+        "item_icon_path": "/handled_icons/A30098.png"
+    },
+    "36709": {
+        "item_icon_path": "/handled_icons/A40094.png"
+    },
+    "36710": {
+        "item_icon_path": "/handled_icons/A50089.png"
+    },
+    "36711": {
+        "item_icon_path": "/handled_icons/A10202.png"
+    },
+    "36712": {
+        "item_icon_path": "/handled_icons/A20143.png"
+    },
+    "36713": {
+        "item_icon_path": "/handled_icons/A30099.png"
+    },
+    "36714": {
+        "item_icon_path": "/handled_icons/A40095.png"
+    },
+    "36715": {
+        "item_icon_path": "/handled_icons/A50090.png"
+    },
+    "36716": {
+        "item_icon_path": "/handled_icons/A10203.png"
+    },
+    "36717": {
+        "item_icon_path": "/handled_icons/A20144.png"
+    },
+    "36718": {
+        "item_icon_path": "/handled_icons/A30100.png"
+    },
+    "36719": {
+        "item_icon_path": "/handled_icons/A40096.png"
+    },
+    "36720": {
+        "item_icon_path": "/handled_icons/A50091.png"
+    },
+    "36721": {
+        "item_icon_path": "/handled_icons/A10204.png"
+    },
+    "36722": {
+        "item_icon_path": "/handled_icons/A20145.png"
+    },
+    "36723": {
+        "item_icon_path": "/handled_icons/A30101.png"
+    },
+    "36724": {
+        "item_icon_path": "/handled_icons/A40097.png"
+    },
+    "36725": {
+        "item_icon_path": "/handled_icons/A50092.png"
+    },
+    "36726": {
+        "item_icon_path": "/handled_icons/A10205.png"
+    },
+    "36727": {
+        "item_icon_path": "/handled_icons/A20146.png"
+    },
+    "36728": {
+        "item_icon_path": "/handled_icons/A30102.png"
+    },
+    "36729": {
+        "item_icon_path": "/handled_icons/A40098.png"
+    },
+    "36730": {
+        "item_icon_path": "/handled_icons/A50093.png"
+    },
+    "36769": {
+        "item_icon_path": "/handled_icons/W16301.png"
+    },
+    "36770": {
+        "item_icon_path": "/handled_icons/W16502.png"
+    },
+    "36771": {
+        "item_icon_path": "/handled_icons/W16401.png"
+    },
+    "36772": {
+        "item_icon_path": "/handled_icons/W26402.png"
+    },
+    "36773": {
+        "item_icon_path": "/handled_icons/W26601.png"
+    },
+    "36774": {
+        "item_icon_path": "/handled_icons/W26501.png"
+    },
+    "36776": {
+        "item_icon_path": "/handled_icons/W52401.png"
+    },
+    "36777": {
+        "item_icon_path": "/handled_icons/W32301.png"
+    },
+    "36780": {
+        "item_icon_path": "/handled_icons/W42301.png"
+    },
+    "36782": {
+        "item_icon_path": "/handled_icons/W62302.png"
+    },
+    "36783": {
+        "item_icon_path": "/handled_icons/I00065.png"
+    },
+    "36784": {
+        "item_icon_path": "/handled_icons/I00164.png"
+    },
+    "36785": {
+        "item_icon_path": "/handled_icons/I00024.png"
+    },
+    "36926": {
+        "item_icon_path": "/handled_icons/I00588.png"
+    },
+    "36927": {
+        "item_icon_path": "/handled_icons/I00589.png"
+    },
+    "36928": {
+        "item_icon_path": "/handled_icons/I00590.png"
+    },
+    "36929": {
+        "item_icon_path": "/handled_icons/I00591.png"
+    },
+    "36930": {
+        "item_icon_path": "/handled_icons/I00236.png"
+    },
+    "36931": {
+        "item_icon_path": "/handled_icons/I00056.png"
+    },
+    "36937": {
+        "item_icon_path": "/handled_icons/W17701.png"
+    },
+    "36938": {
+        "item_icon_path": "/handled_icons/W27601.png"
+    },
+    "36939": {
+        "item_icon_path": "/handled_icons/W17901.png"
+    },
+    "36940": {
+        "item_icon_path": "/handled_icons/W27801.png"
+    },
+    "36941": {
+        "item_icon_path": "/handled_icons/W17801.png"
+    },
+    "36942": {
+        "item_icon_path": "/handled_icons/W27701.png"
+    },
+    "36943": {
+        "item_icon_path": "/handled_icons/W32601.png"
+    },
+    "36944": {
+        "item_icon_path": "/handled_icons/W42601.png"
+    },
+    "36945": {
+        "item_icon_path": "/handled_icons/W52701.png"
+    },
+    "36946": {
+        "item_icon_path": "/handled_icons/W62801.png"
+    },
+    "36947": {
+        "item_icon_path": "/handled_icons/A00013.png"
+    },
+    "36948": {
+        "item_icon_path": "/handled_icons/I00065.png"
+    },
+    "36949": {
+        "item_icon_path": "/handled_icons/F94005.png"
+    },
+    "38802": {
+        "item_icon_path": "/handled_icons/I00188.png"
+    },
+    "38803": {
+        "item_icon_path": "/handled_icons/I00190.png"
+    },
+    "38804": {
+        "item_icon_path": "/handled_icons/I00296.png"
+    },
+    "38805": {
+        "item_icon_path": "/handled_icons/I00175.png"
+    },
+    "38806": {
+        "item_icon_path": "/handled_icons/I00399.png"
+    },
+    "38807": {
+        "item_icon_path": "/handled_icons/I00007.png"
+    },
+    "38808": {
+        "item_icon_path": "/handled_icons/I00423.png"
+    },
+    "38809": {
+        "item_icon_path": "/handled_icons/I00177.png"
+    },
+    "38810": {
+        "item_icon_path": "/handled_icons/I00032.png"
+    },
+    "39039": {
+        "item_icon_path": "/handled_icons/W18501.png"
+    },
+    "39040": {
+        "item_icon_path": "/handled_icons/W18601.png"
+    },
+    "39041": {
+        "item_icon_path": "/handled_icons/W18701.png"
+    },
+    "39042": {
+        "item_icon_path": "/handled_icons/W28201.png"
+    },
+    "39043": {
+        "item_icon_path": "/handled_icons/W28301.png"
+    },
+    "39044": {
+        "item_icon_path": "/handled_icons/W28401.png"
+    },
+    "39045": {
+        "item_icon_path": "/handled_icons/W32701.png"
+    },
+    "39046": {
+        "item_icon_path": "/handled_icons/W42701.png"
+    },
+    "39047": {
+        "item_icon_path": "/handled_icons/W52801.png"
+    },
+    "39048": {
+        "item_icon_path": "/handled_icons/W63001.png"
+    },
+    "39049": {
+        "item_icon_path": "/handled_icons/I00065.png"
+    },
+    "39050": {
+        "item_icon_path": "/handled_icons/I00164.png"
+    },
+    "39051": {
+        "item_icon_path": "/handled_icons/I00024.png"
+    },
+    "39127": {
+        "item_icon_path": "/handled_icons/I00646.png"
+    },
+    "39128": {
+        "item_icon_path": "/handled_icons/I00647.png"
+    },
+    "39129": {
+        "item_icon_path": "/handled_icons/I00648.png"
+    },
+    "39130": {
+        "item_icon_path": "/handled_icons/I00649.png"
+    },
+    "39170": {
+        "item_icon_path": "/handled_icons/I00238.png"
+    },
+    "39171": {
+        "item_icon_path": "/handled_icons/I00197.png"
+    },
+    "39172": {
+        "item_icon_path": "/handled_icons/A10274.png"
+    },
+    "39173": {
+        "item_icon_path": "/handled_icons/A20276.png"
+    },
+    "39176": {
+        "item_icon_path": "/handled_icons/A50118.png"
+    },
+    "39177": {
+        "item_icon_path": "/handled_icons/A10275.png"
+    },
+    "39178": {
+        "item_icon_path": "/handled_icons/A20277.png"
+    },
+    "39181": {
+        "item_icon_path": "/handled_icons/A50119.png"
+    },
+    "39182": {
+        "item_icon_path": "/handled_icons/A10276.png"
+    },
+    "39183": {
+        "item_icon_path": "/handled_icons/A20278.png"
+    },
+    "39186": {
+        "item_icon_path": "/handled_icons/A50120.png"
+    },
+    "39187": {
+        "item_icon_path": "/handled_icons/A10277.png"
+    },
+    "39188": {
+        "item_icon_path": "/handled_icons/A20279.png"
+    },
+    "39191": {
+        "item_icon_path": "/handled_icons/A50121.png"
+    },
+    "39192": {
+        "item_icon_path": "/handled_icons/A10278.png"
+    },
+    "39193": {
+        "item_icon_path": "/handled_icons/A20280.png"
+    },
+    "39196": {
+        "item_icon_path": "/handled_icons/A50122.png"
+    },
+    "39197": {
+        "item_icon_path": "/handled_icons/A10279.png"
+    },
+    "39198": {
+        "item_icon_path": "/handled_icons/A20281.png"
+    },
+    "39201": {
+        "item_icon_path": "/handled_icons/A50123.png"
+    },
+    "39202": {
+        "item_icon_path": "/handled_icons/A10280.png"
+    },
+    "39203": {
+        "item_icon_path": "/handled_icons/A20282.png"
+    },
+    "39206": {
+        "item_icon_path": "/handled_icons/A50124.png"
+    },
+    "39207": {
+        "item_icon_path": "/handled_icons/A10281.png"
+    },
+    "39208": {
+        "item_icon_path": "/handled_icons/A20283.png"
+    },
+    "39211": {
+        "item_icon_path": "/handled_icons/A50125.png"
+    },
+    "39225": {
+        "item_icon_path": "/handled_icons/I00691.png"
+    },
+    "39226": {
+        "item_icon_path": "/handled_icons/I00692.png"
+    },
+    "39227": {
+        "item_icon_path": "/handled_icons/I00693.png"
+    },
+    "39228": {
+        "item_icon_path": "/handled_icons/I00694.png"
+    },
+    "39229": {
+        "item_icon_path": "/handled_icons/I00695.png"
+    },
+    "39230": {
+        "item_icon_path": "/handled_icons/I00697.png"
+    },
+    "39231": {
+        "item_icon_path": "/handled_icons/I00698.png"
+    },
+    "39232": {
+        "item_icon_path": "/handled_icons/I00700.png"
+    },
+    "39233": {
+        "item_icon_path": "/handled_icons/I00701.png"
+    },
+    "39234": {
+        "item_icon_path": "/handled_icons/I00702.png"
+    },
+    "39235": {
+        "item_icon_path": "/handled_icons/I00696.png"
+    },
+    "39236": {
+        "item_icon_path": "/handled_icons/I00699.png"
+    },
+    "39237": {
+        "item_icon_path": "/handled_icons/I00689.png"
+    },
+    "39238": {
+        "item_icon_path": "/handled_icons/I00690.png"
+    },
+    "39260": {
+        "item_icon_path": "/handled_icons/I00737.png"
+    },
+    "39261": {
+        "item_icon_path": "/handled_icons/I00738.png"
+    },
+    "39275": {
+        "item_icon_path": "/handled_icons/I00586.png"
+    },
+    "39368": {
+        "item_icon_path": "/handled_icons/I00924.png"
+    },
+    "39369": {
+        "item_icon_path": "/handled_icons/I00925.png"
+    },
+    "39370": {
+        "item_icon_path": "/handled_icons/I00926.png"
+    },
+    "39371": {
+        "item_icon_path": "/handled_icons/I00927.png"
+    },
+    "39372": {
+        "item_icon_path": "/handled_icons/I00928.png"
+    },
+    "39373": {
+        "item_icon_path": "/handled_icons/I00929.png"
+    },
+    "39374": {
+        "item_icon_path": "/handled_icons/I00930.png"
+    },
+    "39375": {
+        "item_icon_path": "/handled_icons/I00931.png"
+    },
+    "39376": {
+        "item_icon_path": "/handled_icons/I00932.png"
+    },
+    "39377": {
+        "item_icon_path": "/handled_icons/I00933.png"
+    },
+    "39378": {
+        "item_icon_path": "/handled_icons/I00934.png"
+    },
+    "39379": {
+        "item_icon_path": "/handled_icons/I00935.png"
+    },
+    "39715": {
+        "item_icon_path": "/handled_icons/A30112.png"
+    },
+    "39716": {
+        "item_icon_path": "/handled_icons/A40108.png"
+    },
+    "39717": {
+        "item_icon_path": "/handled_icons/A50103.png"
+    },
+    "39718": {
+        "item_icon_path": "/handled_icons/A30117.png"
+    },
+    "39719": {
+        "item_icon_path": "/handled_icons/A40113.png"
+    },
+    "39720": {
+        "item_icon_path": "/handled_icons/A50108.png"
+    },
+    "39721": {
+        "item_icon_path": "/handled_icons/A30114.png"
+    },
+    "39722": {
+        "item_icon_path": "/handled_icons/A40110.png"
+    },
+    "39723": {
+        "item_icon_path": "/handled_icons/A50105.png"
+    },
+    "39724": {
+        "item_icon_path": "/handled_icons/A30118.png"
+    },
+    "39725": {
+        "item_icon_path": "/handled_icons/A40114.png"
+    },
+    "39726": {
+        "item_icon_path": "/handled_icons/A50109.png"
+    },
+    "39727": {
+        "item_icon_path": "/handled_icons/A10346.png"
+    },
+    "39728": {
+        "item_icon_path": "/handled_icons/A20373.png"
+    },
+    "39729": {
+        "item_icon_path": "/handled_icons/A30152.png"
+    },
+    "39730": {
+        "item_icon_path": "/handled_icons/A40148.png"
+    },
+    "39731": {
+        "item_icon_path": "/handled_icons/A50143.png"
+    },
+    "39732": {
+        "item_icon_path": "/handled_icons/A10350.png"
+    },
+    "39733": {
+        "item_icon_path": "/handled_icons/A20375.png"
+    },
+    "39734": {
+        "item_icon_path": "/handled_icons/A30156.png"
+    },
+    "39735": {
+        "item_icon_path": "/handled_icons/A40152.png"
+    },
+    "39736": {
+        "item_icon_path": "/handled_icons/A50147.png"
+    },
+    "39737": {
+        "item_icon_path": "/handled_icons/A10351.png"
+    },
+    "39738": {
+        "item_icon_path": "/handled_icons/A20378.png"
+    },
+    "39739": {
+        "item_icon_path": "/handled_icons/A30157.png"
+    },
+    "39740": {
+        "item_icon_path": "/handled_icons/A40153.png"
+    },
+    "39741": {
+        "item_icon_path": "/handled_icons/A50148.png"
+    },
+    "39742": {
+        "item_icon_path": "/handled_icons/A10347.png"
+    },
+    "39743": {
+        "item_icon_path": "/handled_icons/A20374.png"
+    },
+    "39744": {
+        "item_icon_path": "/handled_icons/A30153.png"
+    },
+    "39745": {
+        "item_icon_path": "/handled_icons/A40149.png"
+    },
+    "39746": {
+        "item_icon_path": "/handled_icons/A50144.png"
+    },
+    "39747": {
+        "item_icon_path": "/handled_icons/A10348.png"
+    },
+    "39748": {
+        "item_icon_path": "/handled_icons/A20377.png"
+    },
+    "39749": {
+        "item_icon_path": "/handled_icons/A30154.png"
+    },
+    "39750": {
+        "item_icon_path": "/handled_icons/A40150.png"
+    },
+    "39751": {
+        "item_icon_path": "/handled_icons/A50145.png"
+    },
+    "39752": {
+        "item_icon_path": "/handled_icons/A10349.png"
+    },
+    "39753": {
+        "item_icon_path": "/handled_icons/A20376.png"
+    },
+    "39754": {
+        "item_icon_path": "/handled_icons/A30155.png"
+    },
+    "39755": {
+        "item_icon_path": "/handled_icons/A40151.png"
+    },
+    "39756": {
+        "item_icon_path": "/handled_icons/A50146.png"
+    },
+    "39757": {
+        "item_icon_path": "/handled_icons/A10352.png"
+    },
+    "39758": {
+        "item_icon_path": "/handled_icons/A20380.png"
+    },
+    "39759": {
+        "item_icon_path": "/handled_icons/A30158.png"
+    },
+    "39760": {
+        "item_icon_path": "/handled_icons/A40154.png"
+    },
+    "39761": {
+        "item_icon_path": "/handled_icons/A50149.png"
+    },
+    "39762": {
+        "item_icon_path": "/handled_icons/A10345.png"
+    },
+    "39763": {
+        "item_icon_path": "/handled_icons/A20379.png"
+    },
+    "39764": {
+        "item_icon_path": "/handled_icons/A30151.png"
+    },
+    "39765": {
+        "item_icon_path": "/handled_icons/A40147.png"
+    },
+    "39766": {
+        "item_icon_path": "/handled_icons/A50142.png"
+    },
+    "39767": {
+        "item_icon_path": "/handled_icons/W19001.png"
+    },
+    "39768": {
+        "item_icon_path": "/handled_icons/W28601.png"
+    },
+    "39769": {
+        "item_icon_path": "/handled_icons/W73501.png"
+    },
+    "39770": {
+        "item_icon_path": "/handled_icons/W81201.png"
+    },
+    "39771": {
+        "item_icon_path": "/handled_icons/W19201.png"
+    },
+    "39772": {
+        "item_icon_path": "/handled_icons/W28801.png"
+    },
+    "39773": {
+        "item_icon_path": "/handled_icons/W73701.png"
+    },
+    "39774": {
+        "item_icon_path": "/handled_icons/W81401.png"
+    },
+    "39775": {
+        "item_icon_path": "/handled_icons/W19101.png"
+    },
+    "39776": {
+        "item_icon_path": "/handled_icons/W28701.png"
+    },
+    "39777": {
+        "item_icon_path": "/handled_icons/W73601.png"
+    },
+    "39778": {
+        "item_icon_path": "/handled_icons/W91301.png"
+    },
+    "39779": {
+        "item_icon_path": "/handled_icons/W32801.png"
+    },
+    "39780": {
+        "item_icon_path": "/handled_icons/W33001.png"
+    },
+    "39781": {
+        "item_icon_path": "/handled_icons/W42801.png"
+    },
+    "39782": {
+        "item_icon_path": "/handled_icons/W43001.png"
+    },
+    "39783": {
+        "item_icon_path": "/handled_icons/W52402.png"
+    },
+    "39784": {
+        "item_icon_path": "/handled_icons/W53101.png"
+    },
+    "39785": {
+        "item_icon_path": "/handled_icons/W53703.png"
+    },
+    "39786": {
+        "item_icon_path": "/handled_icons/W53701.png"
+    },
+    "39787": {
+        "item_icon_path": "/handled_icons/W62401.png"
+    },
+    "39788": {
+        "item_icon_path": "/handled_icons/W63101.png"
+    },
+    "39789": {
+        "item_icon_path": "/handled_icons/W64003.png"
+    },
+    "39790": {
+        "item_icon_path": "/handled_icons/W64001.png"
+    },
+    "39791": {
+        "item_icon_path": "/handled_icons/I00586.png"
+    },
+    "39792": {
+        "item_icon_path": "/handled_icons/I00025.png"
+    },
+    "39793": {
+        "item_icon_path": "/handled_icons/I00626.png"
+    },
+    "39794": {
+        "item_icon_path": "/handled_icons/I00966.png"
+    },
+    "39795": {
+        "item_icon_path": "/handled_icons/A00013.png"
+    },
+    "39796": {
+        "item_icon_path": "/handled_icons/I00625.png"
+    }
+}
